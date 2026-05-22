@@ -1,35 +1,35 @@
 {
-  "lastSync": "2026-05-22T15:29:26.912526Z",
+  "lastSync": "2026-05-22T17:06:41.015801Z",
   "counts": {
-    "india": 20,
-    "us": 20,
-    "mf": 20
+    "india": 5,
+    "us": 5,
+    "mf": 5
   },
   "coverage_v2": {
     "ownership_current": {
-      "india": 17,
-      "us": 20
+      "india": 5,
+      "us": 5
     },
     "ownership_trend": {
-      "india": 17,
+      "india": 5,
       "us": 0
     },
     "valuation_context": {
-      "india": 20,
-      "us": 20
+      "india": 5,
+      "us": 5
     },
     "price_action": {
-      "india": 20,
-      "us": 20
+      "india": 5,
+      "us": 5
     },
     "earnings_surprises": {
-      "us": 20
+      "us": 5
     },
     "retail_signal": {
-      "india": 17
+      "india": 5
     },
     "promoter_activity": {
-      "india": 17
+      "india": 5
     }
   },
   "errors": {
