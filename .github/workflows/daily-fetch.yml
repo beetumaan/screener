@@ -3,14 +3,13 @@ name: Daily data fetch
 on:
   schedule:
     - cron: '0 11 * * *'   # 11:00 UTC = 4:30 PM IST / 7:00 AM EST
-  workflow_dispatch:        # manual trigger from Actions tab
+  workflow_dispatch:
     inputs:
       limit:
         description: 'Max stocks per market (leave empty for full run, use 5 for a quick test)'
         required: false
         default: ''
 
-# Prevent two runs deploying simultaneously
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -23,7 +22,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 35    # full run ~20 min; 35 gives headroom for screener.in slowness
+    timeout-minutes: 90    # bumped from 35 — phase A added more per-stock calls
     steps:
       - uses: actions/checkout@v4
 
@@ -59,19 +58,24 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add pwa/data/
-          git diff --staged --quiet && echo "No data changes" || \
-            git commit -m "data: daily sync $(date -u +%Y-%m-%d)" && git push
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "data: daily sync $(date -u +%Y-%m-%d)"
+            git push
+          fi
 
   deploy:
     needs: fetch
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main   # pull the freshly committed JSON
+          ref: main
 
       - uses: actions/configure-pages@v4
 
