@@ -1,0 +1,83 @@
+name: Daily data fetch
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 11:00 UTC = 4:30 PM IST / 7:00 AM EST
+  workflow_dispatch:        # manual trigger from Actions tab
+    inputs:
+      limit:
+        description: 'Max stocks per market (leave empty for full run, use 5 for a quick test)'
+        required: false
+        default: ''
+
+# Prevent two runs deploying simultaneously
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35    # full run ~20 min; 35 gives headroom for screener.in slowness
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch all data
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: |
+          cd scripts
+          LIMIT="${{ github.event.inputs.limit }}"
+          if [ -n "$LIMIT" ]; then
+            echo "Running with --limit $LIMIT (test mode)"
+            python fetch_data.py --limit "$LIMIT"
+          else
+            python fetch_data.py
+          fi
+
+      - name: Show sync summary
+        run: |
+          echo "=== meta.json ==="
+          cat pwa/data/meta.json
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pwa/data/
+          git diff --staged --quiet && echo "No data changes" || \
+            git commit -m "data: daily sync $(date -u +%Y-%m-%d)" && git push
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # pull the freshly committed JSON
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'pwa'
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
