@@ -195,7 +195,7 @@ def fetch_finnhub_mspr(ticker: str) -> float:
     url = (f"https://finnhub.io/api/v1/stock/insider-sentiment"
            f"?symbol={ticker}&from={from_date}&to={to_date}&token={FINNHUB_API_KEY}")
     try:
-        resp = httpx.get(url, timeout=10)
+        resp = httpx.get(url, timeout=httpx.Timeout(10.0, connect=5.0))
         data = resp.json()
         items = data.get('data', [])[-3:]
         if not items:

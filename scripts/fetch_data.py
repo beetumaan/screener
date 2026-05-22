@@ -3,6 +3,7 @@ import json
 import sys
 import math
 import time
+import concurrent.futures
 from pathlib import Path
 from datetime import datetime, timezone, date as date_cls
 from sources.india import fetch_india_stock
@@ -39,6 +40,16 @@ def log(msg):
     print(msg, flush=True)
 
 
+PER_STOCK_TIMEOUT = 90  # seconds — kills hung yfinance/screener.in calls
+
+
+def _fetch_with_timeout(fetch_fn, args, timeout=PER_STOCK_TIMEOUT):
+    """Run fetch_fn(*args) in a thread; raise TimeoutError if it exceeds timeout."""
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as ex:
+        future = ex.submit(fetch_fn, *args)
+        return future.result(timeout=timeout)
+
+
 def run_market(label, universe, fetch_fn, args_fn, limit=None):
     data, errors = [], []
     items = universe[:limit] if limit else universe
@@ -46,7 +57,7 @@ def run_market(label, universe, fetch_fn, args_fn, limit=None):
         log(f"{label} {i+1}/{len(items)}: {item.get('name', item.get('scheme_code', ''))}")
         t0 = time.time()
         try:
-            result = fetch_fn(*args_fn(item))
+            result = _fetch_with_timeout(fetch_fn, args_fn(item))
             data.append(result)
             log(f"  ✓ {time.time() - t0:.1f}s")
         except Exception as e:

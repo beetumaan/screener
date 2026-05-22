@@ -1,12 +1,12 @@
 [
   {
     "ticker": "A",
-    "name": null,
-    "livePrice": 114.7475,
+    "name": "Agilent Technologies, Inc.",
+    "livePrice": 114.06,
     "prevClose": 114.79000091552734,
     "metrics": {
-      "minMcapUS": 32.427907072,
-      "maxMcapUS": 32.427907072,
+      "minMcapUS": 32.233617408,
+      "maxMcapUS": 32.233617408,
       "positiveEPS": true,
       "minROEUS": 19.945998,
       "minROIC": 8.533,
@@ -18,9 +18,9 @@
       "minEPSGUS": -3.5999999999999996,
       "min5YSalesUS": 0.2903649355005644,
       "min5YProfitUS": 0.7695631511237755,
-      "minFCFY": 3.5524956866386814,
+      "minFCFY": 3.5739085235716903,
       "fcfPositive5Y": true,
-      "maxPEUS": 25.330572,
+      "maxPEUS": 25.178806,
       "maxPEGUS": 1.16,
       "maxBetaUS": 1.219,
       "minGM": 52.300000000000004,
@@ -33,23 +33,23 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 2.73,
-      "ret_1m": 0.29,
-      "ret_3m": -7.4,
-      "ret_6m": -20.21,
-      "ret_1y": 6.22,
-      "pct_from_52w_high": -26.71,
-      "pct_from_52w_low": 16.52,
+      "ret_1w": 2.11,
+      "ret_1m": -0.31,
+      "ret_3m": -7.95,
+      "ret_6m": -20.69,
+      "ret_1y": 5.59,
+      "pct_from_52w_high": -27.15,
+      "pct_from_52w_low": 15.82,
       "fifty_two_week_high": 156.56,
       "fifty_two_week_low": 98.48
     },
     "valuation_context": {
-      "pe_current": 25.33,
-      "pe_5y_avg": 27.79,
-      "pe_vs_avg_pct": -8.85,
-      "pb_current": 4.7,
+      "pe_current": 25.18,
+      "pe_5y_avg": 27.77,
+      "pe_vs_avg_pct": -9.33,
+      "pb_current": 4.67,
       "pb_5y_avg": 5.36,
-      "pb_vs_avg_pct": -12.39,
+      "pb_vs_avg_pct": -12.92,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -108,11 +108,11 @@
   {
     "ticker": "AAPL",
     "name": "Apple Inc.",
-    "livePrice": 309.18,
+    "livePrice": 311.02,
     "prevClose": 304.989990234375,
     "metrics": {
-      "minMcapUS": 4541.03662592,
-      "maxMcapUS": 4541.03662592,
+      "minMcapUS": 4568.076255232,
+      "maxMcapUS": 4568.076255232,
       "positiveEPS": true,
       "minROEUS": 141.47099,
       "minROIC": 26.229000000000003,
@@ -124,9 +124,9 @@
       "minEPSGUS": 21.8,
       "min5YSalesUS": 1.0836120911735136,
       "min5YProfitUS": 2.3346339037659147,
-      "minFCFY": 2.174987962797814,
+      "minFCFY": 2.162113644378817,
       "fcfPositive5Y": true,
-      "maxPEUS": 37.385727,
+      "maxPEUS": 37.60834,
       "maxPEGUS": 2.63,
       "maxBetaUS": 1.065,
       "minGM": 47.862,
@@ -139,23 +139,23 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 2.98,
-      "ret_1m": 13.18,
-      "ret_3m": 16.26,
-      "ret_6m": 15.34,
-      "ret_1y": 53.6,
+      "ret_1w": 3.59,
+      "ret_1m": 13.85,
+      "ret_3m": 16.95,
+      "ret_6m": 16.03,
+      "ret_1y": 54.51,
       "pct_from_52w_high": 0.0,
-      "pct_from_52w_low": 80.27,
-      "fifty_two_week_high": 309.18,
+      "pct_from_52w_low": 81.34,
+      "fifty_two_week_high": 311.02,
       "fifty_two_week_low": 171.51
     },
     "valuation_context": {
-      "pe_current": 37.39,
-      "pe_5y_avg": 33.6,
-      "pe_vs_avg_pct": 11.27,
-      "pb_current": 42.59,
-      "pb_5y_avg": 47.49,
-      "pb_vs_avg_pct": -10.32,
+      "pe_current": 37.61,
+      "pe_5y_avg": 33.65,
+      "pe_vs_avg_pct": 11.76,
+      "pb_current": 42.84,
+      "pb_5y_avg": 47.54,
+      "pb_vs_avg_pct": -9.89,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -214,11 +214,11 @@
   {
     "ticker": "ABBV",
     "name": "AbbVie Inc.",
-    "livePrice": 216.7521,
+    "livePrice": 217.47,
     "prevClose": 214.5,
     "metrics": {
-      "minMcapUS": 382.956077056,
-      "maxMcapUS": 382.956077056,
+      "minMcapUS": 384.224428032,
+      "maxMcapUS": 384.224428032,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 10.032,
@@ -230,9 +230,9 @@
       "minEPSGUS": -46.2,
       "min5YSalesUS": 1.0478472510587755,
       "min5YProfitUS": -18.61489891359741,
-      "minFCFY": 4.6522306518704895,
+      "minFCFY": 4.636873321994041,
       "fcfPositive5Y": true,
-      "maxPEUS": 106.25104,
+      "maxPEUS": 106.60294,
       "maxPEGUS": 0.59,
       "maxBetaUS": 0.305,
       "minGM": 72.026,
@@ -245,23 +245,23 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 3.02,
-      "ret_1m": 7.86,
-      "ret_3m": -4.76,
-      "ret_6m": -5.41,
-      "ret_1y": 23.11,
-      "pct_from_52w_high": -9.2,
-      "pct_from_52w_low": 49.84,
+      "ret_1w": 3.37,
+      "ret_1m": 8.22,
+      "ret_3m": -4.45,
+      "ret_6m": -5.1,
+      "ret_1y": 23.52,
+      "pct_from_52w_high": -8.9,
+      "pct_from_52w_low": 50.34,
       "fifty_two_week_high": 238.71,
       "fifty_two_week_low": 144.65
     },
     "valuation_context": {
-      "pe_current": 106.25,
-      "pe_5y_avg": 98.06,
-      "pe_vs_avg_pct": 8.35,
-      "pb_current": -57.54,
+      "pe_current": 106.6,
+      "pe_5y_avg": 98.13,
+      "pe_vs_avg_pct": 8.63,
+      "pb_current": -57.73,
       "pb_5y_avg": 224.26,
-      "pb_vs_avg_pct": -125.66,
+      "pb_vs_avg_pct": -125.74,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -320,11 +320,11 @@
   {
     "ticker": "ABNB",
     "name": "Airbnb, Inc.",
-    "livePrice": 132.5801,
+    "livePrice": 131.905,
     "prevClose": 134.25,
     "metrics": {
-      "minMcapUS": 78.686937088,
-      "maxMcapUS": 78.686937088,
+      "minMcapUS": 78.286266368,
+      "maxMcapUS": 78.286266368,
       "positiveEPS": true,
       "minROEUS": 32.324999999999996,
       "minROIC": 6.245,
@@ -338,7 +338,7 @@
       "min5YProfitUS": 5.813046807017352,
       "minFCFY": null,
       "fcfPositive5Y": true,
-      "maxPEUS": 32.735825,
+      "maxPEUS": 32.569134,
       "maxPEGUS": 1.21,
       "maxBetaUS": 1.208,
       "minGM": 82.913,
@@ -351,23 +351,23 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": -0.2,
-      "ret_1m": -6.55,
-      "ret_3m": 7.82,
-      "ret_6m": 15.85,
-      "ret_1y": 3.97,
-      "pct_from_52w_high": -17.87,
-      "pct_from_52w_low": 25.44,
+      "ret_1w": -0.71,
+      "ret_1m": -7.02,
+      "ret_3m": 7.27,
+      "ret_6m": 15.26,
+      "ret_1y": 3.44,
+      "pct_from_52w_high": -18.28,
+      "pct_from_52w_low": 24.8,
       "fifty_two_week_high": 161.42,
       "fifty_two_week_low": 105.69
     },
     "valuation_context": {
-      "pe_current": 32.74,
-      "pe_5y_avg": 32.31,
-      "pe_vs_avg_pct": 1.32,
-      "pb_current": 10.33,
+      "pe_current": 32.57,
+      "pe_5y_avg": 32.28,
+      "pe_vs_avg_pct": 0.9,
+      "pb_current": 10.28,
       "pb_5y_avg": 6.72,
-      "pb_vs_avg_pct": 53.73,
+      "pb_vs_avg_pct": 52.94,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -426,11 +426,11 @@
   {
     "ticker": "ABT",
     "name": "Abbott Laboratories",
-    "livePrice": 87.54,
+    "livePrice": 87.48,
     "prevClose": 87.7699966430664,
     "metrics": {
-      "minMcapUS": 152.478318592,
-      "maxMcapUS": 152.478318592,
+      "minMcapUS": 152.37382144,
+      "maxMcapUS": 152.37382144,
       "positiveEPS": true,
       "minROEUS": 12.333999599999999,
       "minROIC": 5.59,
@@ -442,9 +442,9 @@
       "minEPSGUS": -19.7,
       "min5YSalesUS": 0.30736185324995446,
       "min5YProfitUS": -1.2087341075589397,
-      "minFCFY": 4.849869849225889,
+      "minFCFY": 4.85319586403621,
       "fcfPositive5Y": true,
-      "maxPEUS": 24.52101,
+      "maxPEUS": 24.504204,
       "maxPEGUS": 1.31,
       "maxBetaUS": 0.647,
       "minGM": 56.503,
@@ -457,23 +457,23 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 3.63,
-      "ret_1m": -5.34,
-      "ret_3m": -23.59,
-      "ret_6m": -29.82,
-      "ret_1y": -32.86,
-      "pct_from_52w_high": -36.0,
-      "pct_from_52w_low": 6.03,
+      "ret_1w": 3.56,
+      "ret_1m": -5.41,
+      "ret_3m": -23.65,
+      "ret_6m": -29.87,
+      "ret_1y": -32.91,
+      "pct_from_52w_high": -36.04,
+      "pct_from_52w_low": 5.96,
       "fifty_two_week_high": 136.78,
       "fifty_two_week_low": 82.56
     },
     "valuation_context": {
-      "pe_current": 24.52,
+      "pe_current": 24.5,
       "pe_5y_avg": 27.22,
-      "pe_vs_avg_pct": -9.92,
+      "pe_vs_avg_pct": -9.98,
       "pb_current": 2.93,
       "pb_5y_avg": 4.06,
-      "pb_vs_avg_pct": -27.86,
+      "pb_vs_avg_pct": -27.91,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -510,6 +510,1596 @@
       "current": {
         "institutional": 82.85,
         "insider": 0.49,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group Ltd.",
+    "livePrice": 96.36,
+    "prevClose": 96.12999725341797,
+    "metrics": {
+      "minMcapUS": 33.667182592,
+      "maxMcapUS": 33.667182592,
+      "positiveEPS": true,
+      "minROEUS": 21.305999,
+      "minROIC": 4.5679998,
+      "minOpMargin": 25.282,
+      "maxDEUS": 0.11282,
+      "minCRUS": 0.566,
+      "minICRUS": 34.641891891891895,
+      "minRevGUS": -3.3000000000000003,
+      "minEPSGUS": 94.6,
+      "min5YSalesUS": 14.950976885096633,
+      "min5YProfitUS": 24.409493191934683,
+      "minFCFY": 18.201701265778432,
+      "fcfPositive5Y": true,
+      "maxPEUS": 7.4123077,
+      "maxPEGUS": 1.05,
+      "maxBetaUS": 0.33,
+      "minGM": 39.369,
+      "sharesFlat": true,
+      "maxSBC": 0.7670778480356587,
+      "minInstOwn": 95.063,
+      "maxShort": 2.2800000000000002,
+      "analystBuy": true,
+      "minMSPR": 75.95040466666667,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 2.53,
+      "ret_1m": -1.74,
+      "ret_3m": -2.37,
+      "ret_6m": 5.69,
+      "ret_1y": 3.78,
+      "pct_from_52w_high": -11.77,
+      "pct_from_52w_low": 13.74,
+      "fifty_two_week_high": 109.22,
+      "fifty_two_week_low": 84.72
+    },
+    "valuation_context": {
+      "pe_current": 7.41,
+      "pe_5y_avg": 7.8,
+      "pe_vs_avg_pct": -4.97,
+      "pb_current": 1.45,
+      "pb_5y_avg": 1.43,
+      "pb_vs_avg_pct": 1.4,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 2.46,
+        "actual": 2.5,
+        "surprise_pct": 1.47,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 2.57,
+        "actual": 2.98,
+        "surprise_pct": 15.83,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.25,
+        "actual": 2.77,
+        "surprise_pct": 22.87,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.3,
+        "actual": 2.58,
+        "surprise_pct": 12.21,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 95.06,
+        "insider": 2.62,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "livePrice": 177.965,
+    "prevClose": 177.8699951171875,
+    "metrics": {
+      "minMcapUS": 109.525909504,
+      "maxMcapUS": 109.525909504,
+      "positiveEPS": true,
+      "minROEUS": 24.762999999999998,
+      "minROIC": 11.162999999999998,
+      "minOpMargin": 13.819,
+      "maxDEUS": 0.25469,
+      "minCRUS": 1.336,
+      "minICRUS": 45.936199164314935,
+      "minRevGUS": 8.3,
+      "minEPSGUS": 4.0,
+      "min5YSalesUS": 2.4954913337418727,
+      "min5YProfitUS": 2.228639353800843,
+      "minFCFY": 9.928573110459181,
+      "fcfPositive5Y": true,
+      "maxPEUS": 14.587295,
+      "maxPEGUS": 1.26,
+      "maxBetaUS": 1.071,
+      "minGM": 32.026002,
+      "sharesFlat": true,
+      "maxSBC": 3.005294290783642,
+      "minInstOwn": 85.475,
+      "maxShort": 3.9,
+      "analystBuy": true,
+      "minMSPR": 44.705483333333326,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 5.42,
+      "ret_1m": -0.18,
+      "ret_3m": -10.79,
+      "ret_6m": -25.55,
+      "ret_1y": -43.23,
+      "pct_from_52w_high": -54.48,
+      "pct_from_52w_low": 11.48,
+      "fifty_two_week_high": 391.0,
+      "fifty_two_week_low": 159.64
+    },
+    "valuation_context": {
+      "pe_current": 14.59,
+      "pe_5y_avg": 17.49,
+      "pe_vs_avg_pct": -16.6,
+      "pb_current": 3.51,
+      "pb_5y_avg": 5.01,
+      "pb_vs_avg_pct": -30.02,
+      "period_years": 0.5
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Feb 2026",
+        "estimate": 2.84,
+        "actual": 2.93,
+        "surprise_pct": 3.26,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Nov 2025",
+        "estimate": 3.72,
+        "actual": 3.94,
+        "surprise_pct": 5.87,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Aug 2025",
+        "estimate": 2.97,
+        "actual": 3.03,
+        "surprise_pct": 1.97,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "May 2025",
+        "estimate": 3.32,
+        "actual": 3.49,
+        "surprise_pct": 5.03,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 85.47,
+        "insider": 0.07,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "livePrice": 244.005,
+    "prevClose": 244.10000610351562,
+    "metrics": {
+      "minMcapUS": 98.626822144,
+      "maxMcapUS": 98.626822144,
+      "positiveEPS": true,
+      "minROEUS": 58.774,
+      "minROIC": 18.905,
+      "minOpMargin": 38.762,
+      "maxDEUS": 0.5834,
+      "minCRUS": 0.912,
+      "minICRUS": 34.20912547528517,
+      "minRevGUS": 12.0,
+      "minEPSGUS": 11.1,
+      "min5YSalesUS": 6.186680031620284,
+      "min5YProfitUS": 8.435013227688803,
+      "minFCFY": 9.989169057495937,
+      "fcfPositive5Y": true,
+      "maxPEUS": 14.219406,
+      "maxPEGUS": 0.72,
+      "maxBetaUS": 1.417,
+      "minGM": 89.396006,
+      "sharesFlat": true,
+      "maxSBC": 8.170305860574697,
+      "minInstOwn": 86.273,
+      "maxShort": 4.8,
+      "analystBuy": false,
+      "minMSPR": -8.507773000000002,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": -1.45,
+      "ret_1m": 2.1,
+      "ret_3m": -1.08,
+      "ret_6m": -23.29,
+      "ret_1y": -41.06,
+      "pct_from_52w_high": -58.4,
+      "pct_from_52w_low": 8.28,
+      "fifty_two_week_high": 586.55,
+      "fifty_two_week_low": 225.35
+    },
+    "valuation_context": {
+      "pe_current": 14.22,
+      "pe_5y_avg": 16.14,
+      "pe_vs_avg_pct": -11.9,
+      "pb_current": 8.66,
+      "pb_5y_avg": 10.96,
+      "pb_vs_avg_pct": -20.94,
+      "period_years": 0.5
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Feb 2026",
+        "estimate": 5.87,
+        "actual": 6.06,
+        "surprise_pct": 3.18,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Nov 2025",
+        "estimate": 5.4,
+        "actual": 5.5,
+        "surprise_pct": 1.9,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Aug 2025",
+        "estimate": 5.18,
+        "actual": 5.31,
+        "surprise_pct": 2.48,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "May 2025",
+        "estimate": 4.97,
+        "actual": 5.06,
+        "surprise_pct": 1.71,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 86.27,
+        "insider": 0.22,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices, Inc.",
+    "livePrice": 397.37,
+    "prevClose": 384.2099914550781,
+    "metrics": {
+      "minMcapUS": 193.55377664,
+      "maxMcapUS": 193.55377664,
+      "positiveEPS": true,
+      "minROEUS": 9.639000000000001,
+      "minROIC": 5.4899998,
+      "minOpMargin": 38.076,
+      "maxDEUS": 0.2581,
+      "minCRUS": 1.752,
+      "minICRUS": 9.536277681954953,
+      "minRevGUS": 37.2,
+      "minEPSGUS": 110.5,
+      "min5YSalesUS": -1.7128315352866519,
+      "min5YProfitUS": -3.776238361402584,
+      "minFCFY": 2.210574277740944,
+      "fcfPositive5Y": true,
+      "maxPEUS": 59.132442,
+      "maxPEGUS": 1.06,
+      "maxBetaUS": 1.194,
+      "minGM": 64.491,
+      "sharesFlat": true,
+      "maxSBC": 2.9180449171652203,
+      "minInstOwn": 93.676,
+      "maxShort": 2.4899999999999998,
+      "analystBuy": true,
+      "minMSPR": 3.0014780666666674,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": -4.82,
+      "ret_1m": -1.61,
+      "ret_3m": 12.24,
+      "ret_6m": 72.27,
+      "ret_1y": 81.55,
+      "pct_from_52w_high": -8.1,
+      "pct_from_52w_low": 145.1,
+      "fifty_two_week_high": 432.39,
+      "fifty_two_week_low": 162.13
+    },
+    "valuation_context": {
+      "pe_current": 59.13,
+      "pe_5y_avg": 63.52,
+      "pe_vs_avg_pct": -6.91,
+      "pb_current": 5.74,
+      "pb_5y_avg": 4.18,
+      "pb_vs_avg_pct": 37.23,
+      "period_years": 0.3
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Apr 2026",
+        "estimate": 2.91,
+        "actual": 3.09,
+        "surprise_pct": 6.22,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Jan 2026",
+        "estimate": 2.31,
+        "actual": 2.46,
+        "surprise_pct": 6.55,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Oct 2025",
+        "estimate": 2.23,
+        "actual": 2.26,
+        "surprise_pct": 1.13,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Jul 2025",
+        "estimate": 1.95,
+        "actual": 2.05,
+        "surprise_pct": 5.33,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 93.68,
+        "insider": 0.24,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer-Daniels-Midland Company",
+    "livePrice": 77.645,
+    "prevClose": 77.12000274658203,
+    "metrics": {
+      "minMcapUS": 37.421510656,
+      "maxMcapUS": 37.421510656,
+      "positiveEPS": true,
+      "minROEUS": 4.7659997,
+      "minROIC": 1.669,
+      "minOpMargin": 1.274,
+      "maxDEUS": 0.46128,
+      "minCRUS": 1.311,
+      "minICRUS": 3.0506535947712417,
+      "minRevGUS": 1.6,
+      "minEPSGUS": 0.8999999999999999,
+      "min5YSalesUS": -4.595589340348505,
+      "min5YProfitUS": -24.312213177915233,
+      "minFCFY": 11.234180358579268,
+      "fcfPositive5Y": true,
+      "maxPEUS": 34.662945,
+      "maxPEGUS": 2.45,
+      "maxBetaUS": 0.578,
+      "minGM": 6.2979996,
+      "sharesFlat": true,
+      "maxSBC": 0.10340230973352105,
+      "minInstOwn": 87.313,
+      "maxShort": 3.53,
+      "analystBuy": false,
+      "minMSPR": -2.160390666666668,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": -2.79,
+      "ret_1m": 11.6,
+      "ret_3m": 15.46,
+      "ret_6m": 35.23,
+      "ret_1y": 65.82,
+      "pct_from_52w_high": -5.71,
+      "pct_from_52w_low": 93.62,
+      "fifty_two_week_high": 82.35,
+      "fifty_two_week_low": 40.1
+    },
+    "valuation_context": {
+      "pe_current": 34.66,
+      "pe_5y_avg": 32.08,
+      "pe_vs_avg_pct": 8.05,
+      "pb_current": 1.64,
+      "pb_5y_avg": 1.33,
+      "pb_vs_avg_pct": 23.4,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 0.66,
+        "actual": 0.71,
+        "surprise_pct": 7.8,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 0.8,
+        "actual": 0.87,
+        "surprise_pct": 9.17,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 0.85,
+        "actual": 0.92,
+        "surprise_pct": 7.91,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 0.8,
+        "actual": 0.93,
+        "surprise_pct": 16.82,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 87.31,
+        "insider": 0.66,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing, Inc.",
+    "livePrice": 223.43,
+    "prevClose": 220.0800018310547,
+    "metrics": {
+      "minMcapUS": 89.31262464,
+      "maxMcapUS": 89.31262464,
+      "positiveEPS": true,
+      "minROEUS": 71.208,
+      "minROIC": 5.949,
+      "minOpMargin": 30.184,
+      "maxDEUS": 0.69259,
+      "minCRUS": 1.043,
+      "minICRUS": 12.647510418951525,
+      "minRevGUS": 7.000000000000001,
+      "minEPSGUS": 10.5,
+      "min5YSalesUS": 4.501033333892135,
+      "min5YProfitUS": 6.7071784891825414,
+      "minFCFY": 4.918341631662971,
+      "fcfPositive5Y": true,
+      "maxPEUS": 20.84235,
+      "maxPEGUS": 2.57,
+      "maxBetaUS": 0.841,
+      "minGM": 48.497,
+      "sharesFlat": true,
+      "maxSBC": 1.2942040474881935,
+      "minInstOwn": 90.617996,
+      "maxShort": 3.83,
+      "analystBuy": false,
+      "minMSPR": -45.98910533333333,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 4.16,
+      "ret_1m": 12.53,
+      "ret_3m": 9.49,
+      "ret_6m": -9.46,
+      "ret_1y": -29.01,
+      "pct_from_52w_high": -29.92,
+      "pct_from_52w_low": 18.34,
+      "fifty_two_week_high": 318.79,
+      "fifty_two_week_low": 188.79
+    },
+    "valuation_context": {
+      "pe_current": 20.84,
+      "pe_5y_avg": 20.71,
+      "pe_vs_avg_pct": 0.64,
+      "pb_current": 14.1,
+      "pb_5y_avg": 16.81,
+      "pb_vs_avg_pct": -16.15,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 3.3,
+        "actual": 3.37,
+        "surprise_pct": 2.26,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 2.57,
+        "actual": 2.62,
+        "surprise_pct": 2.0,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.44,
+        "actual": 2.49,
+        "surprise_pct": 1.94,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.23,
+        "actual": 2.26,
+        "surprise_pct": 1.5,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 90.62,
+        "insider": 0.15,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "livePrice": 239.57,
+    "prevClose": 240.19000244140625,
+    "metrics": {
+      "minMcapUS": 50.584068096,
+      "maxMcapUS": 50.584068096,
+      "positiveEPS": true,
+      "minROEUS": 39.675,
+      "minROIC": 9.6999995,
+      "minOpMargin": 27.236,
+      "maxDEUS": 0.8978700000000001,
+      "minCRUS": 0.851,
+      "minICRUS": null,
+      "minRevGUS": 19.400000000000002,
+      "minEPSGUS": 6.3,
+      "min5YSalesUS": 7.561793524083837,
+      "min5YProfitUS": 6.432262714193215,
+      "minFCFY": 4.697131111500866,
+      "fcfPositive5Y": true,
+      "maxPEUS": 45.719467,
+      "maxPEGUS": 0.95,
+      "maxBetaUS": 1.322,
+      "minGM": 92.326,
+      "sharesFlat": true,
+      "maxSBC": 10.935331668054399,
+      "minInstOwn": 97.410005,
+      "maxShort": 2.73,
+      "analystBuy": true,
+      "minMSPR": 54.672856,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 1.25,
+      "ret_1m": 3.27,
+      "ret_3m": 9.57,
+      "ret_6m": -17.73,
+      "ret_1y": -18.22,
+      "pct_from_52w_high": -26.69,
+      "pct_from_52w_low": 19.83,
+      "fifty_two_week_high": 326.79,
+      "fifty_two_week_low": 199.93
+    },
+    "valuation_context": {
+      "pe_current": 45.72,
+      "pe_5y_avg": 49.39,
+      "pe_vs_avg_pct": -7.43,
+      "pb_current": 16.68,
+      "pb_5y_avg": 21.8,
+      "pb_vs_avg_pct": -23.49,
+      "period_years": 0.6
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Jan 2026",
+        "estimate": 2.64,
+        "actual": 2.85,
+        "surprise_pct": 7.81,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Oct 2025",
+        "estimate": 2.5,
+        "actual": 2.67,
+        "surprise_pct": 6.89,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Jul 2025",
+        "estimate": 2.45,
+        "actual": 2.62,
+        "surprise_pct": 7.01,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Apr 2025",
+        "estimate": 2.15,
+        "actual": 2.29,
+        "surprise_pct": 6.67,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 97.41,
+        "insider": 0.21,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren Corporation",
+    "livePrice": 110.06,
+    "prevClose": 109.83999633789062,
+    "metrics": {
+      "minMcapUS": 30.459281408,
+      "maxMcapUS": 30.459281408,
+      "positiveEPS": true,
+      "minROEUS": 11.746999599999999,
+      "minROIC": 3.086,
+      "minOpMargin": 27.786,
+      "maxDEUS": 1.55674,
+      "minCRUS": 0.622,
+      "minICRUS": 3.0579896907216493,
+      "minRevGUS": 3.6999999999999997,
+      "minEPSGUS": 19.6,
+      "min5YSalesUS": 2.032092162361865,
+      "min5YProfitUS": 6.275074656173429,
+      "minFCFY": -2.6954017365109864,
+      "fcfPositive5Y": false,
+      "maxPEUS": 19.794964,
+      "maxPEGUS": 2.55,
+      "maxBetaUS": 0.511,
+      "minGM": 50.451,
+      "sharesFlat": true,
+      "maxSBC": 0.31821797931583135,
+      "minInstOwn": 86.471003,
+      "maxShort": 3.94,
+      "analystBuy": true,
+      "minMSPR": -36.80479666666667,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 3.48,
+      "ret_1m": -1.78,
+      "ret_3m": -0.32,
+      "ret_6m": 8.37,
+      "ret_1y": 17.35,
+      "pct_from_52w_high": -3.73,
+      "pct_from_52w_low": 66.78,
+      "fifty_two_week_high": 114.32,
+      "fifty_two_week_low": 65.99
+    },
+    "valuation_context": {
+      "pe_current": 19.79,
+      "pe_5y_avg": 19.88,
+      "pe_vs_avg_pct": -0.43,
+      "pb_current": 2.25,
+      "pb_5y_avg": 2.23,
+      "pb_vs_avg_pct": 0.74,
+      "period_years": 0.7
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 1.17,
+        "actual": 1.28,
+        "surprise_pct": 9.09,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 0.69,
+        "actual": 0.92,
+        "surprise_pct": 32.65,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.12,
+        "actual": 2.35,
+        "surprise_pct": 10.95,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 0.99,
+        "actual": 1.01,
+        "surprise_pct": 1.71,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 86.47,
+        "insider": 0.3,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power Company, Inc.",
+    "livePrice": 130.0,
+    "prevClose": 129.61000061035156,
+    "metrics": {
+      "minMcapUS": 70.733651968,
+      "maxMcapUS": 70.733651968,
+      "positiveEPS": true,
+      "minROEUS": 12.584999999999999,
+      "minROIC": 3.1689998,
+      "minOpMargin": 23.738001,
+      "maxDEUS": 1.5709899999999999,
+      "minCRUS": 0.526,
+      "minICRUS": 2.8381046396841065,
+      "minRevGUS": 10.2,
+      "minEPSGUS": 6.7,
+      "min5YSalesUS": 2.1803762592908837,
+      "min5YProfitUS": 9.184139757766419,
+      "minFCFY": -2.3171431905445594,
+      "fcfPositive5Y": false,
+      "maxPEUS": 19.202364,
+      "maxPEGUS": 2.36,
+      "maxBetaUS": 0.552,
+      "minGM": 47.243,
+      "sharesFlat": true,
+      "maxSBC": null,
+      "minInstOwn": 82.348,
+      "maxShort": 3.4000000000000004,
+      "analystBuy": true,
+      "minMSPR": -3.0424956666666674,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 3.88,
+      "ret_1m": -3.06,
+      "ret_3m": -0.82,
+      "ret_6m": 8.44,
+      "ret_1y": 30.3,
+      "pct_from_52w_high": -4.52,
+      "pct_from_52w_low": 60.16,
+      "fifty_two_week_high": 136.16,
+      "fifty_two_week_low": 81.17
+    },
+    "valuation_context": {
+      "pe_current": 19.2,
+      "pe_5y_avg": 16.96,
+      "pe_vs_avg_pct": 13.22,
+      "pb_current": 2.22,
+      "pb_5y_avg": 2.13,
+      "pb_vs_avg_pct": 4.38,
+      "period_years": 0.7
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 1.57,
+        "actual": 1.64,
+        "surprise_pct": 4.61,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.15,
+        "actual": 1.19,
+        "surprise_pct": 3.6,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.81,
+        "actual": 1.8,
+        "surprise_pct": -0.28,
+        "verdict": "meet"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.27,
+        "actual": 1.43,
+        "surprise_pct": 12.83,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 82.35,
+        "insider": 0.02,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AES",
+    "name": "The AES Corporation",
+    "livePrice": 14.6762,
+    "prevClose": 14.6899995803833,
+    "metrics": {
+      "minMcapUS": 10.466445312,
+      "maxMcapUS": 10.466445312,
+      "positiveEPS": true,
+      "minROEUS": 5.2600004,
+      "minROIC": 2.7139999,
+      "minOpMargin": 18.742001,
+      "maxDEUS": 2.5960300000000003,
+      "minCRUS": 0.73,
+      "minICRUS": 1.0533049040511726,
+      "minRevGUS": 8.7,
+      "minEPSGUS": 951.0999999999999,
+      "min5YSalesUS": -0.6162511926878333,
+      "min5YProfitUS": null,
+      "minFCFY": -15.506697370684163,
+      "fcfPositive5Y": false,
+      "maxPEUS": 7.643854,
+      "maxPEGUS": 0.81,
+      "maxBetaUS": 0.957,
+      "minGM": 19.299999,
+      "sharesFlat": true,
+      "maxSBC": null,
+      "minInstOwn": 91.820997,
+      "maxShort": 3.04,
+      "analystBuy": false,
+      "minMSPR": 72.86686,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 1.43,
+      "ret_1m": 2.46,
+      "ret_3m": -8.63,
+      "ret_6m": 9.17,
+      "ret_1y": 52.33,
+      "pct_from_52w_high": -25.2,
+      "pct_from_52w_low": 60.28,
+      "fifty_two_week_high": 19.62,
+      "fifty_two_week_low": 9.16
+    },
+    "valuation_context": {
+      "pe_current": 7.64,
+      "pe_5y_avg": 9.18,
+      "pe_vs_avg_pct": -16.73,
+      "pb_current": 2.37,
+      "pb_5y_avg": 2.51,
+      "pb_vs_avg_pct": -5.66,
+      "period_years": 0.7
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 0.37,
+        "actual": 0.77,
+        "surprise_pct": 108.27,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 0.61,
+        "actual": 0.81,
+        "surprise_pct": 33.04,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 0.77,
+        "actual": 0.75,
+        "surprise_pct": -2.1,
+        "verdict": "miss"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 0.4,
+        "actual": 0.51,
+        "surprise_pct": 28.96,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 91.82,
+        "insider": 0.58,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac Incorporated",
+    "livePrice": 117.7925,
+    "prevClose": 117.80999755859375,
+    "metrics": {
+      "minMcapUS": 59.95460608,
+      "maxMcapUS": 59.95460608,
+      "positiveEPS": true,
+      "minROEUS": 16.469,
+      "minROIC": 3.088,
+      "minOpMargin": 29.567,
+      "maxDEUS": 0.48276,
+      "minCRUS": 0.935,
+      "minICRUS": 21.604545454545455,
+      "minRevGUS": 27.900000000000002,
+      "minEPSGUS": 3860.0,
+      "min5YSalesUS": -1.9502180147561,
+      "min5YProfitUS": -3.7682927807926814,
+      "minFCFY": null,
+      "fcfPositive5Y": true,
+      "maxPEUS": 13.462001,
+      "maxPEGUS": 1.18,
+      "maxBetaUS": 0.619,
+      "minGM": 50.04999599999999,
+      "sharesFlat": true,
+      "maxSBC": null,
+      "minInstOwn": 60.005003,
+      "maxShort": 2.08,
+      "analystBuy": false,
+      "minMSPR": -91.58985333333334,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 1.36,
+      "ret_1m": 2.85,
+      "ret_3m": 5.39,
+      "ret_6m": 8.8,
+      "ret_1y": 16.19,
+      "pct_from_52w_high": -0.23,
+      "pct_from_52w_low": 41.49,
+      "fifty_two_week_high": 118.06,
+      "fifty_two_week_low": 83.25
+    },
+    "valuation_context": {
+      "pe_current": 13.46,
+      "pe_5y_avg": 14.79,
+      "pe_vs_avg_pct": -8.98,
+      "pb_current": 2.01,
+      "pb_5y_avg": 1.95,
+      "pb_vs_avg_pct": 2.93,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 1.8,
+        "actual": 1.75,
+        "surprise_pct": -2.55,
+        "verdict": "miss"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.69,
+        "actual": 1.57,
+        "surprise_pct": -7.34,
+        "verdict": "miss"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.78,
+        "actual": 2.49,
+        "surprise_pct": 40.16,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.71,
+        "actual": 1.78,
+        "surprise_pct": 4.35,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 60.01,
+        "insider": 10.92,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group, Inc.",
+    "livePrice": 77.93,
+    "prevClose": 78.62000274658203,
+    "metrics": {
+      "minMcapUS": 41.318969344,
+      "maxMcapUS": 41.318969344,
+      "positiveEPS": true,
+      "minROEUS": 7.722999999999999,
+      "minROIC": 1.8849999999999998,
+      "minOpMargin": 18.620001,
+      "maxDEUS": 0.22646999999999998,
+      "minCRUS": 0.611,
+      "minICRUS": 10.795454545454545,
+      "minRevGUS": 1.4000000000000001,
+      "minEPSGUS": 21.6,
+      "min5YSalesUS": -2.2333321637681647,
+      "min5YProfitUS": -21.257257024385535,
+      "minFCFY": null,
+      "fcfPositive5Y": true,
+      "maxPEUS": 13.720071,
+      "maxPEGUS": 0.64,
+      "maxBetaUS": 0.541,
+      "minGM": 35.534,
+      "sharesFlat": true,
+      "maxSBC": null,
+      "minInstOwn": 97.67,
+      "maxShort": 1.49,
+      "analystBuy": true,
+      "minMSPR": -2.1606330000000007,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 2.39,
+      "ret_1m": 2.1,
+      "ret_3m": -1.99,
+      "ret_6m": 4.03,
+      "ret_1y": -3.57,
+      "pct_from_52w_high": -9.47,
+      "pct_from_52w_low": 15.38,
+      "fifty_two_week_high": 86.08,
+      "fifty_two_week_low": 67.54
+    },
+    "valuation_context": {
+      "pe_current": 13.72,
+      "pe_5y_avg": 13.87,
+      "pe_vs_avg_pct": -1.08,
+      "pb_current": 1.03,
+      "pb_5y_avg": 1.02,
+      "pb_vs_avg_pct": 0.77,
+      "period_years": 0.7
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 1.88,
+        "actual": 2.11,
+        "surprise_pct": 12.34,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.9,
+        "actual": 1.96,
+        "surprise_pct": 3.06,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.71,
+        "actual": 2.2,
+        "surprise_pct": 28.5,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.6,
+        "actual": 1.81,
+        "surprise_pct": 13.25,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 97.67,
+        "insider": 0.59,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant, Inc.",
+    "livePrice": 255.47,
+    "prevClose": 255.6999969482422,
+    "metrics": {
+      "minMcapUS": 12.657934336,
+      "maxMcapUS": 12.657934336,
+      "positiveEPS": true,
+      "minROEUS": 18.016,
+      "minROIC": 2.4360001,
+      "minOpMargin": 10.6400006,
+      "maxDEUS": 0.3761,
+      "minCRUS": 0.386,
+      "minICRUS": 10.912488605287146,
+      "minRevGUS": 11.3,
+      "minEPSGUS": 91.2,
+      "min5YSalesUS": 4.683581504915102,
+      "min5YProfitUS": 25.83532062917704,
+      "minFCFY": 12.627652803143757,
+      "fcfPositive5Y": true,
+      "maxPEUS": 13.094311,
+      "maxPEGUS": 2.16,
+      "maxBetaUS": 0.556,
+      "minGM": 12.745000000000001,
+      "sharesFlat": true,
+      "maxSBC": 0.668784092771357,
+      "minInstOwn": 97.62000400000001,
+      "maxShort": 2.4699999999999998,
+      "analystBuy": true,
+      "minMSPR": -54.35663233333333,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 0.34,
+      "ret_1m": 10.85,
+      "ret_3m": 16.96,
+      "ret_6m": 14.64,
+      "ret_1y": 34.7,
+      "pct_from_52w_high": -1.05,
+      "pct_from_52w_low": 62.66,
+      "fifty_two_week_high": 258.17,
+      "fifty_two_week_low": 157.05
+    },
+    "valuation_context": {
+      "pe_current": 13.09,
+      "pe_5y_avg": 12.96,
+      "pe_vs_avg_pct": 1.04,
+      "pb_current": 2.16,
+      "pb_5y_avg": 1.97,
+      "pb_vs_avg_pct": 9.75,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 5.33,
+        "actual": 5.95,
+        "surprise_pct": 11.71,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 5.5,
+        "actual": 5.61,
+        "surprise_pct": 1.94,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 4.28,
+        "actual": 5.73,
+        "surprise_pct": 34.03,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 4.45,
+        "actual": 5.1,
+        "surprise_pct": 14.51,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 97.62,
+        "insider": 0.71,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "livePrice": 203.81,
+    "prevClose": 207.41000366210938,
+    "metrics": {
+      "minMcapUS": 52.367347712,
+      "maxMcapUS": 52.367347712,
+      "positiveEPS": true,
+      "minROEUS": 7.007,
+      "minROIC": 2.2800000000000002,
+      "minOpMargin": 28.402,
+      "maxDEUS": 0.5618,
+      "minCRUS": 1.063,
+      "minICRUS": 3.928012519561815,
+      "minRevGUS": 34.599999999999994,
+      "minEPSGUS": 16.2,
+      "min5YSalesUS": 10.272113283636287,
+      "min5YProfitUS": 6.041897092555626,
+      "minFCFY": 3.408612576326768,
+      "fcfPositive5Y": true,
+      "maxPEUS": 32.978966,
+      "maxPEGUS": 0.87,
+      "maxBetaUS": 0.545,
+      "minGM": 42.929,
+      "sharesFlat": false,
+      "maxSBC": 0.35145603213312293,
+      "minInstOwn": 94.434,
+      "maxShort": 2.35,
+      "analystBuy": true,
+      "minMSPR": 78.69754166666667,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": 1.93,
+      "ret_1m": -7.09,
+      "ret_3m": -4.62,
+      "ret_6m": -17.59,
+      "ret_1y": -39.02,
+      "pct_from_52w_high": -40.98,
+      "pct_from_52w_low": 6.15,
+      "fifty_two_week_high": 345.35,
+      "fifty_two_week_low": 192.0
+    },
+    "valuation_context": {
+      "pe_current": 32.98,
+      "pe_5y_avg": 36.78,
+      "pe_vs_avg_pct": -10.33,
+      "pb_current": 2.2,
+      "pb_5y_avg": 2.95,
+      "pb_vs_avg_pct": -25.35,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 4.43,
+        "actual": 4.47,
+        "surprise_pct": 0.98,
+        "verdict": "meet"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 2.35,
+        "actual": 2.38,
+        "surprise_pct": 1.4,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.54,
+        "actual": 2.32,
+        "surprise_pct": -8.54,
+        "verdict": "miss"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.36,
+        "actual": 2.33,
+        "surprise_pct": -1.21,
+        "verdict": "miss"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 94.43,
+        "insider": 0.87,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "trend_qoq": {
+        "institutional": null,
+        "insider": null,
+        "promoter": null,
+        "fii": null,
+        "dii": null,
+        "public": null
+      },
+      "as_of": null,
+      "trend_reason": "insufficient_history"
+    },
+    "retail_signal": null,
+    "promoter_activity": null
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies, Inc.",
+    "livePrice": 146.86,
+    "prevClose": 146.24000549316406,
+    "metrics": {
+      "minMcapUS": 21.351307264,
+      "maxMcapUS": 21.351307264,
+      "positiveEPS": true,
+      "minROEUS": 9.1680005,
+      "minROIC": 3.3930000000000002,
+      "minOpMargin": 10.610999999999999,
+      "maxDEUS": 1.19534,
+      "minCRUS": 2.057,
+      "minICRUS": 20.584674404239408,
+      "minRevGUS": 5.800000000000001,
+      "minEPSGUS": -13.4,
+      "min5YSalesUS": 3.075954684879534,
+      "min5YProfitUS": -2.899431363764604,
+      "minFCFY": 3.2750453700744417,
+      "fcfPositive5Y": true,
+      "maxPEUS": 49.78305,
+      "maxPEGUS": 1.67,
+      "maxBetaUS": 0.454,
+      "minGM": 58.284000000000006,
+      "sharesFlat": true,
+      "maxSBC": 10.916893902938922,
+      "minInstOwn": 110.93599999999999,
+      "maxShort": 12.73,
+      "analystBuy": true,
+      "minMSPR": 24.493392,
+      "excludeChina": true
+    },
+    "price_action": {
+      "ret_1w": -2.66,
+      "ret_1m": 52.69,
+      "ret_3m": 48.7,
+      "ret_6m": 69.74,
+      "ret_1y": 92.17,
+      "pct_from_52w_high": -8.86,
+      "pct_from_52w_low": 115.31,
+      "fifty_two_week_high": 161.14,
+      "fifty_two_week_low": 68.21
+    },
+    "valuation_context": {
+      "pe_current": 49.78,
+      "pe_5y_avg": 36.44,
+      "pe_vs_avg_pct": 36.62,
+      "pb_current": 4.35,
+      "pb_5y_avg": 2.99,
+      "pb_vs_avg_pct": 45.64,
+      "period_years": 0.4
+    },
+    "earnings_surprises": [
+      {
+        "quarter": "Q1 2026",
+        "estimate": 1.6,
+        "actual": 1.61,
+        "surprise_pct": 0.35,
+        "verdict": "meet"
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.75,
+        "actual": 1.84,
+        "surprise_pct": 5.12,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.64,
+        "actual": 1.86,
+        "surprise_pct": 13.71,
+        "verdict": "beat"
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.53,
+        "actual": 1.73,
+        "surprise_pct": 13.18,
+        "verdict": "beat"
+      }
+    ],
+    "ownership": {
+      "current": {
+        "institutional": 110.94,
+        "insider": 2.11,
         "promoter": null,
         "fii": null,
         "dii": null,

@@ -105,7 +105,7 @@ def scrape_screener_in(slug: str) -> dict:
             resp = httpx.get(
                 url,
                 headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
-                timeout=20,
+                timeout=httpx.Timeout(20.0, connect=8.0),
             )
             if resp.status_code == 200:
                 if 'captcha' in resp.text.lower():
@@ -297,10 +297,12 @@ def scrape_screener_in(slug: str) -> dict:
     except Exception as e:
         print(f"  [screener.in] {slug} → cash flow parse error: {e}")
 
-    # --- Current ratio: not reliably on screener.in page; set to None ---
+    # --- Current ratio: screener.in doesn't expose it reliably in HTML,
+    # but yfinance has it in info.get('currentRatio') — populated at fetch time.
+    # Leave as None here; fetch_india_stock will fill from yfinance info.
     result['current_ratio'] = None
 
-    for key in ('roe', 'debt_to_equity', 'current_ratio', 'interest_coverage',
+    for key in ('roe', 'debt_to_equity', 'interest_coverage',
                 'revenue_growth_yoy', 'eps_growth_yoy', 'eps_growth_qoq',
                 'sales_5y_cagr', 'profit_5y_cagr'):
         if result.get(key) is None:
@@ -351,7 +353,7 @@ def scrape_shareholding_pattern(slug: str) -> dict | None:
                 resp = httpx.get(
                     url,
                     headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
-                    timeout=20,
+                    timeout=httpx.Timeout(20.0, connect=8.0),
                 )
                 if resp.status_code == 200 and 'captcha' not in resp.text.lower():
                     html = resp.text
@@ -446,16 +448,15 @@ def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
     t = yf.Ticker(yf_symbol)
     info = t.info
 
-    # screener_slug may be a human-readable slug (e.g. "reliance-industries") or
-    # a stock symbol (e.g. "RELIANCE"). The scraper tries both URL formats.
-    fundamentals = scrape_screener_in(screener_slug)
+    # screener.in uses NSE ticker symbols as URL slugs, not human-readable names.
+    # Go directly to the ticker symbol — eliminates the guaranteed-404 first attempt.
+    ticker_symbol = yf_symbol.replace('.NS', '').replace('.BO', '').upper()
+    fundamentals = scrape_screener_in(ticker_symbol)
 
-    # If slug-based URL failed (returned {}), retry with the raw ticker symbol
-    if not fundamentals:
-        ticker_symbol = yf_symbol.replace('.NS', '').replace('.BO', '').upper()
-        if ticker_symbol.upper() != screener_slug.upper():
-            print(f"  [india] retrying screener.in with symbol: {ticker_symbol}")
-            fundamentals = scrape_screener_in(ticker_symbol)
+    # Fallback to human-readable slug only if ticker-based URL also failed
+    if not fundamentals and screener_slug.upper() != ticker_symbol:
+        print(f"  [india] retrying screener.in with slug: {screener_slug}")
+        fundamentals = scrape_screener_in(screener_slug)
 
     # -----------------------------------------------------------------------
     # V2: prevClose
@@ -505,12 +506,10 @@ def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
     retail_signal = None
     promoter_activity = None
     try:
-        # Try the screener_slug first, then the raw ticker symbol
-        ownership_data = scrape_shareholding_pattern(screener_slug)
-        if not ownership_data:
-            ticker_symbol = yf_symbol.replace('.NS', '').replace('.BO', '').upper()
-            if ticker_symbol.upper() != screener_slug.upper():
-                ownership_data = scrape_shareholding_pattern(ticker_symbol)
+        # Go directly to NSE ticker symbol (same fix as fundamentals scraping)
+        ownership_data = scrape_shareholding_pattern(ticker_symbol)
+        if not ownership_data and screener_slug.upper() != ticker_symbol:
+            ownership_data = scrape_shareholding_pattern(screener_slug)
 
         if ownership_data and ownership_data.get('quarters'):
             quarters = ownership_data['quarters']
@@ -568,7 +567,7 @@ def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
             'minROE': fundamentals.get('roe'),
             'onlyProfitable': (info.get('trailingEps') or 0) > 0,
             'maxDE': fundamentals.get('debt_to_equity'),
-            'minCR': fundamentals.get('current_ratio'),
+            'minCR': fundamentals.get('current_ratio') or info.get('currentRatio'),
             'minICR': fundamentals.get('interest_coverage'),
             'minRevG': fundamentals.get('revenue_growth_yoy'),
             'minEPSG': fundamentals.get('eps_growth_yoy'),
