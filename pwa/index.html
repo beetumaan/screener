@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Screener · Personal</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <div>
+      <div class="brand">Screener<em style="font-style: normal; color: var(--accent);">.</em></div>
+      <div class="brand-sub">PERSONAL · v1.0</div>
+    </div>
+    <div class="market-status">
+      <div class="eod-indicator">
+        <span class="eod-dot"></span>
+        <span>END OF SESSION</span>
+      </div>
+      <div class="last-sync" id="lastSync">synced 3h ago</div>
+    </div>
+  </div>
+  <div class="context-bar">
+    <span class="context-label" id="contextLabel">India equities · scan</span>
+    <span id="contextMeta">170 in universe</span>
+  </div>
+</header>
+
+<section class="watchlist-section" id="watchlistSection">
+  <div class="section-title" style="margin-bottom: 10px;">
+    <span>★ Watchlist</span>
+    <span class="eod-tag"><span class="eod-dot"></span>EOD · today's close</span>
+  </div>
+  <div id="watchlistGrid"></div>
+</section>
+
+<div class="view active" id="view-scan">
+  <section class="section">
+    <div class="summary">
+      <div class="stat">
+        <div class="stat-label">Universe</div>
+        <div class="stat-value" id="statUniverse">170</div>
+        <div class="stat-sub">stocks scanned</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Passed</div>
+        <div class="stat-value pass" id="statPassed">3</div>
+        <div class="stat-sub">≥ 80% filters</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Watch</div>
+        <div class="stat-value" id="statWatch" style="color: var(--warn);">7</div>
+        <div class="stat-sub">≥ 60% filters</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-title">
+      <span>Filters</span>
+      <span class="count" id="filterCount">— active</span>
+    </div>
+    <div id="filterContent"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-title">
+      <span>Results</span>
+      <span class="count" id="resultsCount">—</span>
+    </div>
+    <div class="sort-bar">
+      <button class="sort-chip active" data-sort="score">SCORE ▾</button>
+      <button class="sort-chip" data-sort="alpha">A–Z</button>
+      <button class="sort-chip" data-sort="dip">52W DIP</button>
+      <button class="sort-chip" data-sort="pe">P/E</button>
+    </div>
+    <div class="stock-list" id="stockList"></div>
+  </section>
+</div>
+
+<div class="view" id="view-analyze">
+  <section class="section">
+    <div class="analyzer-mode-toggle">
+      <button class="analyzer-mode-btn active" data-amode="single">Single stock</button>
+      <button class="analyzer-mode-btn" data-amode="compare">Compare 2-3</button>
+    </div>
+
+    <div class="dropdown-wrap">
+      <div class="dropdown">
+        <div class="dropdown-label">Market</div>
+        <div class="dropdown-input" id="marketSelect">
+          <span id="marketSelectText" class="dropdown-placeholder">Choose market</span>
+          <span style="color: var(--text-faint);">▾</span>
+        </div>
+      </div>
+      <div class="dropdown" id="stockPickerWrap" style="display:none;">
+        <div class="dropdown-label" id="stockPickerLabel">Stock</div>
+        <div class="dropdown-input" id="stockPicker">
+          <span id="stockPickerText" class="dropdown-placeholder">Search stock or fund</span>
+          <span style="color: var(--text-faint);">▾</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="picked-chips" id="pickedChips" style="display:none;"></div>
+  </section>
+
+  <div id="analyzerContent"></div>
+</div>
+
+<div class="footer-note">
+  daily snapshot: github action @ 4:30 IST + 6:30 EST<br>
+  sources: yfinance · screener.in · finnhub · mfapi<br>
+  <span>not investment advice</span> · for personal use only
+</div>
+
+<button class="fab show" id="scanBtn">Refresh ↗</button>
+
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="india">
+    <span class="tab-icon">🇮🇳</span>
+    <span class="tab-label">India</span>
+  </button>
+  <button class="tab-btn" data-tab="us">
+    <span class="tab-icon">🇺🇸</span>
+    <span class="tab-label">US</span>
+  </button>
+  <button class="tab-btn" data-tab="mf">
+    <span class="tab-icon">📊</span>
+    <span class="tab-label">Funds</span>
+  </button>
+  <button class="tab-btn" data-tab="analyze">
+    <span class="tab-icon">🔍</span>
+    <span class="tab-label">Analyze</span>
+  </button>
+</nav>
+
+<div class="modal-overlay" id="searchModal">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <div class="modal-title" id="searchModalTitle">Select</div>
+    <input type="text" class="search-input" id="searchInput" placeholder="Type to search..." autocomplete="off">
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
+
+<div class="sheet-overlay" id="infoSheet">
+  <div class="sheet">
+    <div class="sheet-handle"></div>
+    <div class="sheet-eyebrow" id="sheetEyebrow">Filter</div>
+    <div class="sheet-title" id="sheetTitle">—</div>
+    <div class="sheet-section">
+      <div class="sheet-section-label">What it means</div>
+      <div class="sheet-section-body" id="sheetMeans">—</div>
+    </div>
+    <div class="sheet-section">
+      <div class="sheet-section-label">Why it matters</div>
+      <div class="sheet-section-body" id="sheetWhy">—</div>
+    </div>
+    <div class="sheet-section">
+      <div class="sheet-section-label">Good / bad signal</div>
+      <div class="sheet-section-body" id="sheetSignal">—</div>
+    </div>
+    <button class="sheet-close" id="sheetCloseBtn">Close</button>
+  </div>
+</div>
+
+<script>
+  // Only register SW in production (GitHub Pages), not during local dev
+  if ('serviceWorker' in navigator && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  }
+</script>
+<script type="module" src="./js/app.js"></script>
+</body>
+</html>

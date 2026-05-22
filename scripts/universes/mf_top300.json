@@ -1,0 +1,1802 @@
+[
+  {
+    "scheme_code": "122639",
+    "name": "Parag Parikh Flexi Cap Fund - Direct Plan - Growth",
+    "category": "Flexi Cap",
+    "amc": "PPFAS"
+  },
+  {
+    "scheme_code": "118955",
+    "name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
+    "category": "Flexi Cap",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "120166",
+    "name": "Kotak Flexicap Fund - Growth - Direct",
+    "category": "Flexi Cap",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "148990",
+    "name": "ICICI Prudential Flexicap Fund - Direct Plan - Growth",
+    "category": "Flexi Cap",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "119718",
+    "name": "SBI Flexicap Fund - DIRECT PLAN - Growth Option",
+    "category": "Flexi Cap",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "120564",
+    "name": "Aditya Birla Sun Life Flexi Cap Fund - Growth - Direct Plan",
+    "category": "Flexi Cap",
+    "amc": "Aditya Birla SL"
+  },
+  {
+    "scheme_code": "120662",
+    "name": "UTI - Flexi Cap Fund-Growth Option - Direct",
+    "category": "Flexi Cap",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "119076",
+    "name": "DSP Flexi Cap Fund - Direct Plan - Growth",
+    "category": "Flexi Cap",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "151412",
+    "name": "Mirae Asset Flexi Cap Fund - Direct Plan - Growth",
+    "category": "Flexi Cap",
+    "amc": "Mirae Asset"
+  },
+  {
+    "scheme_code": "149094",
+    "name": "Nippon India Flexi Cap Fund - Direct Plan - Growth Plan - Growth Option",
+    "category": "Flexi Cap",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "120586",
+    "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth",
+    "category": "Large Cap",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "120465",
+    "name": "Axis Large Cap Fund - Direct Plan - Growth",
+    "category": "Large Cap",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "119598",
+    "name": "SBI Large Cap FUND-DIRECT PLAN -GROWTH",
+    "category": "Large Cap",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119018",
+    "name": "HDFC Large Cap Fund - Growth Option - Direct Plan",
+    "category": "Large Cap",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "118632",
+    "name": "Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Large Cap",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "118825",
+    "name": "Mirae Asset Large Cap Fund - Direct Plan - Growth",
+    "category": "Large Cap",
+    "amc": "Mirae Asset"
+  },
+  {
+    "scheme_code": "118269",
+    "name": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Large Cap",
+    "amc": "Canara Robeco"
+  },
+  {
+    "scheme_code": "120152",
+    "name": "Kotak Large Cap  Fund - Growth - Direct",
+    "category": "Large Cap",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "118989",
+    "name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
+    "category": "Mid Cap",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "127042",
+    "name": "Motilal Oswal Midcap Fund-Direct Plan-Growth Option",
+    "category": "Mid Cap",
+    "amc": "Motilal Oswal"
+  },
+  {
+    "scheme_code": "119775",
+    "name": "Kotak Midcap Fund - Direct Plan - Growth",
+    "category": "Mid Cap",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "118668",
+    "name": "Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Mid Cap",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "120505",
+    "name": "Axis Midcap Fund - Direct Plan - Growth",
+    "category": "Mid Cap",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "119071",
+    "name": "DSP Midcap Fund - Direct Plan - Growth",
+    "category": "Mid Cap",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119716",
+    "name": "SBI MIDCAP FUND - DIRECT PLAN - GROWTH",
+    "category": "Mid Cap",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "140228",
+    "name": "Edelweiss Mid Cap Fund - Direct Plan - Growth Option",
+    "category": "Mid Cap",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118834",
+    "name": "Mirae Asset Large & Midcap Fund - Direct Plan - Growth",
+    "category": "Mid Cap",
+    "amc": "Mirae Asset"
+  },
+  {
+    "scheme_code": "118777",
+    "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Bonus Option",
+    "category": "Small Cap",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "130503",
+    "name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+    "category": "Small Cap",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "125497",
+    "name": "SBI Small Cap Fund - Direct Plan - Growth",
+    "category": "Small Cap",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "125354",
+    "name": "Axis Small Cap Fund - Direct Plan - Growth",
+    "category": "Small Cap",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "120828",
+    "name": "quant Small Cap Fund - Growth Option - Direct Plan",
+    "category": "Small Cap",
+    "amc": "Quant"
+  },
+  {
+    "scheme_code": "119212",
+    "name": "DSP Small Cap Fund - Direct Plan - Growth",
+    "category": "Small Cap",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "120164",
+    "name": "Kotak-Small Cap Fund - Growth - Direct",
+    "category": "Small Cap",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "120591",
+    "name": "ICICI Prudential Smallcap Fund - Direct Plan - Growth",
+    "category": "Small Cap",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "118278",
+    "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Large & Mid Cap",
+    "amc": "Canara Robeco"
+  },
+  {
+    "scheme_code": "120596",
+    "name": "ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth",
+    "category": "Large & Mid Cap",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "135781",
+    "name": "Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "ELSS",
+    "amc": "Mirae Asset"
+  },
+  {
+    "scheme_code": "120503",
+    "name": "Axis ELSS Tax Saver Fund - Direct Plan - Growth Option",
+    "category": "ELSS",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "147481",
+    "name": "Parag Parikh ELSS Tax Saver Fund- Direct Growth",
+    "category": "ELSS",
+    "amc": "PPFAS"
+  },
+  {
+    "scheme_code": "120847",
+    "name": "quant ELSS Tax Saver Fund - Growth Option - Direct Plan",
+    "category": "ELSS",
+    "amc": "Quant"
+  },
+  {
+    "scheme_code": "119242",
+    "name": "DSP ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "ELSS",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "118285",
+    "name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
+    "category": "ELSS",
+    "amc": "Canara Robeco"
+  },
+  {
+    "scheme_code": "120722",
+    "name": "ICICI Prudential Focused Equity Fund - Direct Plan - Growth",
+    "category": "Focused",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "120468",
+    "name": "Axis Focused Fund - Direct Plan - Growth Option",
+    "category": "Focused",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "119727",
+    "name": "SBI FOCUSED FUND - DIRECT PLAN -GROWTH",
+    "category": "Focused",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "133529",
+    "name": "HDFC FOCUSED EQUITY FUND - Direct Plan - Growth Option",
+    "category": "Focused",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "120834",
+    "name": "quant Focused Fund - Growth Option-Direct Plan",
+    "category": "Focused",
+    "amc": "Quant"
+  },
+  {
+    "scheme_code": "120323",
+    "name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth",
+    "category": "Value",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "119835",
+    "name": "SBI CONTRA FUND - DIRECT PLAN - GROWTH",
+    "category": "Contra",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119231",
+    "name": "Tata Value Fund -Direct Plan Growth Option",
+    "category": "Value",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "118784",
+    "name": "Nippon India Value Fund - Direct Plan Growth Plan",
+    "category": "Value",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "120716",
+    "name": "UTI Nifty 50 Index Fund - Growth Option- Direct",
+    "category": "Index",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "119063",
+    "name": "HDFC Nifty 50 Index Fund - Direct Plan",
+    "category": "Index",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "120620",
+    "name": "ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option",
+    "category": "Index",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "147625",
+    "name": "Motilal Oswal Nifty 500 Index Fund - Direct Plan",
+    "category": "Index",
+    "amc": "Motilal Oswal"
+  },
+  {
+    "scheme_code": "147622",
+    "name": "Motilal Oswal Nifty Midcap 150 Index Fund - Direct Plan",
+    "category": "Index",
+    "amc": "Motilal Oswal"
+  },
+  {
+    "scheme_code": "118741",
+    "name": "Nippon India Index Fund - Nifty 50 Plan - Direct Plan Growth Plan - Growth Option",
+    "category": "Index",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "145552",
+    "name": "Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth",
+    "category": "International",
+    "amc": "Motilal Oswal"
+  },
+  {
+    "scheme_code": "148928",
+    "name": "Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth",
+    "category": "International",
+    "amc": "Mirae Asset"
+  },
+  {
+    "scheme_code": "120186",
+    "name": "ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth",
+    "category": "International",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "148958",
+    "name": "Parag Parikh Conservative Hybrid Fund - Direct Plan - Growth",
+    "category": "Hybrid",
+    "amc": "PPFAS"
+  },
+  {
+    "scheme_code": "118968",
+    "name": "HDFC Balanced Advantage Fund - Growth Plan - Direct Plan",
+    "category": "Balanced Advantage",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "120377",
+    "name": "ICICI Prudential Balanced Advantage Fund - Direct Plan -  Growth",
+    "category": "Balanced Advantage",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "149134",
+    "name": "SBI Balanced Advantage Fund - Direct Plan - Growth",
+    "category": "Balanced Advantage",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "118615",
+    "name": "Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option",
+    "category": "Balanced Advantage",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118758",
+    "name": "Nippon India Pharma Fund - Direct Plan Growth Plan - Bonus Option",
+    "category": "Sectoral",
+    "amc": "Nippon India"
+  },
+  {
+    "scheme_code": "120594",
+    "name": "ICICI Prudential Technology Fund - Direct Plan -  Growth",
+    "category": "Sectoral",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "133859",
+    "name": "SBI BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH",
+    "category": "Sectoral",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "120621",
+    "name": "ICICI Prudential Infrastructure Fund - Direct Plan -  Growth",
+    "category": "Sectoral",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "135800",
+    "name": "Tata Digital India Fund-Direct Plan-Growth",
+    "category": "Sectoral",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "120692",
+    "name": "ICICI Prudential Corporate Bond Fund - Direct Plan - Growth",
+    "category": "Corporate Bond",
+    "amc": "ICICI Pru"
+  },
+  {
+    "scheme_code": "118987",
+    "name": "HDFC Corporate Bond Fund - Growth Option - Direct Plan",
+    "category": "Corporate Bond",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "119533",
+    "name": "Aditya Birla Sun Life Corporate Bond Fund - Growth - Direct Plan",
+    "category": "Corporate Bond",
+    "amc": "Aditya Birla SL"
+  },
+  {
+    "scheme_code": "119816",
+    "name": "SBI SHORT TERM DEBT FUND - DIRECT PLAN -GROWTH",
+    "category": "Short Duration",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "103490",
+    "name": "Quantum Value Fund - Direct Plan Growth Option",
+    "category": "Equity",
+    "amc": "Quantum"
+  },
+  {
+    "scheme_code": "111549",
+    "name": "Quantum ELSS Tax Saver Fund - Direct Plan Growth Option",
+    "category": "Equity",
+    "amc": "Quantum"
+  },
+  {
+    "scheme_code": "112039",
+    "name": "Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option",
+    "category": "Equity",
+    "amc": "Quantum"
+  },
+  {
+    "scheme_code": "118266",
+    "name": "Canara Robeco Nifty Index-Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Canara"
+  },
+  {
+    "scheme_code": "118267",
+    "name": "CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Equity",
+    "amc": "CANARA"
+  },
+  {
+    "scheme_code": "118272",
+    "name": "CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Equity",
+    "amc": "CANARA"
+  },
+  {
+    "scheme_code": "118273",
+    "name": "CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Equity",
+    "amc": "CANARA"
+  },
+  {
+    "scheme_code": "118275",
+    "name": "CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Equity",
+    "amc": "CANARA"
+  },
+  {
+    "scheme_code": "118309",
+    "name": "CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - GROWTH OPTION",
+    "category": "Equity",
+    "amc": "CANARA"
+  },
+  {
+    "scheme_code": "118344",
+    "name": "IDBI India Top 100 Equity Fund Growth Direct",
+    "category": "Equity",
+    "amc": "IDBI"
+  },
+  {
+    "scheme_code": "118347",
+    "name": "IDBI NIFTY 50  Index Fund Growth Direct",
+    "category": "Equity",
+    "amc": "IDBI"
+  },
+  {
+    "scheme_code": "118348",
+    "name": "IDBI Nifty Next 50 Index Fund Growth Direct",
+    "category": "Equity",
+    "amc": "IDBI"
+  },
+  {
+    "scheme_code": "118419",
+    "name": "Bandhan Large & Mid Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Bandhan"
+  },
+  {
+    "scheme_code": "118421",
+    "name": "Bandhan Focused Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Bandhan"
+  },
+  {
+    "scheme_code": "118424",
+    "name": "BANDHAN Flexi Cap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118469",
+    "name": "BANDHAN Infrastructure Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118473",
+    "name": "BANDHAN ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118479",
+    "name": "BANDHAN Large Cap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118481",
+    "name": "Bandhan Value Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Bandhan"
+  },
+  {
+    "scheme_code": "118482",
+    "name": "BANDHAN Nifty 50 Index Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118485",
+    "name": "Bandhan Aggressive Hybrid Passive FOF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Bandhan"
+  },
+  {
+    "scheme_code": "118486",
+    "name": "Bandhan Conservative Hybrid Passive FOF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Bandhan"
+  },
+  {
+    "scheme_code": "118491",
+    "name": "BANDHAN Conservative Hybrid Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANDHAN"
+  },
+  {
+    "scheme_code": "118494",
+    "name": "Templeton India Value Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Templeton"
+  },
+  {
+    "scheme_code": "118510",
+    "name": "Franklin India Large & Mid Cap Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118525",
+    "name": "Franklin India Small Cap Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118531",
+    "name": "Franklin India Large Cap Fund- Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118533",
+    "name": "Franklin India Mid Cap Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118535",
+    "name": "Franklin India Flexi Cap Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118537",
+    "name": "Franklin India Technology Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118540",
+    "name": "Franklin India ELSS Tax Saver Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118546",
+    "name": "Franklin India Aggressive Hybrid Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118551",
+    "name": "Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118559",
+    "name": "Franklin Asian Equity Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118564",
+    "name": "Franklin India Focused Equity Fund - Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118574",
+    "name": "Franklin India Conservative Hybrid Fund - Direct - GROWTH",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118581",
+    "name": "Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth",
+    "category": "Equity",
+    "amc": "Franklin"
+  },
+  {
+    "scheme_code": "118589",
+    "name": "Nippon India Banking & Financial Services Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118601",
+    "name": "Goldman Sachs India Equity Fund - Direct Plan -Growth Option",
+    "category": "Equity",
+    "amc": "Goldman"
+  },
+  {
+    "scheme_code": "118617",
+    "name": "Edelweiss Large Cap Fund - Direct Plan-Growth option",
+    "category": "Equity",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118620",
+    "name": "Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option",
+    "category": "Equity",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118624",
+    "name": "Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option",
+    "category": "Equity",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118638",
+    "name": "Edelweiss Equity Savings Advantage Fund- Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "Edelweiss"
+  },
+  {
+    "scheme_code": "118643",
+    "name": "Reliance Focused Large Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Reliance"
+  },
+  {
+    "scheme_code": "118650",
+    "name": "Nippon India Multi Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118678",
+    "name": "Nippon India Vision Large & Mid Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118692",
+    "name": "Nippon India Focused Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118724",
+    "name": "Nippon India Consumption Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118726",
+    "name": "Nippon India Conservative Hybrid  Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118736",
+    "name": "Nippon India Balanced Advantage Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118759",
+    "name": "Nippon India Pharma Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118773",
+    "name": "Reliance Infrastructure Fund - Direct Plan Growth Plan - Growth",
+    "category": "Equity",
+    "amc": "Reliance"
+  },
+  {
+    "scheme_code": "118778",
+    "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118791",
+    "name": "Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118794",
+    "name": "Nippon India Aggressive Hybrid Fund  - Direct Plan Growth Plan",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118803",
+    "name": "Nippon India ELSS Tax Saver Fund - Direct Plan Growth Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Nippon"
+  },
+  {
+    "scheme_code": "118866",
+    "name": "Taurus ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118868",
+    "name": "Taurus Banking & Financial Services Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118870",
+    "name": "Taurus Large Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118872",
+    "name": "Taurus Mid Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118879",
+    "name": "Taurus Infrastructure Fund - Direct Plan - Growth ",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118881",
+    "name": "Taurus Nifty 50 Index Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118883",
+    "name": "Taurus Flexi Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Taurus"
+  },
+  {
+    "scheme_code": "118927",
+    "name": "HDFC Focused Large-Cap Fund -Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "118935",
+    "name": "HDFC Value Fund - Growth Option - Direct Plan",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "118936",
+    "name": "DWS Alpha Equity Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DWS"
+  },
+  {
+    "scheme_code": "118950",
+    "name": "HDFC Focused Fund - Growth Option - Direct Plan",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "118979",
+    "name": "HDFC Infrastructure Fund - Growth Option - Direct Plan",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "119019",
+    "name": "DSP Aggressive Hybrid Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119053",
+    "name": "Tata Aggressive Hybrid Fund -Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119060",
+    "name": "HDFC ELSS Tax saver - Growth Option - Direct Plan",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "119062",
+    "name": "HDFC Hybrid Equity Fund - Growth Option - Direct Plan",
+    "category": "Equity",
+    "amc": "HDFC"
+  },
+  {
+    "scheme_code": "119096",
+    "name": "DSP Focused Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119133",
+    "name": "Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Groww"
+  },
+  {
+    "scheme_code": "119148",
+    "name": "Navi Large Cap Equity Fund-Direct Plan-Growth Option",
+    "category": "Equity",
+    "amc": "Navi"
+  },
+  {
+    "scheme_code": "119156",
+    "name": "Navi Conservative Hybrid Fund-Direct Plan-Growth Option",
+    "category": "Equity",
+    "amc": "Navi"
+  },
+  {
+    "scheme_code": "119160",
+    "name": "Tata Large Cap Fund -Direct Plan Growth Option",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119178",
+    "name": "Tata Mid Cap Fund - Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119189",
+    "name": "Tata Equity Management Fund - Direct Plan Growth",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119202",
+    "name": "Tata Large & MId Cap Fund -Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119218",
+    "name": "DSP Large & Mid Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119243",
+    "name": "Tata Infrastructure Fund -Direct Plan -Growth Option",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119245",
+    "name": "DSP BlackRock Technology.com Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119250",
+    "name": "DSP Large Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119252",
+    "name": "DSP US Specific Equity Omni FoF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119259",
+    "name": "Tata Indo-Global Infrastructure Fund-Direct Plan Growth",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119269",
+    "name": "Tata Growing Economies Infrastructure Fund Scheme A-Direct Plan Growth",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119273",
+    "name": "Tata Growing Economies Infrastructure Fund Scheme B-Direct Plan Growth",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119275",
+    "name": "DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119277",
+    "name": "DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119279",
+    "name": "DSP World Mining Overseas Equity Omni FoF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "DSP"
+  },
+  {
+    "scheme_code": "119291",
+    "name": "L&T Flexicap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119292",
+    "name": "Union Flexi Cap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Union"
+  },
+  {
+    "scheme_code": "119298",
+    "name": "L&T Balanced Advantage Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119307",
+    "name": "Union ELSS Tax Saver Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Union"
+  },
+  {
+    "scheme_code": "119308",
+    "name": "L&T India Large Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119323",
+    "name": "Tata Contra Fund -Direct Plan Growth",
+    "category": "Equity",
+    "amc": "Tata"
+  },
+  {
+    "scheme_code": "119331",
+    "name": "PineBridge India Equity Fund- Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "PineBridge"
+  },
+  {
+    "scheme_code": "119333",
+    "name": "Baroda BNP Paribas Banking and Financial Services Fund - Direct - Growth Option",
+    "category": "Equity",
+    "amc": "Baroda"
+  },
+  {
+    "scheme_code": "119343",
+    "name": "PineBridge Infrastructure & Economic Reform Fund- Direct Plan- Growth Option",
+    "category": "Equity",
+    "amc": "PineBridge"
+  },
+  {
+    "scheme_code": "119347",
+    "name": "L&T Hybrid Equity Fund - Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119350",
+    "name": "BANK OF INDIA Large & Mid Cap Fund Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANK"
+  },
+  {
+    "scheme_code": "119351",
+    "name": "BANK OF INDIA ELSS Tax Saver -Direct Plan- Growth",
+    "category": "Equity",
+    "amc": "BANK"
+  },
+  {
+    "scheme_code": "119354",
+    "name": "Baroda BNP Paribas MULTI CAP FUND - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Baroda"
+  },
+  {
+    "scheme_code": "119364",
+    "name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANK"
+  },
+  {
+    "scheme_code": "119393",
+    "name": "BANK OF INDIA Conservative Hybrid Fund Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "BANK"
+  },
+  {
+    "scheme_code": "119397",
+    "name": "L&T Large and Midcap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119404",
+    "name": "L&T India Value Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119413",
+    "name": "L&T Infrastructure Fund -Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119428",
+    "name": "L&T Flexi Bond Fund - Direct Plan- Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119436",
+    "name": "Aditya Birla Sun Life Large & Mid Cap Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119441",
+    "name": "Principal Emerging Bluechip Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119451",
+    "name": "Principal Multi Cap Growth Fund - Direct Plan -Half Yearly Income Distribution CUM Capital Withdrawal Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119452",
+    "name": "Principal Multi Cap Growth Fund-Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119464",
+    "name": "Principal Focused Multicap Fund- Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119482",
+    "name": "Principal Balanced Advantage Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119484",
+    "name": "Principal Hybrid Equity Fund- Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119488",
+    "name": "Principal Nifty 100 Equal Weight Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Principal"
+  },
+  {
+    "scheme_code": "119514",
+    "name": "Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119517",
+    "name": "Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119528",
+    "name": "Aditya Birla Sun Life Large Cap Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119542",
+    "name": "Sundaram Equity Hybrid Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119544",
+    "name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119549",
+    "name": "Sundaram Value Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119555",
+    "name": "Sundaram Select Thematic Funds Capex Opportunities -Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119556",
+    "name": "Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119559",
+    "name": "Sundaram Select Thematic Funds Energy Opportunities -Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119564",
+    "name": "Aditya Birla Sun Life Focused Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119566",
+    "name": "Sundaram Large and Midcap Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119581",
+    "name": "Sundaram Mid Cap Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119586",
+    "name": "Sundaram Select Thematic Funds PSU Opportunities -Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119589",
+    "name": "Sundaram Small Cap Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119591",
+    "name": "Aditya Birla Sun Life Consumption Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119595",
+    "name": "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth)",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119597",
+    "name": "Sundaram Financial Services Opportunities Fund Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119602",
+    "name": "Sundaram Global Brand Theme-Equity Active FOF - Direct Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119609",
+    "name": "SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119635",
+    "name": "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Sundaram"
+  },
+  {
+    "scheme_code": "119648",
+    "name": "Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119659",
+    "name": "Aditya Birla Sun Life Value Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "119700",
+    "name": "SBI INFRASTRUCTURE FUND -  DIRECT PLAN - GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119721",
+    "name": "SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119723",
+    "name": "SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119769",
+    "name": "Kotak Contra Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "119773",
+    "name": "Kotak ELSS Tax Saver Fund-Growth - Direct",
+    "category": "Equity",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "119779",
+    "name": "Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct",
+    "category": "Equity",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "119783",
+    "name": "SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119807",
+    "name": "L&T Mid Cap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119827",
+    "name": "SBI NIFTY INDEX FUND - DIRECT PLAN - GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119839",
+    "name": "SBI Conservative Hybrid Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "119852",
+    "name": "L&T Conservative Hybrid Fund -Direct Plan- Growth",
+    "category": "Equity",
+    "amc": "L&T"
+  },
+  {
+    "scheme_code": "119867",
+    "name": "JPMorgan India Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "JPMorgan"
+  },
+  {
+    "scheme_code": "119869",
+    "name": "JPMorgan India Mid and Small Cap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "JPMorgan"
+  },
+  {
+    "scheme_code": "119872",
+    "name": "JPMorgan Greater China Equity Off-shore Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "JPMorgan"
+  },
+  {
+    "scheme_code": "119874",
+    "name": "JPMorgan EEMEA Equity Off-shore Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "JPMorgan"
+  },
+  {
+    "scheme_code": "119878",
+    "name": "JPMorgan ASEAN Equity Off-shore Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "JPMorgan"
+  },
+  {
+    "scheme_code": "119886",
+    "name": "ING Core Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "119893",
+    "name": "BNP Paribas LARGE CAP Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "119914",
+    "name": "ING Large Cap Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "119988",
+    "name": "BNP Paribas MULTI CAP Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "119992",
+    "name": "BNP Paribas Flexi Debt Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "120002",
+    "name": "BNP Paribas Mid Cap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "120003",
+    "name": "ING Income Growth Multi Manager FoF Scheme - 15% Equity Plan -  Direct Plan - Option A - Growth Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "120016",
+    "name": "ING Multi Manager Equity Fund - Direct Plan - Option A -  Growth  Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "120019",
+    "name": "ING Latin America Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "120030",
+    "name": "HSBC Large Cap Fund - Direct Growth",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120032",
+    "name": "ING Income Growth Multi Manager FoF Scheme - 30% Equity Plan -Direct Plan - Option A -  Growth Option",
+    "category": "Equity",
+    "amc": "ING"
+  },
+  {
+    "scheme_code": "120034",
+    "name": "HSBC Infrastructure Equity Fund - Growth Direct",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120046",
+    "name": "HSBC Flexi Cap Fund - Direct Growth",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120048",
+    "name": "HSBC Flexi Debt Fund - Growth Direct",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120069",
+    "name": "HSBC Small Cap Equity Fund - Growth Direct",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120073",
+    "name": "HSBC Conservative Hybrid Fund - Direct Growth",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120077",
+    "name": "HSBC - Small Cap Fund - Growth Direct",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120079",
+    "name": "HSBC Tax Saver Equity Fund - Growth Direct",
+    "category": "Equity",
+    "amc": "HSBC"
+  },
+  {
+    "scheme_code": "120082",
+    "name": "BNP Paribas Conservative Hybrid Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "120100",
+    "name": "DHFL Pramerica Large Cap Equity Fund - Direct Plan-Growth Option",
+    "category": "Equity",
+    "amc": "DHFL"
+  },
+  {
+    "scheme_code": "120147",
+    "name": "BNP Paribas Long Term Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "BNP"
+  },
+  {
+    "scheme_code": "120158",
+    "name": "Kotak Large & Midcap Fund - Direct- Growth",
+    "category": "Equity",
+    "amc": "Kotak"
+  },
+  {
+    "scheme_code": "120244",
+    "name": "ICICI Prudential Banking and Financial Services Fund - Direct Plan -  Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120251",
+    "name": "ICICI Prudential Equity & Debt Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120261",
+    "name": "LIC MF Aggressive Hybrid Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120264",
+    "name": "LIC MF Flexi Cap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120267",
+    "name": "LIC MF Large Cap Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120270",
+    "name": "LIC MF ELSS Tax Saver-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120276",
+    "name": "LIC MF Conservative Hybrid Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120306",
+    "name": "LIC  MF Index Fund-Sensex Advantage-Direct Plan Growth Option",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120307",
+    "name": "LIC MF Nifty 50 Index Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120308",
+    "name": "LIC MF BSE Sensex Index Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120333",
+    "name": "Invesco India Balanced Advantage Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120348",
+    "name": "Invesco India Contra Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120351",
+    "name": "LIC MF Infrastructure Fund-Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "LIC"
+  },
+  {
+    "scheme_code": "120353",
+    "name": "Sahara Infrastructure Fund ---FIXED PRICING OPTION-Direct-Growth",
+    "category": "Equity",
+    "amc": "Sahara"
+  },
+  {
+    "scheme_code": "120355",
+    "name": "Sahara Infrastructure Fund ---VARIABLE PRICING OPTION-Direct-Growth",
+    "category": "Equity",
+    "amc": "Sahara"
+  },
+  {
+    "scheme_code": "120357",
+    "name": "Invesco India Large & Mid Cap Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120373",
+    "name": "SAHARA BANKING & FINANCIAL SERVICES FUND- GROWTH - Direct",
+    "category": "Equity",
+    "amc": "SAHARA"
+  },
+  {
+    "scheme_code": "120385",
+    "name": "Invesco India Financial Services Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120386",
+    "name": "Sahara Star Value Fund-Growth - Direct",
+    "category": "Equity",
+    "amc": "Sahara"
+  },
+  {
+    "scheme_code": "120395",
+    "name": "Invesco India PSU Equity Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120405",
+    "name": "Invesco India Infrastructure Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120413",
+    "name": "Invesco India Multicap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120416",
+    "name": "Invesco India ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "Invesco"
+  },
+  {
+    "scheme_code": "120480",
+    "name": "Axis Conservative Hybrid Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "Axis"
+  },
+  {
+    "scheme_code": "120484",
+    "name": "JM Aggressive Hybrid Fund (Direct) - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120486",
+    "name": "JM Value Fund (Direct) - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120488",
+    "name": "JM Focused Fund (Direct)  - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120490",
+    "name": "JM Large Cap Fund (Direct) - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120492",
+    "name": "JM Flexicap Fund (Direct) - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120494",
+    "name": "JM ELSS Tax Saver Fund (Direct) - Growth Option",
+    "category": "Equity",
+    "amc": "JM"
+  },
+  {
+    "scheme_code": "120517",
+    "name": "Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "120539",
+    "name": "Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan",
+    "category": "Equity",
+    "amc": "Aditya"
+  },
+  {
+    "scheme_code": "120575",
+    "name": "SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "120578",
+    "name": "SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+    "category": "Equity",
+    "amc": "SBI"
+  },
+  {
+    "scheme_code": "120592",
+    "name": "ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120599",
+    "name": "ICICI Prudential Multicap Fund - Direct Plan -  Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120656",
+    "name": "UTI Large Cap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120665",
+    "name": "UTI Large & Mid Cap Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120674",
+    "name": "UTI Aggressive Hybrid Fund -Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120684",
+    "name": "ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120699",
+    "name": "UTI - Master Value Fund-Growth Option-Direct",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120700",
+    "name": "ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth",
+    "category": "Equity",
+    "amc": "ICICI"
+  },
+  {
+    "scheme_code": "120715",
+    "name": "UTI ELSS Tax Saver Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120724",
+    "name": "UTI Children's Equity Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120726",
+    "name": "UTI Mid Cap Fund-Growth Option- Direct",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120728",
+    "name": "UTI Infrastructure Fund-Growth Option- Direct",
+    "category": "Equity",
+    "amc": "UTI"
+  },
+  {
+    "scheme_code": "120733",
+    "name": "UTI Banking and Financial Services Fund - Direct Plan - Growth Option",
+    "category": "Equity",
+    "amc": "UTI"
+  }
+]
