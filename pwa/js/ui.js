@@ -8,6 +8,8 @@ export function openInfoSheet(filterId, filters) {
     }
   }
   if (!filter || !filter.tip) return;
+  // Restore static layout in case openFlexibleSheet was used before
+  _restoreSheetLayout();
   document.getElementById('sheetEyebrow').textContent = filter.sub || 'Filter';
   document.getElementById('sheetTitle').textContent = filter.label;
   document.getElementById('sheetMeans').textContent = filter.tip.what;
@@ -15,6 +17,35 @@ export function openInfoSheet(filterId, filters) {
   document.getElementById('sheetSignal').textContent = filter.tip.signal;
   document.getElementById('infoSheet').classList.add('show');
   document.body.classList.add('no-scroll');
+}
+
+/** Open the info sheet with flexible multi-section content (context tooltips). */
+export function openFlexibleSheet(title, sections) {
+  document.getElementById('sheetEyebrow').textContent = 'Context';
+  document.getElementById('sheetTitle').textContent = title;
+
+  // Render all sections into the first sheet-section, hide the other two
+  document.getElementById('sheetMeans').innerHTML = sections.map(s =>
+    `<div style="margin-bottom:14px;">
+      <div style="font-family:var(--font-mono);font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-faint);margin-bottom:5px;">${s.label}</div>
+      <div style="font-size:13px;color:var(--text);line-height:1.6;">${s.text}</div>
+    </div>`
+  ).join('');
+
+  // Hide the static label of first section + the other two sections
+  const allSections = document.querySelectorAll('#infoSheet .sheet-section');
+  allSections.forEach((el, i) => { el.style.display = i === 0 ? '' : 'none'; });
+  const firstLabel = allSections[0]?.querySelector('.sheet-section-label');
+  if (firstLabel) firstLabel.style.display = 'none';
+
+  document.getElementById('infoSheet').classList.add('show');
+  document.body.classList.add('no-scroll');
+}
+
+function _restoreSheetLayout() {
+  document.querySelectorAll('#infoSheet .sheet-section').forEach(el => { el.style.display = ''; });
+  const firstLabel = document.querySelector('#infoSheet .sheet-section .sheet-section-label');
+  if (firstLabel) firstLabel.style.display = '';
 }
 
 export function closeSearchModal() {

@@ -1,5 +1,6 @@
 """Phase 3a: India data — yfinance (.NS) + screener.in scrape."""
 import os
+import sys
 import time
 import json
 import hashlib
@@ -9,6 +10,15 @@ from pathlib import Path
 import yfinance as yf
 import httpx
 from selectolax.parser import HTMLParser
+
+# Add scripts dir to path so compute_context is importable from fetch_data
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from compute_context import (
+    compute_price_action,
+    compute_valuation_context,
+    classify_retail_signal,
+    classify_promoter_activity,
+)
 
 CACHE_DIR = Path('.cache')
 CACHE_DIR.mkdir(exist_ok=True)
@@ -222,11 +232,24 @@ def scrape_screener_in(slug: str) -> dict:
 
     # --- Promoter / pledged from shareholding section ---
     result['promoter_holding'] = None
-    result['pledged_shares'] = None
+    result['pledged_shares'] = None   # stays None on extraction failure
     try:
-        # These may be in shareholding section or a table
+        shareholding_parsed = False
+
+        # Primary: data-source attribute
+        for node in tree.css('[data-source="Pledged percentage"]'):
+            num = _parse_number(node.text(strip=True))
+            if num is not None:
+                result['pledged_shares'] = num
+                shareholding_parsed = True
+                break
+
+        # Fallback: scan #shareholding table rows
         shp_section = tree.css_first('#shareholding')
         if shp_section:
+            shareholding_parsed = True          # section found — default pledge to 0
+            if result['pledged_shares'] is None:
+                result['pledged_shares'] = 0    # most stocks have 0% pledged
             for row in shp_section.css('tr'):
                 cells = row.css('td, th')
                 if not cells:
@@ -244,10 +267,35 @@ def scrape_screener_in(slug: str) -> dict:
                     for v in reversed(vals):
                         num = _parse_number(v)
                         if num is not None:
-                            result['pledged_shares'] = num
+                            result['pledged_shares'] = num  # override the 0 default
                             break
+        # If shareholding section not found at all, pledged_shares stays None
+        # (genuine extraction failure, not zero pledge)
     except Exception as e:
         print(f"  [screener.in] {slug} → shareholding parse error: {e}")
+
+    # --- Cash Flow: scrape "Cash from Operating Activity" for FCF positivity ---
+    result['fcf_positive_5y'] = None
+    try:
+        cf_section = tree.css_first('#cash-flow')
+        if cf_section:
+            tables = cf_section.css('table')
+            if tables:
+                cf_rows = _table_row_values(tables[0])
+                # Row label varies: "Cash from Operating Activity" / "Operating Cash Flow"
+                for label in ('Cash from Operating Activity', 'Operating Cash Flow',
+                              'Net Cash from Operating Activities'):
+                    if label in cf_rows:
+                        vals = [_parse_number(v) for v in cf_rows[label]]
+                        valid = [v for v in vals if v is not None]
+                        if len(valid) >= 3:
+                            last_5 = valid[-5:] if len(valid) >= 5 else valid
+                            positive = sum(1 for v in last_5 if v > 0)
+                            # True if ≥ 4 of last 5 years positive (allows 1 bad year)
+                            result['fcf_positive_5y'] = positive >= max(3, len(last_5) - 1)
+                        break
+    except Exception as e:
+        print(f"  [screener.in] {slug} → cash flow parse error: {e}")
 
     # --- Current ratio: not reliably on screener.in page; set to None ---
     result['current_ratio'] = None
@@ -267,6 +315,133 @@ def scrape_screener_in(slug: str) -> dict:
     return result
 
 
+def _delta(a, b) -> float | None:
+    """Return a - b rounded to 2dp, or None if either value is missing."""
+    try:
+        if a is None or b is None:
+            return None
+        result = float(a) - float(b)
+        if math.isnan(result) or math.isinf(result):
+            return None
+        return round(result, 2)
+    except (TypeError, ValueError):
+        return None
+
+
+def scrape_shareholding_pattern(slug: str) -> dict | None:
+    """Scrape shareholding pattern table from screener.in for the given slug.
+
+    Tries consolidated URL first, then standalone.
+    Returns dict with 'quarters' list (each entry: date, promoter, fii, dii, public)
+    or None on failure.
+    """
+    try:
+        urls_to_try = [
+            f"https://www.screener.in/company/{slug}/consolidated/",
+            f"https://www.screener.in/company/{slug}/",
+        ]
+
+        html = None
+        for url in urls_to_try:
+            cached = _cached_get(url)
+            if cached:
+                html = cached
+                break
+            try:
+                resp = httpx.get(
+                    url,
+                    headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+                    timeout=20,
+                )
+                if resp.status_code == 200 and 'captcha' not in resp.text.lower():
+                    html = resp.text
+                    _cache_set(url, html)
+                    time.sleep(1)
+                    break
+            except Exception as e:
+                print(f"  [shareholding] {slug} → error: {e}")
+
+        if not html:
+            return None
+
+        tree = HTMLParser(html)
+        shp_section = tree.css_first('#shareholding')
+        if not shp_section:
+            return None
+
+        # Find the main shareholding table (not the sub-tables for promoter detail)
+        tables = shp_section.css('table')
+        if not tables:
+            return None
+
+        main_table = tables[0]
+        rows = main_table.css('tr')
+        if not rows:
+            return None
+
+        # Extract header row → quarter date labels
+        header_cells = rows[0].css('th')
+        if not header_cells:
+            # Some pages have th in a thead
+            thead = main_table.css_first('thead tr')
+            header_cells = thead.css('th') if thead else []
+        quarter_dates = [c.text(strip=True) for c in header_cells[1:]]  # skip first (row label)
+
+        # Rows we care about — multiple label variants per category
+        LABEL_MAP = {
+            'promoter': ['Promoters', 'Promoter', 'Promoter & Promoter Group',
+                         'Promoter Group', 'Promoters & Promoter Group'],
+            'fii': ['FII', 'FIIs', 'Foreign Institutions', 'Foreign Institutional Investors',
+                    'Foreign Portfolio Investors', 'FPI'],
+            'dii': ['DII', 'DIIs', 'Domestic Institutions', 'Domestic Institutional Investors',
+                    'Mutual Funds', 'Insurance Companies'],
+            'public': ['Public', 'Public & Others', 'Others', 'Non-Institutions',
+                       'Non-Promoter Non-Public'],
+        }
+
+        extracted: dict[str, list[float | None]] = {}
+        for row in rows[1:]:
+            cells = row.css('td, th')
+            if not cells:
+                continue
+            raw_label = cells[0].text(strip=True).rstrip('+').strip()
+            matched_key = None
+            for key, variants in LABEL_MAP.items():
+                if any(raw_label.lower() == v.lower() for v in variants):
+                    matched_key = key
+                    break
+                # Partial match fallback
+                if any(v.lower() in raw_label.lower() for v in variants[:2]):
+                    matched_key = key
+                    break
+            if matched_key and matched_key not in extracted:
+                vals = [_parse_number(c.text(strip=True)) for c in cells[1:]]
+                extracted[matched_key] = vals
+
+        if not extracted:
+            return None
+
+        # Build per-quarter list (use up to 4 most recent quarters)
+        n_quarters = min(len(quarter_dates), 4)
+        quarters = []
+        for i in range(n_quarters):
+            # Index 0 in quarter_dates is the most recent
+            idx = i  # keep chronological order: 0 = most recent
+            q: dict = {'date': quarter_dates[idx] if idx < len(quarter_dates) else None}
+            for key in ('promoter', 'fii', 'dii', 'public'):
+                vals = extracted.get(key, [])
+                q[key] = vals[idx] if idx < len(vals) else None
+            quarters.append(q)
+
+        # Reverse so quarters[-1] is most recent
+        quarters = list(reversed(quarters))
+
+        return {'quarters': quarters}
+    except Exception as e:
+        print(f"  [shareholding] {slug} → parse error: {e}")
+        return None
+
+
 def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
     t = yf.Ticker(yf_symbol)
     info = t.info
@@ -282,10 +457,111 @@ def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
             print(f"  [india] retrying screener.in with symbol: {ticker_symbol}")
             fundamentals = scrape_screener_in(ticker_symbol)
 
+    # -----------------------------------------------------------------------
+    # V2: prevClose
+    # -----------------------------------------------------------------------
+    prev_close = None
+    try:
+        hist_5d = t.history(period='5d')
+        prev_close = float(hist_5d['Close'].iloc[-2]) if len(hist_5d) >= 2 else None
+    except Exception:
+        prev_close = None
+
+    # -----------------------------------------------------------------------
+    # V2: price_action
+    # -----------------------------------------------------------------------
+    price_action = None
+    try:
+        hist_2y = t.history(period='2y')   # 2Y gives ~500 rows; 252 needed for ret_1y
+        price_action = compute_price_action(hist_2y)
+    except Exception as e:
+        print(f"  [india v2] {yf_symbol} price_action error: {e}")
+
+    # -----------------------------------------------------------------------
+    # V2: valuation_context
+    # -----------------------------------------------------------------------
+    valuation_context = None
+    try:
+        annual_financials = t.financials
+        price_hist_5y = t.history(period='5y', interval='1mo')
+        try:
+            qbs = t.quarterly_balance_sheet
+            info['_quarterly_balance_sheet'] = qbs
+        except Exception:
+            pass
+        try:
+            qf = t.quarterly_financials
+        except Exception:
+            qf = None
+        valuation_context = compute_valuation_context(info, annual_financials, price_hist_5y,
+                                                      quarterly_financials=qf)
+    except Exception as e:
+        print(f"  [india v2] {yf_symbol} valuation_context error: {e}")
+
+    # -----------------------------------------------------------------------
+    # V2: ownership (scrape shareholding pattern)
+    # -----------------------------------------------------------------------
+    ownership = None
+    retail_signal = None
+    promoter_activity = None
+    try:
+        # Try the screener_slug first, then the raw ticker symbol
+        ownership_data = scrape_shareholding_pattern(screener_slug)
+        if not ownership_data:
+            ticker_symbol = yf_symbol.replace('.NS', '').replace('.BO', '').upper()
+            if ticker_symbol.upper() != screener_slug.upper():
+                ownership_data = scrape_shareholding_pattern(ticker_symbol)
+
+        if ownership_data and ownership_data.get('quarters'):
+            quarters = ownership_data['quarters']
+            current_q = quarters[-1]
+            prev_q = quarters[-2] if len(quarters) >= 2 else None
+
+            ownership = {
+                'current': {
+                    'promoter': current_q.get('promoter'),
+                    'fii': current_q.get('fii'),
+                    'dii': current_q.get('dii'),
+                    'public': current_q.get('public'),
+                    'institutional': None,  # India uses FII/DII split
+                    'insider': None,
+                },
+                'trend_qoq': {
+                    'promoter': _delta(current_q.get('promoter'),
+                                       prev_q.get('promoter') if prev_q else None),
+                    'fii': _delta(current_q.get('fii'),
+                                  prev_q.get('fii') if prev_q else None),
+                    'dii': _delta(current_q.get('dii'),
+                                  prev_q.get('dii') if prev_q else None),
+                    'public': _delta(current_q.get('public'),
+                                     prev_q.get('public') if prev_q else None),
+                    'institutional': None,
+                    'insider': None,
+                },
+                'as_of': current_q.get('date'),
+                'trend_reason': None,
+            }
+
+            # retail_signal
+            retail_signal = classify_retail_signal(
+                ownership['current'].get('public'),
+                ownership['trend_qoq'].get('public'),
+            )
+
+            # promoter_activity
+            promoter_activity = classify_promoter_activity(
+                ownership['current'].get('promoter'),
+                ownership['trend_qoq'].get('promoter'),
+                fundamentals.get('pledged_shares') if fundamentals else None,
+            )
+    except Exception as e:
+        print(f"  [india v2] {yf_symbol} ownership error: {e}")
+
     return {
         'ticker': yf_symbol.replace('.NS', ''),
         'name': info.get('longName'),
         'livePrice': info.get('currentPrice'),
+        'prevClose': prev_close,
         'metrics': {
             'minMcap': (info.get('marketCap') or 0) / 1e7,
             'maxMcap': (info.get('marketCap') or 0) / 1e7,
@@ -306,8 +582,16 @@ def fetch_india_stock(yf_symbol: str, screener_slug: str) -> dict:
             'minDip': calculate_dip(info.get('currentPrice'), info.get('fiftyTwoWeekHigh')),
             'minPromoter': fundamentals.get('promoter_holding'),
             'maxPledged': fundamentals.get('pledged_shares'),
+            'fcfPositive5Y': fundamentals.get('fcf_positive_5y'),
             'excludePSU': not fundamentals.get('is_psu', False),
             'excludeBanks': not fundamentals.get('is_bank', False),
             'excludeRealty': not fundamentals.get('is_realty', False),
-        }
+        },
+        # V2 fields
+        'price_action': price_action,
+        'valuation_context': valuation_context,
+        'earnings_surprises': None,  # India: not available via yfinance
+        'ownership': ownership,
+        'retail_signal': retail_signal,
+        'promoter_activity': promoter_activity,
     }

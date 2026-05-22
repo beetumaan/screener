@@ -1,12 +1,68 @@
 """Phase 3b: US data — yfinance + Finnhub MSPR insider sentiment."""
 import os
+import sys
+import json
 import math
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
+from pathlib import Path
 
 import yfinance as yf
 import httpx
 
+# Add scripts dir to path so compute_context is importable
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from compute_context import (
+    compute_price_action,
+    compute_valuation_context,
+    parse_earnings_surprises,
+)
+
 FINNHUB_API_KEY = os.environ.get('FINNHUB_API_KEY', '')
+
+# ---------------------------------------------------------------------------
+# Snapshot caching — persists across daily runs
+# ---------------------------------------------------------------------------
+SNAPSHOT_FILE = Path('.cache/us_ownership_snapshots.json')
+
+
+def load_snapshots() -> dict:
+    """Load the US ownership snapshot file, returning an empty structure if missing."""
+    try:
+        if SNAPSHOT_FILE.exists():
+            return json.loads(SNAPSHOT_FILE.read_text())
+    except Exception:
+        pass
+    return {'snapshots': []}
+
+
+def save_snapshot(snapshots_data: dict, run_date: str, ticker_data: dict):
+    """Append or update today's snapshot in snapshots_data dict. Keeps last 6."""
+    snaps = snapshots_data.get('snapshots', [])
+    # Remove today's entry if already exists
+    snaps = [s for s in snaps if s.get('date') != run_date]
+    snaps.append({'date': run_date, 'tickers': ticker_data})
+    # Sort ascending, keep newest 6
+    snaps = sorted(snaps, key=lambda s: s['date'])[-6:]
+    snapshots_data['snapshots'] = snaps
+
+
+def get_prior_snapshot(snapshots_data: dict, target_date: str) -> dict | None:
+    """Return the most recent snapshot that is >= 60 days older than target_date.
+
+    Returns None if no such snapshot exists (i.e. history is too short).
+    """
+    try:
+        today = date.fromisoformat(target_date)
+        cutoff = today - timedelta(days=60)
+        candidates = [
+            s for s in snapshots_data.get('snapshots', [])
+            if date.fromisoformat(s['date']) <= cutoff
+        ]
+        if not candidates:
+            return None
+        return sorted(candidates, key=lambda s: s['date'])[-1]
+    except Exception:
+        return None
 
 
 def _is_valid_num(v) -> bool:
@@ -72,10 +128,25 @@ def compute_fcf_yield(cashflow, market_cap) -> float | None:
 
 
 def all_fcf_positive(cashflow, years: int) -> bool:
+    """True if all available FCF years are positive (min 3 years required).
+
+    Uses Free Cash Flow row directly when available; otherwise falls back to
+    Operating Cash Flow + Capital Expenditure. Filters NaN values so a single
+    missing year doesn't poison the result.
+    """
     try:
-        ocf = cashflow.loc['Operating Cash Flow'].values[:years]
-        capex = cashflow.loc['Capital Expenditure'].values[:years]
-        return all(float(o) + float(c) > 0 for o, c in zip(ocf, capex))
+        if cashflow is None:
+            return False
+        # Prefer the direct FCF row yfinance provides
+        if 'Free Cash Flow' in cashflow.index:
+            vals = [float(v) for v in cashflow.loc['Free Cash Flow'].values[:years]
+                    if _is_valid_num(v)]
+        else:
+            ocf   = cashflow.loc['Operating Cash Flow'].values[:years]
+            capex = cashflow.loc['Capital Expenditure'].values[:years]
+            vals  = [float(o) + float(c) for o, c in zip(ocf, capex)
+                     if _is_valid_num(o) and _is_valid_num(c)]
+        return len(vals) >= 3 and all(v > 0 for v in vals)
     except Exception:
         return False
 
@@ -162,6 +233,150 @@ def _safe_net_income_vals(financials) -> list:
     return []
 
 
+def fetch_us_ownership_current(ticker_obj) -> dict | None:
+    """Extract current institutional and insider holding % from major_holders.
+
+    major_holders DataFrame rows (typical):
+      index 0: "% of Shares Held by All Insider"
+      index 1: "% of Shares Held by Institutions"
+    Values are strings like '0.06%' or floats.
+    Returns {'institutional': float, 'insider': float} or None on failure.
+    """
+    try:
+        mh = ticker_obj.major_holders
+        if mh is None or mh.empty:
+            return None
+
+        inst_pct = None
+        insider_pct = None
+
+        # major_holders can be indexed by label or positionally
+        # Try label-based access first (newer yfinance returns a 2-col df with 'Value'/'Breakdown')
+        try:
+            # Reset index to iterate rows
+            mh_reset = mh.reset_index()
+            for _, row in mh_reset.iterrows():
+                vals = [str(v) for v in row.values]
+                combined = ' '.join(vals).lower()
+                pct_str = None
+                for v in vals:
+                    if '%' in str(v):
+                        pct_str = str(v)
+                        break
+                if pct_str is None:
+                    # might be a float already
+                    for v in vals:
+                        try:
+                            f = float(v)
+                            if not (math.isnan(f) or math.isinf(f)):
+                                pct_str = str(f * 100) + '%'
+                                break
+                        except (ValueError, TypeError):
+                            continue
+
+                if pct_str:
+                    num_str = pct_str.replace('%', '').strip()
+                    try:
+                        num = float(num_str)
+                        if math.isnan(num) or math.isinf(num):
+                            num = None
+                    except (ValueError, TypeError):
+                        num = None
+
+                    if 'institution' in combined and inst_pct is None:
+                        inst_pct = round(num, 2) if num is not None else None
+                    elif 'insider' in combined and insider_pct is None:
+                        insider_pct = round(num, 2) if num is not None else None
+        except Exception:
+            pass
+
+        # Fallback: positional access
+        if inst_pct is None and insider_pct is None:
+            try:
+                vals = mh.iloc[:, 0].tolist()
+                for v in vals:
+                    try:
+                        v_str = str(v).replace('%', '').strip()
+                        float(v_str)
+                    except (ValueError, TypeError):
+                        pass
+            except Exception:
+                pass
+
+        if inst_pct is None and insider_pct is None:
+            return None
+
+        # Institutional QoQ trend from institutional_holders.pctChange
+        # pctChange = fractional change in shares held by each major institution.
+        # Weighted sum (capped at ±0.5 per holder) gives directional signal:
+        #   positive → institutions broadly increasing; negative → reducing.
+        inst_trend = None
+        try:
+            ih = ticker_obj.institutional_holders
+            if ih is not None and not ih.empty and 'pctChange' in ih.columns and 'pctHeld' in ih.columns:
+                weighted = 0.0
+                count = 0
+                for _, row in ih.iterrows():
+                    pc = row.get('pctChange')
+                    ph = row.get('pctHeld')
+                    if _is_valid_num(pc) and _is_valid_num(ph):
+                        weighted += max(-0.5, min(0.5, float(pc))) * float(ph)
+                        count += 1
+                if count >= 3:
+                    inst_trend = round(weighted * 100, 2)  # express as pp-equivalent
+        except Exception:
+            pass
+
+        return {
+            'institutional': inst_pct,
+            'insider':       insider_pct,
+            'inst_trend':    inst_trend,   # QoQ directional signal, no snapshot needed
+        }
+    except Exception:
+        return None
+
+
+def fetch_earnings_surprises(ticker_obj) -> list | None:
+    """Fetch last 4 past earnings quarters using earnings_history (no lxml needed).
+
+    earnings_history columns: epsActual, epsEstimate, epsDifference, surprisePercent
+    surprisePercent is in decimal form (0.10 = 10%). Index is quarter-end date.
+    Array returned is newest-first for streak counting in pattern engine.
+    """
+    QUARTER_MAP = {3: 'Q1', 6: 'Q2', 9: 'Q3', 12: 'Q4'}
+    try:
+        eh = ticker_obj.earnings_history
+        if eh is None or eh.empty:
+            return None
+        past = eh[eh['epsActual'].notna()].copy()
+        if past.empty:
+            return None
+        past = past.sort_index(ascending=False).head(4)
+        results = []
+        for dt, row in past.iterrows():
+            est    = row.get('epsEstimate')
+            actual = row.get('epsActual')
+            if est is None or actual is None:
+                continue
+            surprise_pct = round(float(row['surprisePercent']) * 100, 2)
+            verdict = 'beat' if surprise_pct > 1 else 'miss' if surprise_pct < -1 else 'meet'
+            month   = dt.month if hasattr(dt, 'month') else int(str(dt)[5:7])
+            year    = dt.year  if hasattr(dt, 'year')  else int(str(dt)[:4])
+            import calendar
+            quarter_label = QUARTER_MAP.get(month, calendar.month_abbr[month])
+            results.append({
+                'quarter':      f"{quarter_label} {year}",
+                'estimate':     round(float(est), 2),
+                'actual':       round(float(actual), 2),
+                'surprise_pct': surprise_pct,
+                'verdict':      verdict,
+            })
+        return results if results else None
+    except Exception as e:
+        print(f"  [us] earnings_history error: {e}")
+        return None
+
+
 def fetch_us_stock(yf_symbol: str) -> dict:
     t = yf.Ticker(yf_symbol)
     info = t.info
@@ -178,10 +393,94 @@ def fetch_us_stock(yf_symbol: str) -> dict:
 
     mspr = fetch_finnhub_mspr(yf_symbol)
 
+    # -----------------------------------------------------------------------
+    # V2: prevClose
+    # -----------------------------------------------------------------------
+    prev_close = None
+    try:
+        hist_5d = t.history(period='5d')
+        prev_close = float(hist_5d['Close'].iloc[-2]) if len(hist_5d) >= 2 else None
+    except Exception:
+        prev_close = None
+
+    # -----------------------------------------------------------------------
+    # V2: price_action
+    # -----------------------------------------------------------------------
+    price_action = None
+    try:
+        hist_2y = t.history(period='2y')   # 2Y gives ~502 rows; 252 needed for ret_1y
+        price_action = compute_price_action(hist_2y)
+    except Exception as e:
+        print(f"  [us v2] {yf_symbol} price_action error: {e}")
+
+    # -----------------------------------------------------------------------
+    # V2: valuation_context
+    # -----------------------------------------------------------------------
+    valuation_context = None
+    try:
+        price_hist_5y = t.history(period='5y', interval='1mo')
+        try:
+            qbs = t.quarterly_balance_sheet
+            info['_quarterly_balance_sheet'] = qbs
+        except Exception:
+            pass
+        try:
+            qf = t.quarterly_financials
+        except Exception:
+            qf = None
+        valuation_context = compute_valuation_context(info, financials, price_hist_5y,
+                                                      quarterly_financials=qf)
+    except Exception as e:
+        print(f"  [us v2] {yf_symbol} valuation_context error: {e}")
+
+    # -----------------------------------------------------------------------
+    # V2: earnings_surprises
+    # -----------------------------------------------------------------------
+    earnings_surprises = None
+    try:
+        earnings_surprises = fetch_earnings_surprises(t)
+    except Exception as e:
+        print(f"  [us v2] {yf_symbol} earnings_surprises error: {e}")
+
+    # -----------------------------------------------------------------------
+    # V2: ownership (current snapshot only — trend added in fetch_data.py)
+    # -----------------------------------------------------------------------
+    ownership_current = None
+    try:
+        ownership_current = fetch_us_ownership_current(t)
+    except Exception as e:
+        print(f"  [us v2] {yf_symbol} ownership error: {e}")
+
+    ownership = None
+    if ownership_current:
+        ownership = {
+            'current': {
+                'institutional': ownership_current.get('institutional'),
+                'insider':       ownership_current.get('insider'),
+                'promoter': None,
+                'fii':      None,
+                'dii':      None,
+                'public':   None,
+            },
+            # inst_trend from pctChange is available immediately (no snapshot wait).
+            # fetch_data.py snapshot loop will overwrite institutional when history exists.
+            'trend_qoq': {
+                'institutional': ownership_current.get('inst_trend'),
+                'insider':  None,
+                'promoter': None,
+                'fii':      None,
+                'dii':      None,
+                'public':   None,
+            },
+            'as_of':       None,
+            'trend_reason': None if ownership_current.get('inst_trend') is not None else 'no_pctchange_data',
+        }
+
     return {
         'ticker': yf_symbol,
         'name': info.get('longName'),
         'livePrice': info.get('currentPrice'),
+        'prevClose': prev_close,
         'metrics': {
             'minMcapUS': (info.get('marketCap') or 0) / 1e9,
             'maxMcapUS': (info.get('marketCap') or 0) / 1e9,
@@ -209,5 +508,12 @@ def fetch_us_stock(yf_symbol: str) -> dict:
             'analystBuy': (info.get('recommendationMean') or 5) < 2.5,
             'minMSPR': mspr,
             'excludeChina': not is_china_adr(info),
-        }
+        },
+        # V2 fields
+        'price_action': price_action,
+        'valuation_context': valuation_context,
+        'earnings_surprises': earnings_surprises,
+        'ownership': ownership,
+        'retail_signal': None,          # US: not applicable
+        'promoter_activity': None,      # US: not applicable
     }

@@ -1,4 +1,5 @@
 import { FILTERS } from './filters.js';
+import { initTheme } from './theme.js';
 import { scoreStock, formatValue } from './scoring.js';
 import { isWatched, toggleWatchlist, renderWatchlist } from './watchlist.js';
 import { renderAnalyzer } from './analyzer.js';
@@ -306,4 +307,5 @@ document.getElementById('stockPicker').addEventListener('click', () => {
   if (state.analyzerMarket) openSearchModal('stock', state, LOADED_DATA, FILTERS, saveState, render);
 });
 
+initTheme();
 loadData();

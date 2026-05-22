@@ -10,6 +10,7 @@ const APP_SHELL = [
   './js/watchlist.js',
   './js/news.js',
   './js/ui.js',
+  './js/theme.js',
   './manifest.json',
 ];
 
