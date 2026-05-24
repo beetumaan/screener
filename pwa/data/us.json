@@ -4711,9 +4711,9 @@
       "pe_current": 356.41,
       "pe_5y_avg": 225.48,
       "pe_vs_avg_pct": 58.07,
-      "pb_current": 41.74,
+      "pb_current": 39.36,
       "pb_5y_avg": 19.81,
-      "pb_vs_avg_pct": 110.71,
+      "pb_vs_avg_pct": 98.67,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -9059,7 +9059,7 @@
       "pe_vs_avg_pct": null,
       "pb_current": 4.64,
       "pb_5y_avg": 5.1,
-      "pb_vs_avg_pct": -9.09,
+      "pb_vs_avg_pct": -9.04,
       "period_years": 0
     },
     "earnings_surprises": null,
@@ -14614,7 +14614,7 @@
       "minCRUS": 3.545,
       "minICRUS": 354.51123116292297,
       "minRevGUS": 9.6,
-      "minEPSGUS": -3.8,
+      "minEPSGUS": -4.8,
       "min5YSalesUS": 9.615567713196583,
       "min5YProfitUS": 16.40877559921734,
       "minFCFY": 6.329180213833621,
@@ -22731,9 +22731,9 @@
       "pe_current": 28.76,
       "pe_5y_avg": 8.13,
       "pe_vs_avg_pct": 253.7,
-      "pb_current": 1.15,
+      "pb_current": 1.13,
       "pb_5y_avg": 0.95,
-      "pb_vs_avg_pct": 20.58,
+      "pb_vs_avg_pct": 19.39,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -22937,7 +22937,7 @@
       "pct_from_52w_high": -4.93,
       "pct_from_52w_low": 159.72,
       "fifty_two_week_high": 399.04,
-      "fifty_two_week_low": 146.07
+      "fifty_two_week_low": 146.08
     },
     "valuation_context": {
       "pe_current": 28.89,
@@ -29064,7 +29064,7 @@
       "min5YProfitUS": 4.103533451728314,
       "minFCFY": 1.5168554726028523,
       "fcfPositive5Y": true,
-      "maxPEUS": 53.389317,
+      "maxPEUS": 53.480034,
       "maxPEGUS": 1.98,
       "maxBetaUS": 1.501,
       "minGM": 61.446,
@@ -29088,9 +29088,9 @@
       "fifty_two_week_low": 571.46
     },
     "valuation_context": {
-      "pe_current": 53.39,
+      "pe_current": 53.48,
       "pe_5y_avg": 46.03,
-      "pe_vs_avg_pct": 15.99,
+      "pe_vs_avg_pct": 16.19,
       "pb_current": 42.33,
       "pb_5y_avg": 31.58,
       "pb_vs_avg_pct": 34.06,
@@ -30864,7 +30864,7 @@
       "pe_current": 18.18,
       "pe_5y_avg": 20.04,
       "pe_vs_avg_pct": -9.3,
-      "pb_current": -12.16,
+      "pb_current": -13.01,
       "pb_5y_avg": null,
       "pb_vs_avg_pct": null,
       "period_years": 0.3
@@ -35210,9 +35210,9 @@
       "pe_current": 13.15,
       "pe_5y_avg": 19.4,
       "pe_vs_avg_pct": -32.24,
-      "pb_current": 3.36,
+      "pb_current": 3.08,
       "pb_5y_avg": 5.02,
-      "pb_vs_avg_pct": -33.11,
+      "pb_vs_avg_pct": -38.69,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -39317,7 +39317,7 @@
       "min5YProfitUS": 73.36831190009478,
       "minFCFY": 14.774844194911104,
       "fcfPositive5Y": true,
-      "maxPEUS": 10.148016,
+      "maxPEUS": 10.15318,
       "maxPEGUS": 30.62,
       "maxBetaUS": 0.295,
       "minGM": 18.562001,
@@ -39343,7 +39343,7 @@
     "valuation_context": {
       "pe_current": 10.15,
       "pe_5y_avg": 11.05,
-      "pe_vs_avg_pct": -8.16,
+      "pe_vs_avg_pct": -8.12,
       "pb_current": 3.64,
       "pb_5y_avg": 4.17,
       "pb_vs_avg_pct": -12.79,
@@ -40722,9 +40722,9 @@
       "pe_current": 22.28,
       "pe_5y_avg": 23.07,
       "pe_vs_avg_pct": -3.41,
-      "pb_current": 1.83,
+      "pb_current": 1.82,
       "pb_5y_avg": 1.86,
-      "pb_vs_avg_pct": -1.45,
+      "pb_vs_avg_pct": -2.2,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -40828,9 +40828,9 @@
       "pe_current": 10.72,
       "pe_5y_avg": 10.21,
       "pe_vs_avg_pct": 5.02,
-      "pb_current": 1.12,
+      "pb_current": 1.13,
       "pb_5y_avg": 1.13,
-      "pb_vs_avg_pct": -1.17,
+      "pb_vs_avg_pct": 0.09,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -53079,8 +53079,8 @@
       "maxMcapUS": 22.665463808,
       "positiveEPS": true,
       "minROEUS": 54.007000000000005,
-      "minROIC": 17.352,
-      "minOpMargin": 16.156000000000002,
+      "minROIC": 17.356001,
+      "minOpMargin": 16.173000000000002,
       "maxDEUS": 0.79878,
       "minCRUS": 1.331,
       "minICRUS": null,
@@ -53093,7 +53093,7 @@
       "maxPEUS": 21.604939,
       "maxPEGUS": 2.62,
       "maxBetaUS": 1.49,
-      "minGM": 48.650002,
+      "minGM": 46.062002,
       "sharesFlat": true,
       "maxSBC": 1.364474326024848,
       "minInstOwn": 99.117994,
