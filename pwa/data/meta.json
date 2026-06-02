@@ -1,9 +1,9 @@
 {
-  "lastSync": "2026-06-01T17:22:04.593435Z",
+  "lastSync": "2026-06-02T15:41:53.476110Z",
   "counts": {
     "india": 504,
     "us": 516,
-    "mf": 300
+    "mf": 225
   },
   "coverage_v2": {
     "ownership_current": {
@@ -19,7 +19,7 @@
       "us": 516
     },
     "price_action": {
-      "india": 500,
+      "india": 499,
       "us": 516
     },
     "earnings_surprises": {
@@ -35,6 +35,307 @@
   "errors": {
     "india": [],
     "us": [],
-    "mf": []
+    "mf": [
+      {
+        "ticker": "120586",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120465",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119598",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119018",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118632",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118825",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118269",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120152",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118989",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118777",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120722",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119727",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119835",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120186",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "148958",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118968",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120377",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118615",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120594",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "133859",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "120621",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "135800",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118987",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119816",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "111549",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "112039",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118266",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118267",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "118482",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118485",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118486",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118491",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118494",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118510",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118525",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118531",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118533",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118564",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "118581",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118589",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118620",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118624",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118643",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118650",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118678",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118692",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118726",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118881",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118883",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118935",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118936",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119019",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119160",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119202",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119218",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119245",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119250",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119350",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119351",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119364",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119397",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119452",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119464",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119482",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119484",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119488",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119589",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119591",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119609",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119659",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119700",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119839",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "120261",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "120386",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "120492",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      }
+    ]
   }
 }
