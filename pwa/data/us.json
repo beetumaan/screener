@@ -1,7 +1,7 @@
 [
   {
     "ticker": "A",
-    "name": null,
+    "name": "Agilent Technologies, Inc.",
     "livePrice": 135.44,
     "prevClose": 138.3699951171875,
     "metrics": {
@@ -29,7 +29,7 @@
       "minInstOwn": 94.11699999999999,
       "maxShort": 2.22,
       "analystBuy": true,
-      "minMSPR": 17.361990666666664,
+      "minMSPR": 17.361990666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -649,7 +649,7 @@
       "minOpMargin": 13.819,
       "maxDEUS": 0.25469,
       "minCRUS": 1.336,
-      "minICRUS": 47.43273172759292,
+      "minICRUS": 45.936199164314935,
       "minRevGUS": 8.3,
       "minEPSGUS": 4.0,
       "min5YSalesUS": 2.4954913337418727,
@@ -4788,7 +4788,7 @@
       "minEPSGUS": 19.2,
       "min5YSalesUS": 9.059757519321,
       "min5YProfitUS": 11.308185499956824,
-      "minFCFY": null,
+      "minFCFY": 1.7427424207692679,
       "fcfPositive5Y": true,
       "maxPEUS": 54.651794,
       "maxPEGUS": 2.59,
@@ -5133,12 +5133,12 @@
     },
     "valuation_context": {
       "pe_current": 64.07,
-      "pe_5y_avg": 71.92,
-      "pe_vs_avg_pct": -10.91,
+      "pe_5y_avg": 66.49,
+      "pe_vs_avg_pct": -3.63,
       "pb_current": 20.88,
       "pb_5y_avg": 17.88,
       "pb_vs_avg_pct": 16.78,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -6159,7 +6159,7 @@
       "minROEUS": 39.104,
       "minROIC": 7.771,
       "minOpMargin": 4.04,
-      "maxDEUS": 1.3383099999999999,
+      "maxDEUS": 1.3409,
       "minCRUS": 1.121,
       "minICRUS": 30.872340425531913,
       "minRevGUS": 1.9,
@@ -6479,7 +6479,7 @@
       "minOpMargin": 24.781,
       "maxDEUS": 0.62239,
       "minCRUS": 3.239,
-      "minICRUS": 9.860655737704919,
+      "minICRUS": null,
       "minRevGUS": 2.0,
       "minEPSGUS": -61.9,
       "min5YSalesUS": 0.21267091760979184,
@@ -6490,8 +6490,8 @@
       "maxPEGUS": 4.14,
       "maxBetaUS": 0.354,
       "minGM": 60.540000000000006,
-      "sharesFlat": false,
-      "maxSBC": 0.7044025157232704,
+      "sharesFlat": true,
+      "maxSBC": null,
       "minInstOwn": 72.183996,
       "maxShort": 12.540000000000001,
       "analystBuy": false,
@@ -6511,12 +6511,12 @@
     },
     "valuation_context": {
       "pe_current": 17.1,
-      "pe_5y_avg": 15.56,
-      "pe_vs_avg_pct": 9.88,
+      "pe_5y_avg": 16.15,
+      "pe_vs_avg_pct": 5.87,
       "pb_current": 2.98,
       "pb_5y_avg": 1.99,
       "pb_vs_avg_pct": 50.0,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -8843,8 +8843,8 @@
     },
     "valuation_context": {
       "pe_current": 24.09,
-      "pe_5y_avg": 26.73,
-      "pe_vs_avg_pct": -9.86,
+      "pe_5y_avg": 26.42,
+      "pe_vs_avg_pct": -8.8,
       "pb_current": 5.49,
       "pb_5y_avg": 5.74,
       "pb_vs_avg_pct": -4.33,
@@ -9049,7 +9049,7 @@
       "ret_6m": 4.49,
       "ret_1y": 6.93,
       "pct_from_52w_high": -13.29,
-      "pct_from_52w_low": 38.44,
+      "pct_from_52w_low": 38.43,
       "fifty_two_week_high": 109.26,
       "fifty_two_week_low": 68.44
     },
@@ -10298,12 +10298,12 @@
     },
     "valuation_context": {
       "pe_current": 163.83,
-      "pe_5y_avg": 281.4,
-      "pe_vs_avg_pct": -41.78,
+      "pe_5y_avg": 226.24,
+      "pe_vs_avg_pct": -27.59,
       "pb_current": 23.9,
-      "pb_5y_avg": 9.28,
-      "pb_vs_avg_pct": 157.56,
-      "period_years": 0.7
+      "pb_5y_avg": 13.45,
+      "pb_vs_avg_pct": 77.71,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -11746,7 +11746,7 @@
       "maxMcapUS": 13.139003392,
       "positiveEPS": true,
       "minROEUS": 2.8529999999999998,
-      "minROIC": 2.5090002,
+      "minROIC": 2.5190001,
       "minOpMargin": -2.866,
       "maxDEUS": 0.33093000000000006,
       "minCRUS": 1.274,
@@ -11760,7 +11760,7 @@
       "maxPEUS": 33.502487,
       "maxPEGUS": 1.62,
       "maxBetaUS": 0.873,
-      "minGM": 65.50200000000001,
+      "minGM": 65.550005,
       "sharesFlat": true,
       "maxSBC": 1.7227055028833937,
       "minInstOwn": 107.20301,
@@ -12103,8 +12103,8 @@
       "pe_5y_avg": 50.66,
       "pe_vs_avg_pct": -3.69,
       "pb_current": 26.07,
-      "pb_5y_avg": 14.79,
-      "pb_vs_avg_pct": 76.27,
+      "pb_5y_avg": 13.93,
+      "pb_vs_avg_pct": 87.16,
       "period_years": 0.3
     },
     "earnings_surprises": [
@@ -12378,8 +12378,8 @@
     "livePrice": 30.96,
     "prevClose": 30.770000457763672,
     "metrics": {
-      "minMcapUS": 28.66312192,
-      "maxMcapUS": 28.66312192,
+      "minMcapUS": 29.824028672,
+      "maxMcapUS": 29.824028672,
       "positiveEPS": true,
       "minROEUS": 17.607,
       "minROIC": 11.336,
@@ -12391,7 +12391,7 @@
       "minEPSGUS": 2.3,
       "min5YSalesUS": 5.82719553472375,
       "min5YProfitUS": 7.326708375323587,
-      "minFCFY": 4.293879792421439,
+      "minFCFY": 4.126739594894124,
       "fcfPositive5Y": true,
       "maxPEUS": 19.229813,
       "maxPEGUS": 3.71,
@@ -12421,8 +12421,8 @@
       "pe_5y_avg": 20.84,
       "pe_vs_avg_pct": -7.73,
       "pb_current": 3.27,
-      "pb_5y_avg": 3.98,
-      "pb_vs_avg_pct": -17.92,
+      "pb_5y_avg": 4.14,
+      "pb_vs_avg_pct": -21.09,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -12951,8 +12951,8 @@
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
       "pb_current": 38.39,
-      "pb_5y_avg": 30.06,
-      "pb_vs_avg_pct": 27.72,
+      "pb_5y_avg": 31.96,
+      "pb_vs_avg_pct": 20.13,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -14498,8 +14498,8 @@
     "livePrice": 583.44,
     "prevClose": 591.75,
     "metrics": {
-      "minMcapUS": 157.492297728,
-      "maxMcapUS": 157.492297728,
+      "minMcapUS": 157.591404544,
+      "maxMcapUS": 157.591404544,
       "positiveEPS": true,
       "minROEUS": 18.349001,
       "minROIC": 3.8280000000000003,
@@ -14511,7 +14511,7 @@
       "minEPSGUS": -8.5,
       "min5YSalesUS": -2.7251708277996944,
       "min5YProfitUS": -6.753682463315247,
-      "minFCFY": 2.051528897991036,
+      "minFCFY": 2.050238722948811,
       "fcfPositive5Y": true,
       "maxPEUS": 33.0,
       "maxPEGUS": 1.82,
@@ -14750,12 +14750,12 @@
     },
     "valuation_context": {
       "pe_current": 31.45,
-      "pe_5y_avg": 24.76,
-      "pe_vs_avg_pct": 27.02,
+      "pe_5y_avg": 24.38,
+      "pe_vs_avg_pct": 29.0,
       "pb_current": -182.33,
       "pb_5y_avg": null,
       "pb_vs_avg_pct": null,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -14856,12 +14856,12 @@
     },
     "valuation_context": {
       "pe_current": 14.67,
-      "pe_5y_avg": 19.22,
-      "pe_vs_avg_pct": -23.69,
+      "pe_5y_avg": 17.35,
+      "pe_vs_avg_pct": -15.46,
       "pb_current": 2.59,
-      "pb_5y_avg": 3.03,
-      "pb_vs_avg_pct": -14.63,
-      "period_years": 0.7
+      "pb_5y_avg": 3.04,
+      "pb_vs_avg_pct": -14.91,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -16414,12 +16414,12 @@
       "minOpMargin": 6.856,
       "maxDEUS": 0.56404,
       "minCRUS": 1.006,
-      "minICRUS": 7.9738430583501,
+      "minICRUS": 7.758551307847083,
       "minRevGUS": -0.8,
       "minEPSGUS": -75.3,
       "min5YSalesUS": -2.158032454945147,
       "min5YProfitUS": -15.171959253202072,
-      "minFCFY": 5.476508291457206,
+      "minFCFY": null,
       "fcfPositive5Y": false,
       "maxPEUS": 12.334262,
       "maxPEGUS": 2.92,
@@ -22937,7 +22937,7 @@
       "pct_from_52w_high": -8.34,
       "pct_from_52w_low": 150.39,
       "fifty_two_week_high": 399.04,
-      "fifty_two_week_low": 146.07
+      "fifty_two_week_low": 146.08
     },
     "valuation_context": {
       "pe_current": 27.94,
@@ -23156,8 +23156,8 @@
       "pe_5y_avg": 240.87,
       "pe_vs_avg_pct": -7.39,
       "pb_current": 3.02,
-      "pb_5y_avg": 3.59,
-      "pb_vs_avg_pct": -15.93,
+      "pb_5y_avg": 3.62,
+      "pb_vs_avg_pct": -16.62,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -24319,8 +24319,8 @@
     },
     "valuation_context": {
       "pe_current": 19.05,
-      "pe_5y_avg": 24.52,
-      "pe_vs_avg_pct": -22.29,
+      "pe_5y_avg": 23.82,
+      "pe_vs_avg_pct": -20.01,
       "pb_current": 2.24,
       "pb_5y_avg": 2.44,
       "pb_vs_avg_pct": -8.12,
@@ -24746,8 +24746,8 @@
       "pe_5y_avg": 42.31,
       "pe_vs_avg_pct": 8.68,
       "pb_current": 2.64,
-      "pb_5y_avg": 1.15,
-      "pb_vs_avg_pct": 129.5,
+      "pb_5y_avg": 1.51,
+      "pb_vs_avg_pct": 74.78,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -24915,8 +24915,8 @@
     "livePrice": 23.62,
     "prevClose": 23.290000915527344,
     "metrics": {
-      "minMcapUS": 12.998439936,
-      "maxMcapUS": 12.998439936,
+      "minMcapUS": 12.99771392,
+      "maxMcapUS": 12.99771392,
       "positiveEPS": true,
       "minROEUS": 5.831,
       "minROIC": 4.5819998,
@@ -24928,7 +24928,7 @@
       "minEPSGUS": -5.1,
       "min5YSalesUS": -0.5726196113662985,
       "min5YProfitUS": -13.717544006279802,
-      "minFCFY": 4.110870247744783,
+      "minFCFY": 4.111099869476123,
       "fcfPositive5Y": true,
       "maxPEUS": 27.788235,
       "maxPEGUS": 1.74,
@@ -25909,8 +25909,8 @@
     },
     "valuation_context": {
       "pe_current": 20.57,
-      "pe_5y_avg": 25.8,
-      "pe_vs_avg_pct": -20.28,
+      "pe_5y_avg": 24.95,
+      "pe_vs_avg_pct": -17.57,
       "pb_current": 2.72,
       "pb_5y_avg": 3.24,
       "pb_vs_avg_pct": -16.14,
@@ -27501,9 +27501,9 @@
       "pe_current": 23.47,
       "pe_5y_avg": 24.49,
       "pe_vs_avg_pct": -4.18,
-      "pb_current": 22.61,
+      "pb_current": 22.52,
       "pb_5y_avg": 22.87,
-      "pb_vs_avg_pct": -1.12,
+      "pb_vs_avg_pct": -1.54,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -27898,7 +27898,7 @@
       "min5YProfitUS": -7.984454263771568,
       "minFCFY": 3.144810459796379,
       "fcfPositive5Y": true,
-      "maxPEUS": 47.735134,
+      "maxPEUS": 47.60647,
       "maxPEGUS": 0.82,
       "maxBetaUS": 1.287,
       "minGM": 9.037,
@@ -27922,9 +27922,9 @@
       "fifty_two_week_low": 97.19
     },
     "valuation_context": {
-      "pe_current": 47.74,
+      "pe_current": 47.61,
       "pe_5y_avg": 40.98,
-      "pe_vs_avg_pct": 16.48,
+      "pe_vs_avg_pct": 16.17,
       "pb_current": 27.81,
       "pb_5y_avg": 18.03,
       "pb_vs_avg_pct": 54.25,
@@ -28629,8 +28629,8 @@
       "maxMcapUS": 56.366415872,
       "positiveEPS": true,
       "minROEUS": 18.174,
-      "minROIC": 7.127,
-      "minOpMargin": 30.110999999999997,
+      "minROIC": 6.039,
+      "minOpMargin": 18.812001000000002,
       "maxDEUS": 0.43642000000000003,
       "minCRUS": 1.903,
       "minICRUS": 12.270833333333334,
@@ -28643,7 +28643,7 @@
       "maxPEUS": 53.198387,
       "maxPEGUS": 1.48,
       "maxBetaUS": 1.221,
-      "minGM": 65.194,
+      "minGM": 62.139,
       "sharesFlat": true,
       "maxSBC": 3.013953488372093,
       "minInstOwn": 93.17500600000001,
@@ -28668,8 +28668,8 @@
       "pe_5y_avg": 55.48,
       "pe_vs_avg_pct": -4.11,
       "pb_current": 8.91,
-      "pb_5y_avg": 5.8,
-      "pb_vs_avg_pct": 53.6,
+      "pb_5y_avg": 6.59,
+      "pb_vs_avg_pct": 35.19,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -30199,7 +30199,7 @@
       "minEPSGUS": -7.7,
       "min5YSalesUS": 1.9443532779613193,
       "min5YProfitUS": 10.142948937208086,
-      "minFCFY": null,
+      "minFCFY": 3.610396436992221,
       "fcfPositive5Y": true,
       "maxPEUS": 22.57682,
       "maxPEGUS": 1.47,
@@ -30822,8 +30822,8 @@
     "livePrice": 210.74,
     "prevClose": 207.52999877929688,
     "metrics": {
-      "minMcapUS": 118.16341504,
-      "maxMcapUS": 118.16341504,
+      "minMcapUS": 118.22514176,
+      "maxMcapUS": 118.22514176,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 12.792,
@@ -30835,7 +30835,7 @@
       "minEPSGUS": -0.7000000000000001,
       "min5YSalesUS": -2.3255656470140385,
       "min5YProfitUS": 0.6653151438462679,
-      "minFCFY": 6.474931346060053,
+      "minFCFY": 6.471550709181403,
       "fcfPositive5Y": true,
       "maxPEUS": 17.829103,
       "maxPEGUS": 1.36,
@@ -31074,12 +31074,12 @@
     },
     "valuation_context": {
       "pe_current": 9.25,
-      "pe_5y_avg": 11.68,
-      "pe_vs_avg_pct": -20.81,
+      "pe_5y_avg": 11.11,
+      "pe_vs_avg_pct": -16.75,
       "pb_current": 2.68,
-      "pb_5y_avg": 5.17,
-      "pb_vs_avg_pct": -48.12,
-      "period_years": 0.7
+      "pb_5y_avg": 4.26,
+      "pb_vs_avg_pct": -37.04,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -32558,12 +32558,12 @@
     },
     "valuation_context": {
       "pe_current": 21.9,
-      "pe_5y_avg": 24.72,
-      "pe_vs_avg_pct": -11.43,
+      "pe_5y_avg": 23.01,
+      "pe_vs_avg_pct": -4.84,
       "pb_current": 2.14,
       "pb_5y_avg": 2.35,
       "pb_vs_avg_pct": -8.95,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -34214,8 +34214,8 @@
     "livePrice": 263.47,
     "prevClose": 316.42999267578125,
     "metrics": {
-      "minMcapUS": 230.4835584,
-      "maxMcapUS": 230.4835584,
+      "minMcapUS": 230.681985024,
+      "maxMcapUS": 230.681985024,
       "positiveEPS": true,
       "minROEUS": 16.028000000000002,
       "minROIC": 3.8080000000000003,
@@ -34227,7 +34227,7 @@
       "minEPSGUS": -80.4,
       "min5YSalesUS": 6.720310359557868,
       "min5YProfitUS": null,
-      "minFCFY": 0.6039042479482997,
+      "minFCFY": 0.6033847852727589,
       "fcfPositive5Y": true,
       "maxPEUS": 90.85172,
       "maxPEGUS": 1.79,
@@ -34547,7 +34547,7 @@
       "min5YProfitUS": 6.960785486055521,
       "minFCFY": 2.313610117700935,
       "fcfPositive5Y": true,
-      "maxPEUS": 24.831347,
+      "maxPEUS": 24.816557,
       "maxPEGUS": 1.28,
       "maxBetaUS": 1.103,
       "minGM": 68.309,
@@ -34571,9 +34571,9 @@
       "fifty_two_week_low": 351.11
     },
     "valuation_context": {
-      "pe_current": 24.83,
+      "pe_current": 24.82,
       "pe_5y_avg": 24.94,
-      "pe_vs_avg_pct": -0.44,
+      "pe_vs_avg_pct": -0.49,
       "pb_current": 7.47,
       "pb_5y_avg": 9.38,
       "pb_vs_avg_pct": -20.36,
@@ -35741,8 +35741,8 @@
       "pe_5y_avg": 31.65,
       "pe_vs_avg_pct": -16.24,
       "pb_current": 11.12,
-      "pb_5y_avg": 11.64,
-      "pb_vs_avg_pct": -4.45,
+      "pb_5y_avg": 17.17,
+      "pb_vs_avg_pct": -35.22,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -35846,9 +35846,9 @@
       "pe_current": 23.19,
       "pe_5y_avg": 24.31,
       "pe_vs_avg_pct": -4.61,
-      "pb_current": 2.36,
+      "pb_current": 2.31,
       "pb_5y_avg": 2.25,
-      "pb_vs_avg_pct": 4.88,
+      "pb_vs_avg_pct": 2.82,
       "period_years": 0.8
     },
     "earnings_surprises": [
@@ -36446,11 +36446,11 @@
       "minROEUS": 106.734,
       "minROIC": 9.824,
       "minOpMargin": 27.259,
-      "maxDEUS": 1.8408600000000002,
+      "maxDEUS": 2.02295,
       "minCRUS": 1.436,
       "minICRUS": 22.609375,
       "minRevGUS": 12.5,
-      "minEPSGUS": 23.5,
+      "minEPSGUS": 23.400000000000002,
       "min5YSalesUS": 0.7914252996432003,
       "min5YProfitUS": 4.8260013346004715,
       "minFCFY": 4.044250966167082,
@@ -36482,9 +36482,9 @@
       "pe_current": 26.31,
       "pe_5y_avg": 20.88,
       "pe_vs_avg_pct": 25.98,
-      "pb_current": 28.56,
+      "pb_current": 24.36,
       "pb_5y_avg": 19.81,
-      "pb_vs_avg_pct": 44.19,
+      "pb_vs_avg_pct": 22.95,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -36694,9 +36694,9 @@
       "pe_current": 25.26,
       "pe_5y_avg": 23.58,
       "pe_vs_avg_pct": 7.13,
-      "pb_current": 2.77,
+      "pb_current": 2.7,
       "pb_5y_avg": 1.83,
-      "pb_vs_avg_pct": 51.59,
+      "pb_vs_avg_pct": 47.57,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -37116,8 +37116,8 @@
     },
     "valuation_context": {
       "pe_current": 34.51,
-      "pe_5y_avg": 26.6,
-      "pe_vs_avg_pct": 29.72,
+      "pe_5y_avg": 12.84,
+      "pe_vs_avg_pct": 168.74,
       "pb_current": 1.75,
       "pb_5y_avg": 1.12,
       "pb_vs_avg_pct": 56.01,
@@ -38282,12 +38282,12 @@
     },
     "valuation_context": {
       "pe_current": 238.64,
-      "pe_5y_avg": 110.94,
-      "pe_vs_avg_pct": 115.11,
+      "pe_5y_avg": 140.15,
+      "pe_vs_avg_pct": 70.27,
       "pb_current": 20.36,
-      "pb_5y_avg": 19.47,
-      "pb_vs_avg_pct": 4.58,
-      "period_years": 0.7
+      "pb_5y_avg": 16.71,
+      "pb_vs_avg_pct": 21.85,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -38467,7 +38467,7 @@
       "minEPSGUS": 19.7,
       "min5YSalesUS": -0.2615336834760673,
       "min5YProfitUS": -4.632034489994485,
-      "minFCFY": 4.932981633225749,
+      "minFCFY": null,
       "fcfPositive5Y": true,
       "maxPEUS": 24.825533,
       "maxPEGUS": 1.21,
@@ -39970,7 +39970,7 @@
       "ret_1m": 4.55,
       "ret_3m": 5.83,
       "ret_6m": 19.65,
-      "ret_1y": 2.19,
+      "ret_1y": 2.18,
       "pct_from_52w_high": -7.07,
       "pct_from_52w_low": 90.61,
       "fifty_two_week_high": 191.86,
@@ -40059,7 +40059,7 @@
       "min5YProfitUS": 2.80164158841012,
       "minFCFY": null,
       "fcfPositive5Y": true,
-      "maxPEUS": 13.269611,
+      "maxPEUS": 13.261905,
       "maxPEGUS": 1.74,
       "maxBetaUS": 0.918,
       "minGM": 0,
@@ -40083,9 +40083,9 @@
       "fifty_two_week_low": 140.16
     },
     "valuation_context": {
-      "pe_current": 13.27,
-      "pe_5y_avg": 12.9,
-      "pe_vs_avg_pct": 2.87,
+      "pe_current": 13.26,
+      "pe_5y_avg": 12.88,
+      "pe_vs_avg_pct": 2.97,
       "pb_current": 1.44,
       "pb_5y_avg": 1.34,
       "pb_vs_avg_pct": 7.69,
@@ -40192,9 +40192,9 @@
       "pe_current": 18.38,
       "pe_5y_avg": 21.24,
       "pe_vs_avg_pct": -13.47,
-      "pb_current": 3.1,
+      "pb_current": 3.09,
       "pb_5y_avg": 4.13,
-      "pb_vs_avg_pct": -24.88,
+      "pb_vs_avg_pct": -25.28,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -40402,12 +40402,12 @@
     },
     "valuation_context": {
       "pe_current": 35.8,
-      "pe_5y_avg": 52.15,
-      "pe_vs_avg_pct": -31.35,
+      "pe_5y_avg": 67.51,
+      "pe_vs_avg_pct": -46.97,
       "pb_current": 8.15,
       "pb_5y_avg": 13.67,
       "pb_vs_avg_pct": -40.4,
-      "period_years": 0.5
+      "period_years": 0.8
     },
     "earnings_surprises": [
       {
@@ -41252,9 +41252,9 @@
       "pe_current": 13.16,
       "pe_5y_avg": 17.53,
       "pe_vs_avg_pct": -24.93,
-      "pb_current": 4.24,
+      "pb_current": 4.1,
       "pb_5y_avg": 5.38,
-      "pb_vs_avg_pct": -21.21,
+      "pb_vs_avg_pct": -23.8,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -42836,8 +42836,8 @@
       "pe_5y_avg": 32.29,
       "pe_vs_avg_pct": -0.36,
       "pb_current": 11.73,
-      "pb_5y_avg": 8.81,
-      "pb_vs_avg_pct": 33.14,
+      "pb_5y_avg": 9.69,
+      "pb_vs_avg_pct": 21.05,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -44105,8 +44105,8 @@
     },
     "valuation_context": {
       "pe_current": 21.92,
-      "pe_5y_avg": 18.3,
-      "pe_vs_avg_pct": 19.76,
+      "pe_5y_avg": 18.8,
+      "pe_vs_avg_pct": 16.57,
       "pb_current": 3.31,
       "pb_5y_avg": 3.46,
       "pb_vs_avg_pct": -4.46,
@@ -45337,8 +45337,8 @@
     "livePrice": 847.47,
     "prevClose": 925.989990234375,
     "metrics": {
-      "minMcapUS": 191.74187008,
-      "maxMcapUS": 191.74187008,
+      "minMcapUS": 190.027333632,
+      "maxMcapUS": 190.027333632,
       "positiveEPS": true,
       "minROEUS": 1787.97,
       "minROIC": 24.664,
@@ -45350,7 +45350,7 @@
       "minEPSGUS": 108.3,
       "min5YSalesUS": -4.844810196087968,
       "min5YProfitUS": -2.2852268715989887,
-      "minFCFY": 0.42661521954422776,
+      "minFCFY": 0.43046438865690184,
       "fcfPositive5Y": true,
       "maxPEUS": 80.63463,
       "maxPEGUS": 0.64,
@@ -45380,8 +45380,8 @@
       "pe_5y_avg": 58.11,
       "pe_vs_avg_pct": 38.76,
       "pb_current": 402.79,
-      "pb_5y_avg": 191.24,
-      "pb_vs_avg_pct": 110.62,
+      "pb_5y_avg": 189.53,
+      "pb_vs_avg_pct": 112.52,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -45697,9 +45697,9 @@
       "pe_current": 32.16,
       "pe_5y_avg": 30.82,
       "pe_vs_avg_pct": 4.36,
-      "pb_current": 1.34,
+      "pb_current": 1.36,
       "pb_5y_avg": 1.28,
-      "pb_vs_avg_pct": 4.98,
+      "pb_vs_avg_pct": 6.17,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -46227,9 +46227,9 @@
       "pe_current": 7.48,
       "pe_5y_avg": 8.32,
       "pe_vs_avg_pct": -10.05,
-      "pb_current": 1.45,
+      "pb_current": 1.44,
       "pb_5y_avg": 1.75,
-      "pb_vs_avg_pct": -17.23,
+      "pb_vs_avg_pct": -17.43,
       "period_years": 0.8
     },
     "earnings_surprises": [
@@ -49195,9 +49195,9 @@
       "pe_current": 43.1,
       "pe_5y_avg": 46.22,
       "pe_vs_avg_pct": -6.74,
-      "pb_current": 3.63,
+      "pb_current": 3.72,
       "pb_5y_avg": 5.21,
-      "pb_vs_avg_pct": -30.25,
+      "pb_vs_avg_pct": -28.55,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -49301,9 +49301,9 @@
       "pe_current": 9.46,
       "pe_5y_avg": 9.42,
       "pe_vs_avg_pct": 0.39,
-      "pb_current": 2.18,
+      "pb_current": 2.16,
       "pb_5y_avg": 2.3,
-      "pb_vs_avg_pct": -5.37,
+      "pb_vs_avg_pct": -6.01,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -49513,9 +49513,9 @@
       "pe_current": 26.67,
       "pe_5y_avg": 28.34,
       "pe_vs_avg_pct": -5.9,
-      "pb_current": 3.97,
+      "pb_current": 3.94,
       "pb_5y_avg": 3.68,
-      "pb_vs_avg_pct": 7.75,
+      "pb_vs_avg_pct": 7.06,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -49723,12 +49723,12 @@
     },
     "valuation_context": {
       "pe_current": 17.51,
-      "pe_5y_avg": 21.77,
-      "pe_vs_avg_pct": -19.55,
+      "pe_5y_avg": 20.85,
+      "pe_vs_avg_pct": -16.01,
       "pb_current": 7.36,
-      "pb_5y_avg": 8.31,
-      "pb_vs_avg_pct": -11.45,
-      "period_years": 0.7
+      "pb_5y_avg": 8.6,
+      "pb_vs_avg_pct": -14.44,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -49822,7 +49822,7 @@
       "ret_3m": 40.52,
       "ret_6m": 19.3,
       "ret_1y": 36.74,
-      "pct_from_52w_high": -33.77,
+      "pct_from_52w_high": -33.78,
       "pct_from_52w_low": 71.53,
       "fifty_two_week_high": 603.2,
       "fifty_two_week_low": 232.89
@@ -50327,7 +50327,7 @@
       "minOpMargin": 67.34599999999999,
       "maxDEUS": 0.6723300000000001,
       "minCRUS": 1.088,
-      "minICRUS": 45.08658743633277,
+      "minICRUS": 42.07640067911715,
       "minRevGUS": 17.1,
       "minEPSGUS": 35.5,
       "min5YSalesUS": 6.416466563272505,
@@ -50465,12 +50465,12 @@
     },
     "valuation_context": {
       "pe_current": 30.6,
-      "pe_5y_avg": 35.18,
-      "pe_vs_avg_pct": -13.01,
+      "pe_5y_avg": 30.52,
+      "pe_vs_avg_pct": 0.28,
       "pb_current": 3.92,
       "pb_5y_avg": 6.1,
       "pb_vs_avg_pct": -35.77,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -53189,7 +53189,7 @@
       "minOpMargin": 21.695,
       "maxDEUS": 0.10734,
       "minCRUS": 2.71,
-      "minICRUS": 1202.8,
+      "minICRUS": 1272.2,
       "minRevGUS": 21.0,
       "minEPSGUS": 56.10000000000001,
       "min5YSalesUS": 1.264506386460429,
@@ -53857,12 +53857,12 @@
     },
     "valuation_context": {
       "pe_current": 27.35,
-      "pe_5y_avg": 34.02,
-      "pe_vs_avg_pct": -19.61,
+      "pe_5y_avg": 37.31,
+      "pe_vs_avg_pct": -26.7,
       "pb_current": 2.33,
       "pb_5y_avg": 2.74,
       "pb_vs_avg_pct": -14.87,
-      "period_years": 0.2
+      "period_years": 0.8
     },
     "earnings_surprises": [
       {
@@ -54283,9 +54283,9 @@
       "pe_current": 28.0,
       "pe_5y_avg": 27.61,
       "pe_vs_avg_pct": 1.41,
-      "pb_current": 3.24,
+      "pb_current": 3.21,
       "pb_5y_avg": 3.5,
-      "pb_vs_avg_pct": -7.53,
+      "pb_vs_avg_pct": -8.34,
       "period_years": 0.5
     },
     "earnings_surprises": [
