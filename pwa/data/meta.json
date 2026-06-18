@@ -1,9 +1,9 @@
 {
-  "lastSync": "2026-06-17T15:18:52.631886Z",
+  "lastSync": "2026-06-18T14:55:06.995977Z",
   "counts": {
     "india": 504,
     "us": 516,
-    "mf": 280
+    "mf": 284
   },
   "coverage_v2": {
     "ownership_current": {
@@ -37,27 +37,27 @@
     "us": [],
     "mf": [
       {
-        "ticker": "122639",
+        "ticker": "119076",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "120586",
+        "ticker": "151412",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "120465",
+        "ticker": "120152",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "119598",
-        "error": "_ssl.c:999: The handshake operation timed out"
+        "ticker": "118834",
+        "error": "The read operation timed out"
       },
       {
-        "ticker": "119018",
-        "error": "_ssl.c:999: The handshake operation timed out"
+        "ticker": "120591",
+        "error": "The read operation timed out"
       },
       {
-        "ticker": "118285",
+        "ticker": "118784",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
@@ -65,55 +65,39 @@
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "119533",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "118419",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "118494",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "118650",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "118791",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119202",
+        "ticker": "120621",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "119333",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119343",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119413",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119586",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119659",
+        "ticker": "118574",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "120416",
+        "ticker": "118678",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "120726",
+        "ticker": "118881",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119178",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119275",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "119331",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "119404",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120405",
         "error": "_ssl.c:999: The handshake operation timed out"
       }
     ]
