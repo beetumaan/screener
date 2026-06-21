@@ -1623,13 +1623,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": -0.74,
-      "ret_1m": -1.54,
-      "ret_3m": 8.27,
-      "ret_6m": 5.35,
-      "ret_1y": 15.58,
-      "pct_from_52w_high": -1.69,
-      "pct_from_52w_low": 36.88,
+      "ret_1w": -0.84,
+      "ret_1m": -1.98,
+      "ret_3m": 8.3,
+      "ret_6m": 6.57,
+      "ret_1y": 15.52,
+      "pct_from_52w_high": -2.34,
+      "pct_from_52w_low": 35.97,
       "fifty_two_week_high": 118.24,
       "fifty_two_week_low": 84.92
     },
@@ -2776,7 +2776,7 @@
       "min5YProfitUS": -8.688599484070048,
       "minFCFY": 4.264692681317294,
       "fcfPositive5Y": true,
-      "maxPEUS": 32.864002,
+      "maxPEUS": 33.129032,
       "maxPEGUS": 0.57,
       "maxBetaUS": 0.636,
       "minGM": 19.143999,
@@ -2800,9 +2800,9 @@
       "fifty_two_week_low": 36.09
     },
     "valuation_context": {
-      "pe_current": 32.86,
+      "pe_current": 33.13,
       "pe_5y_avg": 27.47,
-      "pe_vs_avg_pct": 19.64,
+      "pe_vs_avg_pct": 20.6,
       "pb_current": 1.63,
       "pb_5y_avg": 2.38,
       "pb_vs_avg_pct": -31.54,
@@ -4591,13 +4591,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 1.04,
-      "ret_1m": 4.8,
-      "ret_3m": 22.34,
-      "ret_6m": -23.41,
-      "ret_1y": -20.32,
-      "pct_from_52w_high": -31.87,
-      "pct_from_52w_low": 36.17,
+      "ret_1w": -1.64,
+      "ret_1m": 7.87,
+      "ret_3m": 20.98,
+      "ret_6m": -23.23,
+      "ret_1y": -18.81,
+      "pct_from_52w_high": -31.35,
+      "pct_from_52w_low": 37.22,
       "fifty_two_week_high": 188.4,
       "fifty_two_week_low": 94.25
     },
@@ -5214,7 +5214,7 @@
       "min5YProfitUS": -1.895927001455222,
       "minFCFY": 5.610713610479556,
       "fcfPositive5Y": true,
-      "maxPEUS": 17.889515,
+      "maxPEUS": 17.849268,
       "maxPEGUS": 1.92,
       "maxBetaUS": 0.833,
       "minGM": 28.754999999999995,
@@ -5238,9 +5238,9 @@
       "fifty_two_week_low": 153.01
     },
     "valuation_context": {
-      "pe_current": 17.89,
+      "pe_current": 17.85,
       "pe_5y_avg": 19.29,
-      "pe_vs_avg_pct": -7.26,
+      "pe_vs_avg_pct": -7.47,
       "pb_current": 5.29,
       "pb_5y_avg": 5.93,
       "pb_vs_avg_pct": -10.83,
@@ -6711,13 +6711,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 2.28,
-      "ret_1m": 3.52,
-      "ret_3m": 8.97,
-      "ret_6m": 13.05,
-      "ret_1y": 51.61,
-      "pct_from_52w_high": -16.1,
-      "pct_from_52w_low": 75.22,
+      "ret_1w": -1.69,
+      "ret_1m": 3.16,
+      "ret_3m": 7.18,
+      "ret_6m": 14.62,
+      "ret_1y": 55.33,
+      "pct_from_52w_high": -16.98,
+      "pct_from_52w_low": 73.38,
       "fifty_two_week_high": 236.8,
       "fifty_two_week_low": 113.38
     },
@@ -7122,7 +7122,7 @@
       "min5YProfitUS": 1.4082120104393914,
       "minFCFY": 2.0771250622643502,
       "fcfPositive5Y": true,
-      "maxPEUS": 26.404072,
+      "maxPEUS": 26.457294,
       "maxPEGUS": 1.33,
       "maxBetaUS": 1.434,
       "minGM": 46.890998,
@@ -7146,9 +7146,9 @@
       "fifty_two_week_low": 748.78
     },
     "valuation_context": {
-      "pe_current": 26.4,
+      "pe_current": 26.46,
       "pe_5y_avg": 27.47,
-      "pe_vs_avg_pct": -3.88,
+      "pe_vs_avg_pct": -3.69,
       "pb_current": 2.88,
       "pb_5y_avg": 3.05,
       "pb_vs_avg_pct": -5.64,
@@ -7554,7 +7554,7 @@
       "maxSBC": null,
       "minInstOwn": 67.309,
       "maxShort": 0.9599999499999999,
-      "analystBuy": true,
+      "analystBuy": false,
       "minMSPR": -3.3431903875,
       "excludeChina": true
     },
@@ -8749,7 +8749,7 @@
         "quarter": "Q1 2026",
         "estimate": 6.61,
         "actual": 6.82,
-        "surprise_pct": 3.24,
+        "surprise_pct": 3.16,
         "verdict": "beat"
       },
       {
@@ -11028,13 +11028,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 13.84,
-      "ret_1m": 6.22,
-      "ret_3m": 32.53,
-      "ret_6m": 39.67,
-      "ret_1y": 126.26,
-      "pct_from_52w_high": 0.0,
-      "pct_from_52w_low": 179.41,
+      "ret_1w": 9.33,
+      "ret_1m": 9.05,
+      "ret_3m": 33.11,
+      "ret_6m": 40.23,
+      "ret_1y": 131.37,
+      "pct_from_52w_high": -0.13,
+      "pct_from_52w_low": 179.06,
       "fifty_two_week_high": 717.78,
       "fifty_two_week_low": 256.89
     },
@@ -11066,7 +11066,7 @@
         "quarter": "Q3 2025",
         "estimate": 4.77,
         "actual": 3.86,
-        "surprise_pct": -19.05,
+        "surprise_pct": -19.04,
         "verdict": "miss"
       },
       {
@@ -12492,7 +12492,7 @@
       "min5YProfitUS": -10.069595286529488,
       "minFCFY": 3.5761405059572313,
       "fcfPositive5Y": true,
-      "maxPEUS": 30.444134,
+      "maxPEUS": 30.529411,
       "maxPEGUS": 9.17,
       "maxBetaUS": 0.814,
       "minGM": 61.622,
@@ -12516,9 +12516,9 @@
       "fifty_two_week_low": 95.56
     },
     "valuation_context": {
-      "pe_current": 30.44,
+      "pe_current": 30.53,
       "pe_5y_avg": 29.6,
-      "pe_vs_avg_pct": 2.85,
+      "pe_vs_avg_pct": 3.14,
       "pb_current": 2.81,
       "pb_5y_avg": 2.42,
       "pb_vs_avg_pct": 16.23,
@@ -15834,9 +15834,9 @@
       },
       {
         "quarter": "Q2 2025",
-        "estimate": -0.16,
+        "estimate": -0.17,
         "actual": -0.42,
-        "surprise_pct": -156.32,
+        "surprise_pct": -146.25,
         "verdict": "miss"
       }
     ],
@@ -19382,7 +19382,7 @@
       "min5YProfitUS": 29.741323107686824,
       "minFCFY": 10.756288890977658,
       "fcfPositive5Y": true,
-      "maxPEUS": 21.262136,
+      "maxPEUS": 21.280918,
       "maxPEGUS": 0.79,
       "maxBetaUS": 1.257,
       "minGM": 90.271,
@@ -19395,20 +19395,20 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 9.38,
-      "ret_1m": 11.62,
-      "ret_3m": -0.03,
-      "ret_6m": -15.15,
-      "ret_1y": 46.62,
-      "pct_from_52w_high": -20.18,
-      "pct_from_52w_low": 116.23,
+      "ret_1w": 7.23,
+      "ret_1m": 12.28,
+      "ret_3m": 0.84,
+      "ret_6m": -15.12,
+      "ret_1y": 49.88,
+      "pct_from_52w_high": -19.71,
+      "pct_from_52w_low": 117.52,
       "fifty_two_week_high": 300.02,
       "fifty_two_week_low": 110.75
     },
     "valuation_context": {
-      "pe_current": 21.26,
+      "pe_current": 21.28,
       "pe_5y_avg": 21.19,
-      "pe_vs_avg_pct": 0.34,
+      "pe_vs_avg_pct": 0.43,
       "pb_current": 50.19,
       "pb_5y_avg": 26.5,
       "pb_vs_avg_pct": 89.39,
@@ -20018,7 +20018,7 @@
       "min5YProfitUS": 8.507746895354984,
       "minFCFY": 7.658967383279427,
       "fcfPositive5Y": true,
-      "maxPEUS": 14.2400255,
+      "maxPEUS": 14.249195,
       "maxPEGUS": 1.05,
       "maxBetaUS": 0.707,
       "minGM": 51.93600000000001,
@@ -20042,9 +20042,9 @@
       "fifty_two_week_low": 188.17
     },
     "valuation_context": {
-      "pe_current": 14.24,
+      "pe_current": 14.25,
       "pe_5y_avg": 15.06,
-      "pe_vs_avg_pct": -5.44,
+      "pe_vs_avg_pct": -5.38,
       "pb_current": 3.81,
       "pb_5y_avg": 5.34,
       "pb_vs_avg_pct": -28.68,
@@ -20869,7 +20869,7 @@
         "quarter": "Q3 2025",
         "estimate": 0.86,
         "actual": 0.91,
-        "surprise_pct": 5.47,
+        "surprise_pct": 5.86,
         "verdict": "beat"
       },
       {
@@ -21650,13 +21650,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": 6.38,
-      "ret_1m": 5.75,
-      "ret_3m": 3.16,
-      "ret_6m": 7.43,
-      "ret_1y": 32.3,
-      "pct_from_52w_high": -0.78,
-      "pct_from_52w_low": 53.57,
+      "ret_1w": -2.47,
+      "ret_1m": 2.9,
+      "ret_3m": 0.57,
+      "ret_6m": 4.62,
+      "ret_1y": 26.71,
+      "pct_from_52w_high": -4.29,
+      "pct_from_52w_low": 48.14,
       "fifty_two_week_high": 365.68,
       "fifty_two_week_low": 236.26
     },
@@ -22013,7 +22013,7 @@
         "quarter": "Q2 2025",
         "estimate": 0.92,
         "actual": 1.06,
-        "surprise_pct": 15.41,
+        "surprise_pct": 15.51,
         "verdict": "beat"
       }
     ],
@@ -23121,7 +23121,7 @@
       "min5YProfitUS": -43.861425356632246,
       "minFCFY": 2.783415172244463,
       "fcfPositive5Y": true,
-      "maxPEUS": 247.04546,
+      "maxPEUS": 252.79068,
       "maxPEGUS": 1.32,
       "maxBetaUS": 0.679,
       "minGM": 37.515998,
@@ -23145,9 +23145,9 @@
       "fifty_two_week_low": 91.47
     },
     "valuation_context": {
-      "pe_current": 247.05,
+      "pe_current": 252.79,
       "pe_5y_avg": 244.87,
-      "pe_vs_avg_pct": 0.89,
+      "pe_vs_avg_pct": 3.23,
       "pb_current": 3.34,
       "pb_5y_avg": 3.59,
       "pb_vs_avg_pct": -6.89,
@@ -26571,7 +26571,7 @@
         "quarter": "Q2 2025",
         "estimate": 0.01,
         "actual": -0.1,
-        "surprise_pct": -1280.64,
+        "surprise_pct": -1169.52,
         "verdict": "miss"
       }
     ],
@@ -28660,9 +28660,9 @@
       "pe_current": 58.47,
       "pe_5y_avg": 56.58,
       "pe_vs_avg_pct": 3.34,
-      "pb_current": 9.82,
+      "pb_current": 9.81,
       "pb_5y_avg": 6.78,
-      "pb_vs_avg_pct": 44.88,
+      "pb_vs_avg_pct": 44.67,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -29057,7 +29057,7 @@
       "min5YProfitUS": 4.103533451728314,
       "minFCFY": 1.103559680392939,
       "fcfPositive5Y": true,
-      "maxPEUS": 73.32204,
+      "maxPEUS": 73.52975,
       "maxPEGUS": 2.68,
       "maxBetaUS": 1.504,
       "minGM": 61.446,
@@ -29081,9 +29081,9 @@
       "fifty_two_week_low": 57.15
     },
     "valuation_context": {
-      "pe_current": 73.32,
+      "pe_current": 73.53,
       "pe_5y_avg": 5.07,
-      "pe_vs_avg_pct": 1346.19,
+      "pe_vs_avg_pct": 1350.29,
       "pb_current": 58.18,
       "pb_5y_avg": 31.72,
       "pb_vs_avg_pct": 83.43,
@@ -30512,7 +30512,7 @@
       "min5YProfitUS": 27.010092349727643,
       "minFCFY": 0.6087949094398066,
       "fcfPositive5Y": false,
-      "maxPEUS": 38.997868,
+      "maxPEUS": 39.067207,
       "maxPEGUS": 1.47,
       "maxBetaUS": 0.517,
       "minGM": 82.832,
@@ -30536,9 +30536,9 @@
       "fifty_two_week_low": 621.26
     },
     "valuation_context": {
-      "pe_current": 39.0,
+      "pe_current": 39.07,
       "pe_5y_avg": 40.23,
-      "pe_vs_avg_pct": -3.06,
+      "pe_vs_avg_pct": -2.89,
       "pb_current": 31.46,
       "pb_5y_avg": 36.74,
       "pb_vs_avg_pct": -14.36,
@@ -30838,7 +30838,7 @@
       "maxSBC": 0.28625733027374084,
       "minInstOwn": 81.253,
       "maxShort": 1.97,
-      "analystBuy": true,
+      "analystBuy": false,
       "minMSPR": 23.160180000000008,
       "excludeChina": true
     },
@@ -31572,7 +31572,7 @@
       "min5YProfitUS": 8.553268690175653,
       "minFCFY": 3.7971622807695837,
       "fcfPositive5Y": true,
-      "maxPEUS": 28.311562,
+      "maxPEUS": 28.327934,
       "maxPEGUS": 1.51,
       "maxBetaUS": 0.738,
       "minGM": 100.0,
@@ -31596,9 +31596,9 @@
       "fifty_two_week_low": 425.21
     },
     "valuation_context": {
-      "pe_current": 28.31,
+      "pe_current": 28.33,
       "pe_5y_avg": 29.93,
-      "pe_vs_avg_pct": -5.41,
+      "pe_vs_avg_pct": -5.35,
       "pb_current": 64.65,
       "pb_5y_avg": 65.32,
       "pb_vs_avg_pct": -1.03,
@@ -32526,7 +32526,7 @@
       "min5YProfitUS": 5.020718705766858,
       "minFCFY": 5.342718773432499,
       "fcfPositive5Y": true,
-      "maxPEUS": 21.045092,
+      "maxPEUS": 21.270777,
       "maxPEGUS": 1.57,
       "maxBetaUS": 0.597,
       "minGM": 65.38300500000001,
@@ -32550,9 +32550,9 @@
       "fifty_two_week_low": 72.68
     },
     "valuation_context": {
-      "pe_current": 21.05,
+      "pe_current": 21.27,
       "pe_5y_avg": 22.89,
-      "pe_vs_avg_pct": -8.06,
+      "pe_vs_avg_pct": -7.07,
       "pb_current": 2.08,
       "pb_5y_avg": 2.31,
       "pb_vs_avg_pct": -10.02,
@@ -35388,7 +35388,7 @@
       "min5YProfitUS": -1.1416894610024264,
       "minFCFY": 4.0096601303303885,
       "fcfPositive5Y": true,
-      "maxPEUS": 31.581646,
+      "maxPEUS": 31.649199,
       "maxPEGUS": 1.97,
       "maxBetaUS": 0.98,
       "minGM": 55.218,
@@ -35412,9 +35412,9 @@
       "fifty_two_week_low": 164.74
     },
     "valuation_context": {
-      "pe_current": 31.58,
+      "pe_current": 31.65,
       "pe_5y_avg": 30.51,
-      "pe_vs_avg_pct": 3.51,
+      "pe_vs_avg_pct": 3.73,
       "pb_current": 5.15,
       "pb_5y_avg": 4.48,
       "pb_vs_avg_pct": 14.93,
@@ -36342,7 +36342,7 @@
       "min5YProfitUS": -2.5554454462211718,
       "minFCFY": 3.2004788102898347,
       "fcfPositive5Y": true,
-      "maxPEUS": 25.280539,
+      "maxPEUS": 25.259258,
       "maxPEGUS": 4.39,
       "maxBetaUS": 1.272,
       "minGM": 45.851,
@@ -36366,9 +36366,9 @@
       "fifty_two_week_low": 201.35
     },
     "valuation_context": {
-      "pe_current": 25.28,
+      "pe_current": 25.26,
       "pe_5y_avg": 24.42,
-      "pe_vs_avg_pct": 3.52,
+      "pe_vs_avg_pct": 3.44,
       "pb_current": 4.26,
       "pb_5y_avg": 4.2,
       "pb_vs_avg_pct": 1.54,
@@ -37402,7 +37402,7 @@
       "min5YProfitUS": -5.7594139305629515,
       "minFCFY": 2.0776883671218314,
       "fcfPositive5Y": true,
-      "maxPEUS": 46.146137,
+      "maxPEUS": 46.049995,
       "maxPEGUS": 3.15,
       "maxBetaUS": 1.18,
       "minGM": 38.946,
@@ -37426,9 +37426,9 @@
       "fifty_two_week_low": 125.7
     },
     "valuation_context": {
-      "pe_current": 46.15,
+      "pe_current": 46.05,
       "pe_5y_avg": 42.4,
-      "pe_vs_avg_pct": 8.84,
+      "pe_vs_avg_pct": 8.61,
       "pb_current": 10.46,
       "pb_5y_avg": 8.43,
       "pb_vs_avg_pct": 24.05,
@@ -38470,7 +38470,7 @@
       "maxSBC": null,
       "minInstOwn": 76.053,
       "maxShort": 3.11,
-      "analystBuy": false,
+      "analystBuy": true,
       "minMSPR": 66.41785739,
       "excludeChina": true
     },
@@ -38788,7 +38788,7 @@
       "maxSBC": null,
       "minInstOwn": 78.358,
       "maxShort": 2.35,
-      "analystBuy": true,
+      "analystBuy": false,
       "minMSPR": -38.99143,
       "excludeChina": true
     },
@@ -40582,7 +40582,7 @@
       "min5YProfitUS": 8.963682095662229,
       "minFCFY": 4.412335040859494,
       "fcfPositive5Y": true,
-      "maxPEUS": 16.917025,
+      "maxPEUS": 16.941261,
       "maxPEGUS": 1.8,
       "maxBetaUS": 1.062,
       "minGM": 41.691002,
@@ -40606,9 +40606,9 @@
       "fifty_two_week_low": 88.73
     },
     "valuation_context": {
-      "pe_current": 16.92,
+      "pe_current": 16.94,
       "pe_5y_avg": 16.2,
-      "pe_vs_avg_pct": 4.43,
+      "pe_vs_avg_pct": 4.58,
       "pb_current": 3.25,
       "pb_5y_avg": 3.19,
       "pb_vs_avg_pct": 1.96,
@@ -40696,7 +40696,7 @@
       "maxSBC": 0.5419155054191551,
       "minInstOwn": 89.092004,
       "maxShort": 6.08,
-      "analystBuy": true,
+      "analystBuy": false,
       "minMSPR": -55.70581000000001,
       "excludeChina": true
     },
@@ -41112,7 +41112,7 @@
       "min5YProfitUS": -16.769616414472367,
       "minFCFY": 4.0968998106691235,
       "fcfPositive5Y": true,
-      "maxPEUS": 16.433235,
+      "maxPEUS": 16.416996,
       "maxPEGUS": 0.96,
       "maxBetaUS": 0.674,
       "minGM": 12.520000000000001,
@@ -41136,9 +41136,9 @@
       "fifty_two_week_low": 88.93
     },
     "valuation_context": {
-      "pe_current": 16.43,
+      "pe_current": 16.42,
       "pe_5y_avg": 15.77,
-      "pe_vs_avg_pct": 4.21,
+      "pe_vs_avg_pct": 4.1,
       "pb_current": 2.33,
       "pb_5y_avg": 2.0,
       "pb_vs_avg_pct": 16.75,
@@ -42298,9 +42298,9 @@
       "pe_current": 27.32,
       "pe_5y_avg": 24.03,
       "pe_vs_avg_pct": 13.67,
-      "pb_current": 8.67,
+      "pb_current": 8.74,
       "pb_5y_avg": 4.65,
-      "pb_vs_avg_pct": 86.35,
+      "pb_vs_avg_pct": 87.87,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -43013,7 +43013,7 @@
       "min5YProfitUS": 5.312101235169742,
       "minFCFY": 2.979862234666051,
       "fcfPositive5Y": true,
-      "maxPEUS": 34.88722,
+      "maxPEUS": 34.821766,
       "maxPEGUS": 2.54,
       "maxBetaUS": 0.306,
       "minGM": 20.212999,
@@ -43037,9 +43037,9 @@
       "fifty_two_week_low": 95.97
     },
     "valuation_context": {
-      "pe_current": 34.89,
+      "pe_current": 34.82,
       "pe_5y_avg": 36.27,
-      "pe_vs_avg_pct": -3.81,
+      "pe_vs_avg_pct": -3.99,
       "pb_current": 3.77,
       "pb_5y_avg": 3.54,
       "pb_vs_avg_pct": 6.53,
@@ -44391,7 +44391,7 @@
       "min5YProfitUS": 6.23405349858368,
       "minFCFY": 1.546826903554116,
       "fcfPositive5Y": true,
-      "maxPEUS": 104.71495,
+      "maxPEUS": 104.2357,
       "maxPEGUS": 2.89,
       "maxBetaUS": 1.214,
       "minGM": 82.598996,
@@ -44415,9 +44415,9 @@
       "fifty_two_week_low": 380.47
     },
     "valuation_context": {
-      "pe_current": 104.71,
+      "pe_current": 104.24,
       "pe_5y_avg": 82.5,
-      "pe_vs_avg_pct": 26.93,
+      "pe_vs_avg_pct": 26.35,
       "pb_current": 2.86,
       "pb_5y_avg": 4.37,
       "pb_vs_avg_pct": -34.53,
@@ -44709,7 +44709,7 @@
       "min5YProfitUS": 16.682979054514234,
       "minFCFY": 3.987747516817982,
       "fcfPositive5Y": true,
-      "maxPEUS": 14.696106,
+      "maxPEUS": 14.706333,
       "maxPEGUS": 4.58,
       "maxBetaUS": 1.346,
       "minGM": 81.582,
@@ -44733,9 +44733,9 @@
       "fifty_two_week_low": 132.26
     },
     "valuation_context": {
-      "pe_current": 14.7,
+      "pe_current": 14.71,
       "pe_5y_avg": 13.81,
-      "pe_vs_avg_pct": 6.42,
+      "pe_vs_avg_pct": 6.49,
       "pb_current": 14.22,
       "pb_5y_avg": 18.54,
       "pb_vs_avg_pct": -23.28,
@@ -44815,7 +44815,7 @@
       "min5YProfitUS": 6.6001289057899815,
       "minFCFY": 4.485649659044744,
       "fcfPositive5Y": true,
-      "maxPEUS": 25.991144,
+      "maxPEUS": 25.974716,
       "maxPEGUS": 1.44,
       "maxBetaUS": 1.076,
       "minGM": 70.47,
@@ -44839,9 +44839,9 @@
       "fifty_two_week_low": 388.95
     },
     "valuation_context": {
-      "pe_current": 25.99,
+      "pe_current": 25.97,
       "pe_5y_avg": 29.11,
-      "pe_vs_avg_pct": -10.71,
+      "pe_vs_avg_pct": -10.77,
       "pb_current": 3.9,
       "pb_5y_avg": 4.39,
       "pb_vs_avg_pct": -11.12,
@@ -46008,9 +46008,9 @@
       "pe_current": 35.58,
       "pe_5y_avg": 38.97,
       "pe_vs_avg_pct": -8.69,
-      "pb_current": 5.25,
+      "pb_current": 5.14,
       "pb_5y_avg": 6.43,
-      "pb_vs_avg_pct": -18.33,
+      "pb_vs_avg_pct": -20.14,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -46856,9 +46856,9 @@
       "pe_current": 81.25,
       "pe_5y_avg": 76.39,
       "pe_vs_avg_pct": 6.36,
-      "pb_current": 24.45,
+      "pb_current": 21.81,
       "pb_5y_avg": 11.58,
-      "pb_vs_avg_pct": 111.14,
+      "pb_vs_avg_pct": 88.3,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -48477,8 +48477,8 @@
         "quarter": "Q2 2025",
         "estimate": 0.4,
         "actual": 0.4,
-        "surprise_pct": -0.97,
-        "verdict": "meet"
+        "surprise_pct": -1.11,
+        "verdict": "miss"
       }
     ],
     "ownership": {
@@ -53083,7 +53083,7 @@
       "min5YProfitUS": -0.7098351020935034,
       "minFCFY": 3.9501801383134647,
       "fcfPositive5Y": true,
-      "maxPEUS": 25.410973,
+      "maxPEUS": 25.43946,
       "maxPEGUS": 2.99,
       "maxBetaUS": 1.512,
       "minGM": 46.062002,
@@ -53107,9 +53107,9 @@
       "fifty_two_week_low": 125.15
     },
     "valuation_context": {
-      "pe_current": 25.41,
+      "pe_current": 25.44,
       "pe_5y_avg": 22.12,
-      "pe_vs_avg_pct": 14.88,
+      "pe_vs_avg_pct": 15.01,
       "pb_current": 12.94,
       "pb_5y_avg": 10.8,
       "pb_vs_avg_pct": 19.83,
@@ -53833,7 +53833,7 @@
       "maxSBC": 0.5866076369673492,
       "minInstOwn": 98.076,
       "maxShort": 4.1300002000000005,
-      "analystBuy": true,
+      "analystBuy": false,
       "minMSPR": -1.6340980000000016,
       "excludeChina": true
     },
@@ -53987,9 +53987,9 @@
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 0.66,
+        "estimate": 0.67,
         "actual": 0.62,
-        "surprise_pct": -5.94,
+        "surprise_pct": -8.01,
         "verdict": "miss"
       }
     ],
