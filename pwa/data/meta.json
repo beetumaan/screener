@@ -1,320 +1,163 @@
 {
-  "lastSync": "2026-07-24T13:08:38.477386Z",
+  "lastSync": "2026-07-26T13:04:59.330346Z",
   "counts": {
-    "india": 455,
+    "india": 504,
     "us": 516,
-    "mf": 279
+    "mf": 269
   },
   "coverage_v2": {
     "ownership_current": {
-      "india": 455,
+      "india": 500,
       "us": 515
     },
     "ownership_trend": {
-      "india": 434,
+      "india": 477,
       "us": 0
     },
     "valuation_context": {
-      "india": 455,
+      "india": 504,
       "us": 516
     },
     "price_action": {
-      "india": 455,
+      "india": 500,
       "us": 515
     },
     "earnings_surprises": {
       "us": 512
     },
     "retail_signal": {
-      "india": 455
+      "india": 500
     },
     "promoter_activity": {
-      "india": 434
+      "india": 477
     }
   },
   "errors": {
-    "india": [
-      {
-        "ticker": "DUMMYVEDL1.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "DUMMYVEDL2.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "DUMMYVEDL3.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "DUMMYVEDL4.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EIDPARRY.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EIHOTEL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EICHERMOT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ELECON.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ELGIEQUIP.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EMAMILTD.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EMCURE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EMMVEE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ENDURANCE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ENGINERSIN.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ERIS.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ESCORTS.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "ETERNAL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "EXIDEIND.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "NYKAA.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FEDERALBNK.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FACT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FINCABLES.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FSL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FIVESTAR.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FORCEMOT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "FORTIS.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GAIL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GVT&D.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GMRAIRPORT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GABRIEL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GALLANTT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GRSE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GICRE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GILLETTE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GLAND.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GLAXO.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GLENMARK.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "MEDANTA.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GODIGIT.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GPIL.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GODFRYPHLP.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GODREJCP.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GODREJIND.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GODREJPROP.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GRANULES.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GRAPHITE.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GRASIM.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GRAVITA.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      },
-      {
-        "ticker": "GESHIP.NS",
-        "error": "Too Many Requests. Rate limited. Try after a while."
-      }
-    ],
+    "india": [],
     "us": [],
     "mf": [
       {
-        "ticker": "120586",
+        "ticker": "120166",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120152",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120828",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120503",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "118989",
+        "ticker": "120186",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "111549",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "112039",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "118481",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118482",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118485",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118486",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118491",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118494",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118510",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118525",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118531",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118533",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118535",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118537",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118589",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "118692",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119062",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119218",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119555",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "119773",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "130503",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "135781",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "133529",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "120834",
+        "ticker": "119779",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "147625",
+        "ticker": "119878",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "119533",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "118473",
+        "ticker": "120019",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "118617",
+        "ticker": "120077",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "118620",
+        "ticker": "120261",
         "error": "_ssl.c:999: The handshake operation timed out"
       },
       {
-        "ticker": "118773",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119202",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "119404",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119413",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "119559",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "119602",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "120079",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "120264",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "120395",
-        "error": "_ssl.c:999: The handshake operation timed out"
-      },
-      {
-        "ticker": "120599",
+        "ticker": "120494",
         "error": "_ssl.c:999: The handshake operation timed out"
       }
     ]
