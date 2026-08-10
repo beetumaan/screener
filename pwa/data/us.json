@@ -1,7 +1,7 @@
 [
   {
     "ticker": "A",
-    "name": null,
+    "name": "Agilent Technologies, Inc.",
     "livePrice": 145.97,
     "prevClose": 141.33999633789062,
     "metrics": {
@@ -425,12 +425,12 @@
   },
   {
     "ticker": "ABT",
-    "name": null,
+    "name": "Abbott Laboratories",
     "livePrice": 107.81,
     "prevClose": 107.95999908447266,
     "metrics": {
-      "minMcapUS": 186.552631296,
-      "maxMcapUS": 186.552631296,
+      "minMcapUS": 187.784871936,
+      "maxMcapUS": 187.784871936,
       "positiveEPS": true,
       "minROEUS": 10.576,
       "minROIC": 5.328,
@@ -442,7 +442,7 @@
       "minEPSGUS": -47.5,
       "min5YSalesUS": 0.30736185324995446,
       "min5YProfitUS": -1.2087341075589397,
-      "minFCFY": 3.9640287829907237,
+      "minFCFY": 3.938016904002965,
       "fcfPositive5Y": true,
       "maxPEUS": 34.88997,
       "maxPEGUS": 2.17,
@@ -472,8 +472,8 @@
       "pe_5y_avg": 28.39,
       "pe_vs_avg_pct": 22.9,
       "pb_current": 3.65,
-      "pb_5y_avg": 4.0,
-      "pb_vs_avg_pct": -8.75,
+      "pb_5y_avg": 4.02,
+      "pb_vs_avg_pct": -9.2,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -535,8 +535,8 @@
     "livePrice": 98.48,
     "prevClose": 99.29000091552734,
     "metrics": {
-      "minMcapUS": 33.604245504,
-      "maxMcapUS": 33.604245504,
+      "minMcapUS": 33.58168064,
+      "maxMcapUS": 33.58168064,
       "positiveEPS": true,
       "minROEUS": 19.936001,
       "minROIC": 4.124,
@@ -546,16 +546,16 @@
       "minICRUS": 34.641891891891895,
       "minRevGUS": -10.5,
       "minEPSGUS": -7.1,
-      "min5YSalesUS": 14.950976885096633,
+      "min5YSalesUS": 14.853177695176578,
       "min5YProfitUS": 24.409493191934683,
-      "minFCFY": 18.23579106774044,
+      "minFCFY": 18.248044419494544,
       "fcfPositive5Y": true,
       "maxPEUS": 7.7057905,
       "maxPEGUS": 1.05,
       "maxBetaUS": 0.288,
       "minGM": 38.757999999999996,
       "sharesFlat": true,
-      "maxSBC": 0.7670778480356587,
+      "maxSBC": 0.766839378238342,
       "minInstOwn": 96.734,
       "maxShort": 3.04,
       "analystBuy": true,
@@ -578,8 +578,8 @@
       "pe_5y_avg": 7.28,
       "pe_vs_avg_pct": 5.85,
       "pb_current": 1.44,
-      "pb_5y_avg": 1.38,
-      "pb_vs_avg_pct": 4.46,
+      "pb_5y_avg": 1.35,
+      "pb_vs_avg_pct": 6.78,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -849,12 +849,12 @@
   },
   {
     "ticker": "ADI",
-    "name": null,
+    "name": "Analog Devices, Inc.",
     "livePrice": 389.93,
     "prevClose": 377.30999755859375,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 189.929848832,
+      "maxMcapUS": 189.929848832,
       "positiveEPS": true,
       "minROEUS": 9.639000000000001,
       "minROIC": 5.4899998,
@@ -866,7 +866,7 @@
       "minEPSGUS": 110.5,
       "min5YSalesUS": -1.7128315352866519,
       "min5YProfitUS": -3.776238361402584,
-      "minFCFY": null,
+      "minFCFY": 2.2527528065294384,
       "fcfPositive5Y": true,
       "maxPEUS": 58.11177,
       "maxPEGUS": 0.71,
@@ -896,8 +896,8 @@
       "pe_5y_avg": 60.97,
       "pe_vs_avg_pct": -4.69,
       "pb_current": 5.63,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 4.19,
+      "pb_vs_avg_pct": 34.34,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -955,12 +955,12 @@
   },
   {
     "ticker": "ADM",
-    "name": null,
+    "name": "Archer-Daniels-Midland Company",
     "livePrice": 76.59,
     "prevClose": 77.51000213623047,
     "metrics": {
-      "minMcapUS": 36.913283072,
-      "maxMcapUS": 36.913283072,
+      "minMcapUS": 36.913045504,
+      "maxMcapUS": 36.913045504,
       "positiveEPS": true,
       "minROEUS": 7.642,
       "minROIC": 2.257,
@@ -972,7 +972,7 @@
       "minEPSGUS": 315.6,
       "min5YSalesUS": -4.595589340348505,
       "min5YProfitUS": -24.312213177915233,
-      "minFCFY": 11.388854228435939,
+      "minFCFY": 11.388927525756289,
       "fcfPositive5Y": true,
       "maxPEUS": 20.926228,
       "maxPEGUS": 1.0,
@@ -1273,7 +1273,7 @@
   },
   {
     "ticker": "AEE",
-    "name": null,
+    "name": "Ameren Corporation",
     "livePrice": 108.84,
     "prevClose": 108.2699966430664,
     "metrics": {
@@ -1489,8 +1489,8 @@
     "livePrice": 14.73,
     "prevClose": 14.699999809265137,
     "metrics": {
-      "minMcapUS": 10.508951552,
-      "maxMcapUS": 10.508951552,
+      "minMcapUS": 10.504812544,
+      "maxMcapUS": 10.504812544,
       "positiveEPS": true,
       "minROEUS": 9.5740005,
       "minROIC": 2.964,
@@ -1502,7 +1502,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": -0.6162511926878333,
       "min5YProfitUS": null,
-      "minFCFY": -15.443976423044035,
+      "minFCFY": -15.450061514205732,
       "fcfPositive5Y": false,
       "maxPEUS": 5.516854,
       "maxPEGUS": 0.81,
@@ -1591,7 +1591,7 @@
   },
   {
     "ticker": "AFL",
-    "name": null,
+    "name": "Aflac Incorporated",
     "livePrice": 124.61,
     "prevClose": 126.66000366210938,
     "metrics": {
@@ -1637,9 +1637,9 @@
       "pe_current": 13.44,
       "pe_5y_avg": 13.13,
       "pe_vs_avg_pct": 2.38,
-      "pb_current": 2.19,
+      "pb_current": 2.06,
       "pb_5y_avg": 1.92,
-      "pb_vs_avg_pct": 14.15,
+      "pb_vs_avg_pct": 7.54,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -1697,7 +1697,7 @@
   },
   {
     "ticker": "AIG",
-    "name": null,
+    "name": "American International Group, Inc.",
     "livePrice": 78.78,
     "prevClose": 79.97000122070312,
     "metrics": {
@@ -1803,7 +1803,7 @@
   },
   {
     "ticker": "AIZ",
-    "name": null,
+    "name": "Assurant, Inc.",
     "livePrice": 289.55,
     "prevClose": 296.3999938964844,
     "metrics": {
@@ -1849,9 +1849,9 @@
       "pe_current": 13.87,
       "pe_5y_avg": 13.0,
       "pe_vs_avg_pct": 6.67,
-      "pb_current": 2.35,
+      "pb_current": 2.34,
       "pb_5y_avg": 2.04,
-      "pb_vs_avg_pct": 15.27,
+      "pb_vs_avg_pct": 14.94,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -1909,7 +1909,7 @@
   },
   {
     "ticker": "AJG",
-    "name": null,
+    "name": "Arthur J. Gallagher & Co.",
     "livePrice": 248.12,
     "prevClose": 251.74000549316406,
     "metrics": {
@@ -1956,8 +1956,8 @@
       "pe_5y_avg": 36.55,
       "pe_vs_avg_pct": 12.58,
       "pb_current": 2.68,
-      "pb_5y_avg": 2.93,
-      "pb_vs_avg_pct": -8.49,
+      "pb_5y_avg": 2.68,
+      "pb_vs_avg_pct": 0.05,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -2167,9 +2167,9 @@
       "pe_current": 468.25,
       "pe_5y_avg": 259.11,
       "pe_vs_avg_pct": 80.71,
-      "pb_current": 2.03,
+      "pb_current": 1.92,
       "pb_5y_avg": 1.66,
-      "pb_vs_avg_pct": 22.27,
+      "pb_vs_avg_pct": 15.91,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -2777,7 +2777,7 @@
       "minFCFY": 3.660542798258005,
       "fcfPositive5Y": true,
       "maxPEUS": 38.596775,
-      "maxPEGUS": 0.64,
+      "maxPEGUS": 0.65,
       "maxBetaUS": 0.593,
       "minGM": 19.143999,
       "sharesFlat": true,
@@ -2863,7 +2863,7 @@
   },
   {
     "ticker": "AMD",
-    "name": null,
+    "name": "Advanced Micro Devices, Inc.",
     "livePrice": 483.36,
     "prevClose": 489.2799987792969,
     "metrics": {
@@ -2973,8 +2973,8 @@
     "livePrice": 253.66,
     "prevClose": 251.3800048828125,
     "metrics": {
-      "minMcapUS": 58.154409984,
-      "maxMcapUS": 58.154409984,
+      "minMcapUS": 58.139635712,
+      "maxMcapUS": 58.139635712,
       "positiveEPS": true,
       "minROEUS": 14.562,
       "minROIC": 8.161999999999999,
@@ -2986,7 +2986,7 @@
       "minEPSGUS": 14.2,
       "min5YSalesUS": 3.771222719517331,
       "min5YProfitUS": 5.003404337995332,
-      "minFCFY": 2.8742704129573036,
+      "minFCFY": 2.875000814040188,
       "fcfPositive5Y": true,
       "maxPEUS": 37.03066,
       "maxPEGUS": 3.24,
@@ -3079,8 +3079,8 @@
     "livePrice": 410.945,
     "prevClose": 404.8500061035156,
     "metrics": {
-      "minMcapUS": 222.321246208,
-      "maxMcapUS": 222.321246208,
+      "minMcapUS": 221.790420992,
+      "maxMcapUS": 221.790420992,
       "positiveEPS": true,
       "minROEUS": 91.473,
       "minROIC": 8.667,
@@ -3092,7 +3092,7 @@
       "minEPSGUS": 64.9,
       "min5YSalesUS": 6.902227695930785,
       "min5YProfitUS": 3.3111897234413767,
-      "minFCFY": 3.643376482525551,
+      "minFCFY": 3.6520964087498475,
       "fcfPositive5Y": true,
       "maxPEUS": 25.50869,
       "maxPEGUS": 2.16,
@@ -3122,8 +3122,8 @@
       "pe_5y_avg": 24.22,
       "pe_vs_avg_pct": 5.32,
       "pb_current": 19.01,
-      "pb_5y_avg": 20.52,
-      "pb_vs_avg_pct": -7.37,
+      "pb_5y_avg": 20.47,
+      "pb_vs_avg_pct": -7.14,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -3181,12 +3181,12 @@
   },
   {
     "ticker": "AMP",
-    "name": null,
+    "name": "Ameriprise Financial, Inc.",
     "livePrice": 551.98,
     "prevClose": 559.8200073242188,
     "metrics": {
-      "minMcapUS": 48.758165504,
-      "maxMcapUS": 48.758165504,
+      "minMcapUS": 48.795029504,
+      "maxMcapUS": 48.795029504,
       "positiveEPS": true,
       "minROEUS": 63.432,
       "minROIC": 2.2750000999999997,
@@ -3198,7 +3198,7 @@
       "minEPSGUS": 11.700000000000001,
       "min5YSalesUS": 5.324321796248488,
       "min5YProfitUS": 2.501125078010147,
-      "minFCFY": 16.737709295749635,
+      "minFCFY": 16.72506417755316,
       "fcfPositive5Y": true,
       "maxPEUS": 133.3285,
       "maxPEGUS": 1.77,
@@ -3817,7 +3817,7 @@
   },
   {
     "ticker": "APA",
-    "name": null,
+    "name": "APA Corporation",
     "livePrice": 37.63,
     "prevClose": 36.529998779296875,
     "metrics": {
@@ -3923,7 +3923,7 @@
   },
   {
     "ticker": "APD",
-    "name": null,
+    "name": "Air Products and Chemicals, Inc.",
     "livePrice": 303.44,
     "prevClose": 299.9200134277344,
     "metrics": {
@@ -4029,7 +4029,7 @@
   },
   {
     "ticker": "APH",
-    "name": null,
+    "name": "Amphenol Corporation",
     "livePrice": 169.18,
     "prevClose": 170.61000061035156,
     "metrics": {
@@ -4139,8 +4139,8 @@
     "livePrice": 127.44,
     "prevClose": 127.98999786376953,
     "metrics": {
-      "minMcapUS": 73.401843712,
-      "maxMcapUS": 73.401843712,
+      "minMcapUS": 73.471393792,
+      "maxMcapUS": 73.471393792,
       "positiveEPS": true,
       "minROEUS": 11.411999999999999,
       "minROIC": 0.94099995,
@@ -4182,8 +4182,8 @@
       "pe_5y_avg": 79.55,
       "pe_vs_avg_pct": -42.79,
       "pb_current": 3.74,
-      "pb_5y_avg": 3.53,
-      "pb_vs_avg_pct": 6.05,
+      "pb_5y_avg": 3.54,
+      "pb_vs_avg_pct": 5.75,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -4245,8 +4245,8 @@
     "livePrice": 346.8,
     "prevClose": 335.6700134277344,
     "metrics": {
-      "minMcapUS": 116.503822336,
-      "maxMcapUS": 116.503822336,
+      "minMcapUS": 116.05680128,
+      "maxMcapUS": 116.05680128,
       "positiveEPS": true,
       "minROEUS": 203.68599999999998,
       "minROIC": 46.46,
@@ -4258,7 +4258,7 @@
       "minEPSGUS": 56.99999999999999,
       "min5YSalesUS": 14.237402002646826,
       "min5YProfitUS": null,
-      "minFCFY": 3.384246045274749,
+      "minFCFY": 3.39728129374134,
       "fcfPositive5Y": true,
       "maxPEUS": 26.656416,
       "maxPEGUS": 0.96,
@@ -4288,8 +4288,8 @@
       "pe_5y_avg": 38.24,
       "pe_vs_avg_pct": -30.29,
       "pb_current": 36.76,
-      "pb_5y_avg": 84.96,
-      "pb_vs_avg_pct": -56.73,
+      "pb_5y_avg": 84.6,
+      "pb_vs_avg_pct": -56.55,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -4351,8 +4351,8 @@
     "livePrice": 49.55,
     "prevClose": 46.29999923706055,
     "metrics": {
-      "minMcapUS": 10.288231424,
-      "maxMcapUS": 10.288231424,
+      "minMcapUS": 10.485796864,
+      "maxMcapUS": 10.485796864,
       "positiveEPS": true,
       "minROEUS": 5.158,
       "minROIC": 6.7150004,
@@ -4364,7 +4364,7 @@
       "minEPSGUS": -35.3,
       "min5YSalesUS": 3.1251330649031184,
       "min5YProfitUS": -22.60026034994236,
-      "minFCFY": 14.86164081061791,
+      "minFCFY": 14.581629034311987,
       "fcfPositive5Y": true,
       "maxPEUS": 22.420815,
       "maxPEGUS": 0.95,
@@ -4394,8 +4394,8 @@
       "pe_5y_avg": 42.16,
       "pe_vs_avg_pct": -46.82,
       "pb_current": 1.18,
-      "pb_5y_avg": 1.56,
-      "pb_vs_avg_pct": -24.39,
+      "pb_5y_avg": 1.59,
+      "pb_vs_avg_pct": -25.82,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -4453,7 +4453,7 @@
   },
   {
     "ticker": "ARE",
-    "name": null,
+    "name": "Alexandria Real Estate Equities, Inc.",
     "livePrice": 49.74,
     "prevClose": 48.47999954223633,
     "metrics": {
@@ -4566,11 +4566,11 @@
       "minMcapUS": 45.139513344,
       "maxMcapUS": 45.139513344,
       "positiveEPS": true,
-      "minROEUS": 0,
-      "minROIC": 0,
-      "minOpMargin": 21.601,
-      "maxDEUS": 1.68762,
-      "minCRUS": null,
+      "minROEUS": 14.940999999999999,
+      "minROIC": 2.5940001,
+      "minOpMargin": 19.381,
+      "maxDEUS": 1.7237799999999999,
+      "minCRUS": 0.544,
       "minICRUS": 2.676820941808042,
       "minRevGUS": 5.800000000000001,
       "minEPSGUS": 6.5,
@@ -4581,7 +4581,7 @@
       "maxPEUS": 62.77523,
       "maxPEGUS": 1.29,
       "maxBetaUS": 1.507,
-      "minGM": 35.808,
+      "minGM": 37.407002,
       "sharesFlat": true,
       "maxSBC": 13.220590550857791,
       "minInstOwn": 90.04900500000001,
@@ -4817,9 +4817,9 @@
       "pe_current": 59.18,
       "pe_5y_avg": 63.33,
       "pe_vs_avg_pct": -6.56,
-      "pb_current": 1479.31,
+      "pb_current": 1472.61,
       "pb_5y_avg": 25.21,
-      "pb_vs_avg_pct": 5767.96,
+      "pb_vs_avg_pct": 5741.36,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -4897,7 +4897,7 @@
       "minFCFY": -5.257073574041862,
       "fcfPositive5Y": false,
       "maxPEUS": 20.284863,
-      "maxPEGUS": 2.07,
+      "maxPEGUS": 2.05,
       "maxBetaUS": 0.602,
       "minGM": 62.212,
       "sharesFlat": false,
@@ -4983,7 +4983,7 @@
   },
   {
     "ticker": "AVB",
-    "name": null,
+    "name": "AvalonBay Communities, Inc.",
     "livePrice": 187.55,
     "prevClose": 186.5500030517578,
     "metrics": {
@@ -5195,12 +5195,12 @@
   },
   {
     "ticker": "AVY",
-    "name": null,
+    "name": "Avery Dennison Corporation",
     "livePrice": 177.18,
     "prevClose": 173.99000549316406,
     "metrics": {
-      "minMcapUS": 13.428143104,
-      "maxMcapUS": 13.428143104,
+      "minMcapUS": 13.552565248,
+      "maxMcapUS": 13.552565248,
       "positiveEPS": true,
       "minROEUS": 31.16,
       "minROIC": 8.394,
@@ -5212,7 +5212,7 @@
       "minEPSGUS": 10.8,
       "min5YSalesUS": -0.4100171820692555,
       "min5YProfitUS": -1.895927001455222,
-      "minFCFY": 5.071438356932184,
+      "minFCFY": 5.024878962309351,
       "fcfPositive5Y": true,
       "maxPEUS": 19.385118,
       "maxPEGUS": 1.92,
@@ -5242,8 +5242,8 @@
       "pe_5y_avg": 18.38,
       "pe_vs_avg_pct": 5.47,
       "pb_current": 5.79,
-      "pb_5y_avg": 5.83,
-      "pb_vs_avg_pct": -0.69,
+      "pb_5y_avg": 5.88,
+      "pb_vs_avg_pct": -1.53,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -5301,7 +5301,7 @@
   },
   {
     "ticker": "AWK",
-    "name": null,
+    "name": "American Water Works Company, Inc.",
     "livePrice": 135.31,
     "prevClose": 134.82000732421875,
     "metrics": {
@@ -5619,12 +5619,12 @@
   },
   {
     "ticker": "AZO",
-    "name": null,
+    "name": "AutoZone, Inc.",
     "livePrice": 3127.29,
     "prevClose": 3069.6201171875,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 51.05412096,
+      "maxMcapUS": 51.05412096,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 11.389000000000001,
@@ -5636,7 +5636,7 @@
       "minEPSGUS": 7.7,
       "min5YSalesUS": 3.106849983848692,
       "min5YProfitUS": 0.5587754549370993,
-      "minFCFY": null,
+      "minFCFY": 3.5062399789480185,
       "fcfPositive5Y": true,
       "maxPEUS": 21.505226,
       "maxPEGUS": 1.41,
@@ -5729,8 +5729,8 @@
     "livePrice": 234.42,
     "prevClose": 232.19000244140625,
     "metrics": {
-      "minMcapUS": 185.27854592,
-      "maxMcapUS": 185.27854592,
+      "minMcapUS": 185.143164928,
+      "maxMcapUS": 185.143164928,
       "positiveEPS": true,
       "minROEUS": 173.537,
       "minROIC": -1.984,
@@ -5742,13 +5742,13 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 6.077533441306415,
       "min5YProfitUS": null,
-      "minFCFY": -1.0179268142650155,
+      "minFCFY": -1.0186711460471378,
       "fcfPositive5Y": false,
       "maxPEUS": 84.02151,
       "maxPEGUS": 89.29,
       "maxBetaUS": 1.221,
       "minGM": 4.71,
-      "sharesFlat": true,
+      "sharesFlat": false,
       "maxSBC": 0.47617450789711946,
       "minInstOwn": 75.583,
       "maxShort": 0.02,
@@ -5772,8 +5772,8 @@
       "pe_5y_avg": 89.67,
       "pe_vs_avg_pct": -6.3,
       "pb_current": 30.38,
-      "pb_5y_avg": 31.74,
-      "pb_vs_avg_pct": -4.28,
+      "pb_5y_avg": 31.72,
+      "pb_vs_avg_pct": -4.22,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -5831,7 +5831,7 @@
   },
   {
     "ticker": "BAC",
-    "name": null,
+    "name": "Bank of America Corporation",
     "livePrice": 63.17,
     "prevClose": 63.0,
     "metrics": {
@@ -5875,8 +5875,8 @@
     },
     "valuation_context": {
       "pe_current": 14.59,
-      "pe_5y_avg": 13.55,
-      "pe_vs_avg_pct": 7.67,
+      "pe_5y_avg": 13.57,
+      "pe_vs_avg_pct": 7.51,
       "pb_current": 1.61,
       "pb_5y_avg": 1.14,
       "pb_vs_avg_pct": 40.85,
@@ -5941,8 +5941,8 @@
     "livePrice": 63.45,
     "prevClose": 63.130001068115234,
     "metrics": {
-      "minMcapUS": 16.795428864,
-      "maxMcapUS": 16.795428864,
+      "minMcapUS": 16.893341696,
+      "maxMcapUS": 16.893341696,
       "positiveEPS": true,
       "minROEUS": 17.151,
       "minROIC": 4.6329997,
@@ -5954,7 +5954,7 @@
       "minEPSGUS": 9.2,
       "min5YSalesUS": -0.3175957484345293,
       "min5YProfitUS": 4.870464010132536,
-      "minFCFY": 4.691752776191568,
+      "minFCFY": 4.664559648293755,
       "fcfPositive5Y": false,
       "maxPEUS": 18.180515,
       "maxPEGUS": 1.23,
@@ -5984,8 +5984,8 @@
       "pe_5y_avg": 17.52,
       "pe_vs_avg_pct": 3.77,
       "pb_current": 2.92,
-      "pb_5y_avg": 2.75,
-      "pb_vs_avg_pct": 6.25,
+      "pb_5y_avg": 2.77,
+      "pb_vs_avg_pct": 5.49,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -6149,12 +6149,12 @@
   },
   {
     "ticker": "BBY",
-    "name": null,
+    "name": "Best Buy Co., Inc.",
     "livePrice": 82.0,
     "prevClose": 80.0199966430664,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 17.282904064,
+      "maxMcapUS": 17.282904064,
       "positiveEPS": true,
       "minROEUS": 39.104,
       "minROIC": 7.771,
@@ -6166,7 +6166,7 @@
       "minEPSGUS": 37.9,
       "min5YSalesUS": -2.074450703083486,
       "min5YProfitUS": -5.507125195668749,
-      "minFCFY": null,
+      "minFCFY": 7.278869311207906,
       "fcfPositive5Y": true,
       "maxPEUS": 15.1851845,
       "maxPEGUS": 1.56,
@@ -6196,8 +6196,8 @@
       "pe_5y_avg": 13.59,
       "pe_vs_avg_pct": 11.74,
       "pb_current": 5.6,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 5.07,
+      "pb_vs_avg_pct": 10.54,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -6255,7 +6255,7 @@
   },
   {
     "ticker": "BDX",
-    "name": null,
+    "name": "Becton, Dickinson and Company",
     "livePrice": 176.86,
     "prevClose": 177.07000732421875,
     "metrics": {
@@ -6276,7 +6276,7 @@
       "fcfPositive5Y": true,
       "maxPEUS": 30.598616,
       "maxPEGUS": 1.11,
-      "maxBetaUS": null,
+      "maxBetaUS": 0.258,
       "minGM": 46.936,
       "sharesFlat": true,
       "maxSBC": 1.1813186813186813,
@@ -6299,12 +6299,12 @@
     },
     "valuation_context": {
       "pe_current": 30.6,
-      "pe_5y_avg": 41.02,
-      "pe_vs_avg_pct": -25.41,
-      "pb_current": 1.99,
-      "pb_5y_avg": 1.63,
-      "pb_vs_avg_pct": 22.11,
-      "period_years": 0.7
+      "pe_5y_avg": 46.02,
+      "pe_vs_avg_pct": -33.51,
+      "pb_current": 1.97,
+      "pb_5y_avg": 1.74,
+      "pb_vs_avg_pct": 13.39,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -6408,8 +6408,8 @@
       "pe_5y_avg": 24.1,
       "pe_vs_avg_pct": -4.68,
       "pb_current": 1.46,
-      "pb_5y_avg": 1.15,
-      "pb_vs_avg_pct": 26.96,
+      "pb_5y_avg": 1.03,
+      "pb_vs_avg_pct": 41.75,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -6573,7 +6573,7 @@
   },
   {
     "ticker": "BG",
-    "name": null,
+    "name": "Bunge Global SA",
     "livePrice": 108.38,
     "prevClose": 109.0,
     "metrics": {
@@ -6789,8 +6789,8 @@
     "livePrice": 214.42,
     "prevClose": 207.38999938964844,
     "metrics": {
-      "minMcapUS": 161.11099904,
-      "maxMcapUS": 161.11099904,
+      "minMcapUS": 166.149439488,
+      "maxMcapUS": 166.149439488,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 20.380000000000003,
@@ -6802,7 +6802,7 @@
       "minEPSGUS": 130.0,
       "min5YSalesUS": 9.510791620722635,
       "min5YProfitUS": 12.061278205018944,
-      "minFCFY": 5.640210819960167,
+      "minFCFY": 5.469172828991879,
       "fcfPositive5Y": true,
       "maxPEUS": 23.798002,
       "maxPEGUS": 0.93,
@@ -7103,7 +7103,7 @@
   },
   {
     "ticker": "BLK",
-    "name": null,
+    "name": "BlackRock, Inc.",
     "livePrice": 1136.39,
     "prevClose": 1129.300048828125,
     "metrics": {
@@ -7149,9 +7149,9 @@
       "pe_current": 27.25,
       "pe_5y_avg": 25.69,
       "pe_vs_avg_pct": 6.05,
-      "pb_current": 3.11,
+      "pb_current": 3.06,
       "pb_5y_avg": 3.03,
-      "pb_vs_avg_pct": 2.79,
+      "pb_vs_avg_pct": 0.9,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -7421,12 +7421,12 @@
   },
   {
     "ticker": "BR",
-    "name": null,
+    "name": "Broadridge Financial Solutions, Inc.",
     "livePrice": 166.5,
     "prevClose": 164.75,
     "metrics": {
-      "minMcapUS": 18.984630272,
-      "maxMcapUS": 18.984630272,
+      "minMcapUS": 19.257106432,
+      "maxMcapUS": 19.257106432,
       "positiveEPS": true,
       "minROEUS": 40.916002,
       "minROIC": 9.295,
@@ -7438,7 +7438,7 @@
       "minEPSGUS": 8.4,
       "min5YSalesUS": 4.28833384150773,
       "min5YProfitUS": 12.260157927814607,
-      "minFCFY": 6.49472748394012,
+      "minFCFY": 6.402831102138451,
       "fcfPositive5Y": true,
       "maxPEUS": 17.325703,
       "maxPEGUS": 1.81,
@@ -7468,8 +7468,8 @@
       "pe_5y_avg": 16.01,
       "pe_vs_avg_pct": 8.22,
       "pb_current": 6.83,
-      "pb_5y_avg": 8.12,
-      "pb_vs_avg_pct": -15.84,
+      "pb_5y_avg": 8.24,
+      "pb_vs_avg_pct": -17.06,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -7534,14 +7534,14 @@
       "minMcapUS": 1125.446320128,
       "maxMcapUS": 1125.446320128,
       "positiveEPS": true,
-      "minROEUS": 10.499,
-      "minROIC": 5.3940002,
-      "minOpMargin": 14.352,
-      "maxDEUS": 0.17669,
-      "minCRUS": 2.876,
+      "minROEUS": 12.1199995,
+      "minROIC": 6.0100004,
+      "minOpMargin": 32.561,
+      "maxDEUS": 0.17142,
+      "minCRUS": 2.891,
       "minICRUS": 17.267311106727163,
-      "minRevGUS": 4.3999999999999995,
-      "minEPSGUS": 119.6,
+      "minRevGUS": 10.0,
+      "minEPSGUS": 107.80000000000001,
       "min5YSalesUS": 11.886892762739532,
       "min5YProfitUS": null,
       "minFCFY": 2.2250728046409094,
@@ -7549,7 +7549,7 @@
       "maxPEUS": 15.529762,
       "maxPEGUS": 10.06,
       "maxBetaUS": 0.607,
-      "minGM": 27.779999999999998,
+      "minGM": 30.332002000000003,
       "sharesFlat": true,
       "maxSBC": null,
       "minInstOwn": 67.49000000000001,
@@ -7786,8 +7786,8 @@
       "pe_5y_avg": 20.13,
       "pe_vs_avg_pct": -0.83,
       "pb_current": 2.86,
-      "pb_5y_avg": 4.66,
-      "pb_vs_avg_pct": -38.59,
+      "pb_5y_avg": 5.46,
+      "pb_vs_avg_pct": -47.59,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -8163,12 +8163,12 @@
   },
   {
     "ticker": "CAG",
-    "name": null,
+    "name": "Conagra Brands, Inc.",
     "livePrice": 15.11,
     "prevClose": 14.850000381469727,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 7.231126528,
+      "maxMcapUS": 7.231126528,
       "positiveEPS": false,
       "minROEUS": -25.063999999999997,
       "minROIC": 4.404,
@@ -8180,7 +8180,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": -1.6768715959067482,
       "min5YProfitUS": null,
-      "minFCFY": null,
+      "minFCFY": 13.53454397748854,
       "fcfPositive5Y": true,
       "maxPEUS": null,
       "maxPEGUS": 10.86,
@@ -8210,8 +8210,8 @@
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
       "pb_current": 1.14,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 0.95,
+      "pb_vs_avg_pct": 19.72,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -8379,8 +8379,8 @@
     "livePrice": 64.01,
     "prevClose": 63.959999084472656,
     "metrics": {
-      "minMcapUS": 52.765048832,
-      "maxMcapUS": 52.765048832,
+      "minMcapUS": 53.165453312,
+      "maxMcapUS": 53.165453312,
       "positiveEPS": true,
       "minROEUS": 8.966000000000001,
       "minROIC": 2.9819999999999998,
@@ -8392,7 +8392,7 @@
       "minEPSGUS": -11.799999999999999,
       "min5YSalesUS": 4.696200261796268,
       "min5YProfitUS": -15.931466587481424,
-      "minFCFY": 4.019706314975859,
+      "minFCFY": 3.9894327384983814,
       "fcfPositive5Y": true,
       "maxPEUS": 45.72143,
       "maxPEGUS": 1.52,
@@ -8422,8 +8422,8 @@
       "pe_5y_avg": 43.65,
       "pe_vs_avg_pct": 4.75,
       "pb_current": 4.02,
-      "pb_5y_avg": 3.68,
-      "pb_vs_avg_pct": 9.16,
+      "pb_5y_avg": 3.71,
+      "pb_vs_avg_pct": 8.27,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -8587,7 +8587,7 @@
   },
   {
     "ticker": "CAT",
-    "name": null,
+    "name": "Caterpillar Inc.",
     "livePrice": 842.19,
     "prevClose": 856.9600219726562,
     "metrics": {
@@ -8631,12 +8631,12 @@
     },
     "valuation_context": {
       "pe_current": 36.24,
-      "pe_5y_avg": 42.16,
-      "pe_vs_avg_pct": -14.04,
+      "pe_5y_avg": 41.62,
+      "pe_vs_avg_pct": -12.93,
       "pb_current": 19.96,
       "pb_5y_avg": 16.08,
       "pb_vs_avg_pct": 24.13,
-      "period_years": 0.4
+      "period_years": 0.7
     },
     "earnings_surprises": [
       {
@@ -9015,8 +9015,8 @@
     "livePrice": 108.29,
     "prevClose": 108.25,
     "metrics": {
-      "minMcapUS": 47.884570624,
-      "maxMcapUS": 47.884570624,
+      "minMcapUS": 47.879155712,
+      "maxMcapUS": 47.879155712,
       "positiveEPS": true,
       "minROEUS": 23.544,
       "minROIC": 5.6350004,
@@ -9028,7 +9028,7 @@
       "minEPSGUS": 9.0,
       "min5YSalesUS": 3.8302346549323074,
       "min5YProfitUS": 5.188818438248011,
-      "minFCFY": 4.182975797627986,
+      "minFCFY": 4.183448872925689,
       "fcfPositive5Y": true,
       "maxPEUS": 21.109161,
       "maxPEGUS": 3.17,
@@ -9057,9 +9057,9 @@
       "pe_current": 21.11,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 5.03,
+      "pb_current": 5.02,
       "pb_5y_avg": 5.09,
-      "pb_vs_avg_pct": -1.16,
+      "pb_vs_avg_pct": -1.46,
       "period_years": 0
     },
     "earnings_surprises": null,
@@ -9088,12 +9088,12 @@
   },
   {
     "ticker": "CCI",
-    "name": null,
+    "name": "Crown Castle Inc.",
     "livePrice": 75.59,
     "prevClose": 74.91999816894531,
     "metrics": {
-      "minMcapUS": 33.032828928,
-      "maxMcapUS": 33.032828928,
+      "minMcapUS": 32.16017408,
+      "maxMcapUS": 32.16017408,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 4.725,
@@ -9105,7 +9105,7 @@
       "minEPSGUS": -67.5,
       "min5YSalesUS": -9.40218515188268,
       "min5YProfitUS": -23.321495901386047,
-      "minFCFY": 8.703462868004715,
+      "minFCFY": 8.939628227286013,
       "fcfPositive5Y": true,
       "maxPEUS": 30.85306,
       "maxPEGUS": 0.92,
@@ -9304,8 +9304,8 @@
     "livePrice": 339.24,
     "prevClose": 338.4200134277344,
     "metrics": {
-      "minMcapUS": 93.42431232,
-      "maxMcapUS": 93.42431232,
+      "minMcapUS": 93.567819776,
+      "maxMcapUS": 93.567819776,
       "positiveEPS": true,
       "minROEUS": 23.229,
       "minROIC": 10.613,
@@ -9317,7 +9317,7 @@
       "minEPSGUS": 125.4,
       "min5YSalesUS": 8.260526890685238,
       "min5YProfitUS": 5.487478064408391,
-      "minFCFY": 1.698604956881528,
+      "minFCFY": 1.6959997612416744,
       "fcfPositive5Y": true,
       "maxPEUS": 67.57769,
       "maxPEGUS": 3.07,
@@ -9347,8 +9347,8 @@
       "pe_5y_avg": 76.96,
       "pe_vs_avg_pct": -12.19,
       "pb_current": 13.62,
-      "pb_5y_avg": 16.06,
-      "pb_vs_avg_pct": -15.17,
+      "pb_5y_avg": 16.09,
+      "pb_vs_avg_pct": -15.33,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -9406,7 +9406,7 @@
   },
   {
     "ticker": "CDW",
-    "name": null,
+    "name": "CDW Corporation",
     "livePrice": 135.81,
     "prevClose": 141.97000122070312,
     "metrics": {
@@ -9558,9 +9558,9 @@
       "pe_current": 26.38,
       "pe_5y_avg": 25.11,
       "pe_vs_avg_pct": 5.07,
-      "pb_current": 2.92,
+      "pb_current": 3.0,
       "pb_5y_avg": 6.22,
-      "pb_vs_avg_pct": -53.04,
+      "pb_vs_avg_pct": -51.79,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -9662,12 +9662,12 @@
     },
     "valuation_context": {
       "pe_current": 8.48,
-      "pe_5y_avg": 11.0,
-      "pe_vs_avg_pct": -22.88,
-      "pb_current": 3.29,
-      "pb_5y_avg": 2.83,
-      "pb_vs_avg_pct": 16.19,
-      "period_years": 0.7
+      "pe_5y_avg": 9.72,
+      "pe_vs_avg_pct": -12.73,
+      "pb_current": 3.02,
+      "pb_5y_avg": 2.87,
+      "pb_vs_avg_pct": 5.08,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -9830,7 +9830,7 @@
   },
   {
     "ticker": "CHD",
-    "name": null,
+    "name": "Church & Dwight Co., Inc.",
     "livePrice": 103.24,
     "prevClose": 103.36000061035156,
     "metrics": {
@@ -10466,7 +10466,7 @@
   },
   {
     "ticker": "CL",
-    "name": null,
+    "name": "Colgate-Palmolive Company",
     "livePrice": 93.27,
     "prevClose": 93.0,
     "metrics": {
@@ -10572,12 +10572,12 @@
   },
   {
     "ticker": "CLX",
-    "name": null,
+    "name": "The Clorox Company",
     "livePrice": 105.15,
     "prevClose": 105.5999984741211,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 12.71488,
+      "maxMcapUS": 12.71488,
       "positiveEPS": true,
       "minROEUS": 163.76,
       "minROIC": 8.321000000000002,
@@ -10589,7 +10589,7 @@
       "minEPSGUS": -50.1,
       "min5YSalesUS": -0.008443806588365188,
       "min5YProfitUS": 11.884160779474051,
-      "minFCFY": null,
+      "minFCFY": 5.985113504806967,
       "fcfPositive5Y": true,
       "maxPEUS": 21.860708,
       "maxPEGUS": 2.42,
@@ -10619,8 +10619,8 @@
       "pe_5y_avg": 16.66,
       "pe_vs_avg_pct": 31.22,
       "pb_current": 141.9,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 43.04,
+      "pb_vs_avg_pct": 229.7,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -10890,7 +10890,7 @@
   },
   {
     "ticker": "CMG",
-    "name": null,
+    "name": "Chipotle Mexican Grill, Inc.",
     "livePrice": 32.79,
     "prevClose": 33.709999084472656,
     "metrics": {
@@ -11000,8 +11000,8 @@
     "livePrice": 644.26,
     "prevClose": 643.97998046875,
     "metrics": {
-      "minMcapUS": 88.691720192,
-      "maxMcapUS": 88.691720192,
+      "minMcapUS": 88.900837376,
+      "maxMcapUS": 88.900837376,
       "positiveEPS": true,
       "minROEUS": 21.114,
       "minROIC": 6.9970004,
@@ -11013,7 +11013,7 @@
       "minEPSGUS": 4.7,
       "min5YSalesUS": 3.7021508810934467,
       "min5YProfitUS": 5.737074389931407,
-      "minFCFY": 2.6902172996924434,
+      "minFCFY": 2.6838892303213933,
       "fcfPositive5Y": true,
       "maxPEUS": 32.887188,
       "maxPEGUS": 1.46,
@@ -11040,12 +11040,12 @@
     },
     "valuation_context": {
       "pe_current": 32.89,
-      "pe_5y_avg": 33.96,
-      "pe_vs_avg_pct": -3.16,
+      "pe_5y_avg": 31.62,
+      "pe_vs_avg_pct": 4.01,
       "pb_current": 6.9,
-      "pb_5y_avg": 6.17,
-      "pb_vs_avg_pct": 11.89,
-      "period_years": 0.4
+      "pb_5y_avg": 5.6,
+      "pb_vs_avg_pct": 23.28,
+      "period_years": 0.7
     },
     "earnings_surprises": [
       {
@@ -11102,12 +11102,12 @@
   },
   {
     "ticker": "CMS",
-    "name": null,
+    "name": "CMS Energy Corporation",
     "livePrice": 71.03,
     "prevClose": 70.62999725341797,
     "metrics": {
-      "minMcapUS": 22.273384448,
-      "maxMcapUS": 22.273384448,
+      "minMcapUS": 21.942560768,
+      "maxMcapUS": 21.942560768,
       "positiveEPS": true,
       "minROEUS": 9.158,
       "minROIC": 2.971,
@@ -11119,7 +11119,7 @@
       "minEPSGUS": -43.9,
       "min5YSalesUS": -0.13297298956441717,
       "min5YProfitUS": 5.054050668345522,
-      "minFCFY": -8.09486319517058,
+      "minFCFY": -8.21690785803547,
       "fcfPositive5Y": false,
       "maxPEUS": 21.394579,
       "maxPEGUS": 2.74,
@@ -11149,8 +11149,8 @@
       "pe_5y_avg": 21.01,
       "pe_vs_avg_pct": 1.83,
       "pb_current": 2.33,
-      "pb_5y_avg": 2.5,
-      "pb_vs_avg_pct": -6.7,
+      "pb_5y_avg": 2.46,
+      "pb_vs_avg_pct": -5.19,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -11424,8 +11424,8 @@
     "livePrice": 217.76,
     "prevClose": 220.0,
     "metrics": {
-      "minMcapUS": 133.592457216,
-      "maxMcapUS": 133.592457216,
+      "minMcapUS": 133.595766784,
+      "maxMcapUS": 133.595766784,
       "positiveEPS": true,
       "minROEUS": 9.031,
       "minROIC": 1.5230000000000001,
@@ -11437,7 +11437,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 9.30283389709128,
       "min5YProfitUS": -19.728025305478504,
-      "minFCFY": 19.566972974930266,
+      "minFCFY": 19.566488242298586,
       "fcfPositive5Y": true,
       "maxPEUS": 12.00441,
       "maxPEGUS": 0.23,
@@ -11652,7 +11652,7 @@
       "minFCFY": null,
       "fcfPositive5Y": false,
       "maxPEUS": null,
-      "maxPEGUS": 8.25,
+      "maxPEGUS": 8.71,
       "maxBetaUS": 3.361,
       "minGM": 85.81,
       "sharesFlat": false,
@@ -11738,12 +11738,12 @@
   },
   {
     "ticker": "COO",
-    "name": null,
+    "name": "The Cooper Companies, Inc.",
     "livePrice": 74.23,
     "prevClose": 73.31999969482422,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 14.477123584,
+      "maxMcapUS": 14.477123584,
       "positiveEPS": true,
       "minROEUS": 2.8529999999999998,
       "minROIC": 2.5190001,
@@ -11755,7 +11755,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 4.345088747411929,
       "min5YProfitUS": -0.5715559032512307,
-      "minFCFY": null,
+      "minFCFY": 2.995760846300447,
       "fcfPositive5Y": true,
       "maxPEUS": 62.906784,
       "maxPEGUS": 0.7,
@@ -11785,8 +11785,8 @@
       "pe_5y_avg": 48.65,
       "pe_vs_avg_pct": 29.3,
       "pb_current": 1.76,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.72,
+      "pb_vs_avg_pct": 2.09,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -11994,12 +11994,12 @@
     },
     "valuation_context": {
       "pe_current": 23.81,
-      "pe_5y_avg": 29.76,
-      "pe_vs_avg_pct": -20.0,
+      "pe_5y_avg": 22.45,
+      "pe_vs_avg_pct": 6.05,
       "pb_current": 20.04,
-      "pb_5y_avg": 36.23,
-      "pb_vs_avg_pct": -44.68,
-      "period_years": 0.7
+      "pb_5y_avg": 29.35,
+      "pb_vs_avg_pct": -31.71,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -12268,12 +12268,12 @@
   },
   {
     "ticker": "CPB",
-    "name": null,
+    "name": "The Campbell's Company",
     "livePrice": 23.05,
     "prevClose": 22.559999465942383,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 6.87365376,
+      "maxMcapUS": 6.87365376,
       "positiveEPS": true,
       "minROEUS": 15.389,
       "minROIC": 5.393,
@@ -12285,7 +12285,7 @@
       "minEPSGUS": 86.4,
       "min5YSalesUS": 3.6704889343872615,
       "min5YProfitUS": -4.478722438386096,
-      "minFCFY": null,
+      "minFCFY": 10.25655385935529,
       "fcfPositive5Y": true,
       "maxPEUS": 11.29902,
       "maxPEGUS": 0.77,
@@ -12315,8 +12315,8 @@
       "pe_5y_avg": 10.97,
       "pe_vs_avg_pct": 3.0,
       "pb_current": 1.71,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.94,
+      "pb_vs_avg_pct": -12.1,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -12378,8 +12378,8 @@
     "livePrice": 29.66,
     "prevClose": 29.010000228881836,
     "metrics": {
-      "minMcapUS": 27.459567616,
-      "maxMcapUS": 27.459567616,
+      "minMcapUS": 28.571727872,
+      "maxMcapUS": 28.571727872,
       "positiveEPS": true,
       "minROEUS": 17.607,
       "minROIC": 11.336,
@@ -12391,7 +12391,7 @@
       "minEPSGUS": 2.3,
       "min5YSalesUS": 5.82719553472375,
       "min5YProfitUS": 7.326708375323587,
-      "minFCFY": 4.48208077130416,
+      "minFCFY": 4.307614875494219,
       "fcfPositive5Y": true,
       "maxPEUS": 18.42236,
       "maxPEGUS": 3.56,
@@ -12421,8 +12421,8 @@
       "pe_5y_avg": 19.82,
       "pe_vs_avg_pct": -7.05,
       "pb_current": 3.13,
-      "pb_5y_avg": 3.92,
-      "pb_vs_avg_pct": -20.16,
+      "pb_5y_avg": 4.08,
+      "pb_vs_avg_pct": -23.29,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -12480,7 +12480,7 @@
   },
   {
     "ticker": "CPT",
-    "name": null,
+    "name": "Camden Property Trust",
     "livePrice": 111.93,
     "prevClose": 110.73999786376953,
     "metrics": {
@@ -12586,7 +12586,7 @@
   },
   {
     "ticker": "CRH",
-    "name": null,
+    "name": "CRH plc",
     "livePrice": 100.48,
     "prevClose": 97.66000366210938,
     "metrics": {
@@ -12692,12 +12692,12 @@
   },
   {
     "ticker": "CRL",
-    "name": null,
+    "name": "Charles River Laboratories International, Inc.",
     "livePrice": 267.49,
     "prevClose": 265.510009765625,
     "metrics": {
-      "minMcapUS": 12.884384768,
-      "maxMcapUS": 12.884384768,
+      "minMcapUS": 12.769670144,
+      "maxMcapUS": 12.769670144,
       "positiveEPS": false,
       "minROEUS": -7.516,
       "minROIC": 4.107,
@@ -12709,7 +12709,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 0.19701595915160297,
       "min5YProfitUS": null,
-      "minFCFY": 4.024204564953272,
+      "minFCFY": 4.060355468489696,
       "fcfPositive5Y": true,
       "maxPEUS": null,
       "maxPEGUS": 0.12,
@@ -12738,9 +12738,9 @@
       "pe_current": null,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 4.38,
-      "pb_5y_avg": 3.02,
-      "pb_vs_avg_pct": 45.08,
+      "pb_current": 4.5,
+      "pb_5y_avg": 2.99,
+      "pb_vs_avg_pct": 50.37,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -12798,12 +12798,12 @@
   },
   {
     "ticker": "CRM",
-    "name": null,
+    "name": "Salesforce, Inc.",
     "livePrice": 192.74,
     "prevClose": 186.77000427246094,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 157.854056448,
+      "maxMcapUS": 157.854056448,
       "positiveEPS": true,
       "minROEUS": 16.908,
       "minROIC": 5.702999999999999,
@@ -12815,7 +12815,7 @@
       "minEPSGUS": 52.2,
       "min5YSalesUS": 5.781294677973681,
       "min5YProfitUS": 104.597424110207,
-      "minFCFY": null,
+      "minFCFY": 9.123617298199923,
       "fcfPositive5Y": true,
       "maxPEUS": 22.33372,
       "maxPEGUS": 0.8,
@@ -12845,8 +12845,8 @@
       "pe_5y_avg": 22.01,
       "pe_vs_avg_pct": 1.47,
       "pb_current": 4.61,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 3.34,
+      "pb_vs_avg_pct": 38.05,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -13136,7 +13136,7 @@
       "minFCFY": 0.3346071307752838,
       "fcfPositive5Y": false,
       "maxPEUS": 167.99998,
-      "maxPEGUS": 0.59,
+      "maxPEGUS": 0.6,
       "maxBetaUS": 0.731,
       "minGM": 78.68399600000001,
       "sharesFlat": true,
@@ -13438,8 +13438,8 @@
     "livePrice": 57.67,
     "prevClose": 56.88999938964844,
     "metrics": {
-      "minMcapUS": 25.977116672,
-      "maxMcapUS": 25.977116672,
+      "minMcapUS": 27.277910016,
+      "maxMcapUS": 27.277910016,
       "positiveEPS": true,
       "minROEUS": 14.924000000000001,
       "minROIC": 10.735,
@@ -13451,14 +13451,14 @@
       "minEPSGUS": 3.8,
       "min5YSalesUS": 1.6725692245172619,
       "min5YProfitUS": -0.5295973043450197,
-      "minFCFY": 9.989561323397671,
+      "minFCFY": 9.51319217080007,
       "fcfPositive5Y": true,
       "maxPEUS": 12.375537,
       "maxPEGUS": 0.92,
       "maxBetaUS": 0.809,
       "minGM": 33.44,
       "sharesFlat": true,
-      "maxSBC": null,
+      "maxSBC": 0.8574947887057041,
       "minInstOwn": 118.871,
       "maxShort": 12.65,
       "analystBuy": true,
@@ -13481,8 +13481,8 @@
       "pe_5y_avg": 11.23,
       "pe_vs_avg_pct": 10.2,
       "pb_current": 1.8,
-      "pb_5y_avg": 1.96,
-      "pb_vs_avg_pct": -8.04,
+      "pb_5y_avg": 2.06,
+      "pb_vs_avg_pct": -12.5,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -13796,12 +13796,12 @@
     },
     "valuation_context": {
       "pe_current": 25.25,
-      "pe_5y_avg": 34.35,
-      "pe_vs_avg_pct": -26.49,
+      "pe_5y_avg": 45.53,
+      "pe_vs_avg_pct": -44.54,
       "pb_current": 1.53,
       "pb_5y_avg": 1.38,
       "pb_vs_avg_pct": 11.2,
-      "period_years": 0.4
+      "period_years": 0.7
     },
     "earnings_surprises": [
       {
@@ -14011,8 +14011,8 @@
       "pe_5y_avg": 21.26,
       "pe_vs_avg_pct": 9.68,
       "pb_current": 2.12,
-      "pb_5y_avg": 1.95,
-      "pb_vs_avg_pct": 8.88,
+      "pb_5y_avg": 1.89,
+      "pb_vs_avg_pct": 12.34,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -14070,12 +14070,12 @@
   },
   {
     "ticker": "DAL",
-    "name": null,
+    "name": "Delta Air Lines, Inc.",
     "livePrice": 91.34,
     "prevClose": 91.9800033569336,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 60.06728704,
+      "maxMcapUS": 60.06728704,
       "positiveEPS": true,
       "minROEUS": 20.125,
       "minROIC": 4.018999999999999,
@@ -14087,7 +14087,7 @@
       "minEPSGUS": -25.4,
       "min5YSalesUS": 4.609064334851243,
       "min5YProfitUS": 30.586335316415436,
-      "minFCFY": null,
+      "minFCFY": 6.397825154715028,
       "fcfPositive5Y": false,
       "maxPEUS": 15.147594,
       "maxPEGUS": 0.21,
@@ -14117,8 +14117,8 @@
       "pe_5y_avg": 12.94,
       "pe_vs_avg_pct": 17.06,
       "pb_current": 2.74,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 2.4,
+      "pb_vs_avg_pct": 14.11,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -14180,8 +14180,8 @@
     "livePrice": 216.26,
     "prevClose": 213.25999450683594,
     "metrics": {
-      "minMcapUS": 94.228529152,
-      "maxMcapUS": 94.228529152,
+      "minMcapUS": 93.704511488,
+      "maxMcapUS": 93.704511488,
       "positiveEPS": true,
       "minROEUS": 8.8870004,
       "minROIC": 2.9719999,
@@ -14193,10 +14193,10 @@
       "minEPSGUS": -30.0,
       "min5YSalesUS": 15.815598737453618,
       "min5YProfitUS": null,
-      "minFCFY": 1.9378419852595599,
+      "minFCFY": 1.9486788533483166,
       "fcfPositive5Y": true,
       "maxPEUS": 113.82105,
-      "maxPEGUS": 4.88,
+      "maxPEGUS": 4.67,
       "maxBetaUS": 1.77,
       "minGM": 52.225,
       "sharesFlat": true,
@@ -14222,9 +14222,9 @@
       "pe_current": 113.82,
       "pe_5y_avg": 90.19,
       "pe_vs_avg_pct": 26.2,
-      "pb_current": 9.36,
-      "pb_5y_avg": 8.51,
-      "pb_vs_avg_pct": 9.99,
+      "pb_current": 9.44,
+      "pb_5y_avg": 8.46,
+      "pb_vs_avg_pct": 11.63,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -14282,12 +14282,12 @@
   },
   {
     "ticker": "DD",
-    "name": null,
+    "name": "DuPont de Nemours, Inc.",
     "livePrice": 142.47,
     "prevClose": 144.0500030517578,
     "metrics": {
-      "minMcapUS": 19.239573504,
-      "maxMcapUS": 19.239573504,
+      "minMcapUS": 19.236214784,
+      "maxMcapUS": 19.236214784,
       "positiveEPS": true,
       "minROEUS": 1.7919999999999998,
       "minROIC": 2.0669999000000003,
@@ -14299,7 +14299,7 @@
       "minEPSGUS": 149.6,
       "min5YSalesUS": -12.052549901711096,
       "min5YProfitUS": null,
-      "minFCFY": 0.8939907111986676,
+      "minFCFY": 0.8941468055506611,
       "fcfPositive5Y": false,
       "maxPEUS": 60.884617,
       "maxPEGUS": 1.72,
@@ -14329,8 +14329,8 @@
       "pe_5y_avg": 310.52,
       "pe_vs_avg_pct": -80.39,
       "pb_current": 1.4,
-      "pb_5y_avg": 1.1,
-      "pb_vs_avg_pct": 27.02,
+      "pb_5y_avg": 0.92,
+      "pb_vs_avg_pct": 51.88,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -14498,8 +14498,8 @@
     "livePrice": 620.83,
     "prevClose": 614.8400268554688,
     "metrics": {
-      "minMcapUS": 167.585267712,
-      "maxMcapUS": 167.585267712,
+      "minMcapUS": 167.690715136,
+      "maxMcapUS": 167.690715136,
       "positiveEPS": true,
       "minROEUS": 18.349001,
       "minROIC": 3.8280000000000003,
@@ -14511,7 +14511,7 @@
       "minEPSGUS": -8.5,
       "min5YSalesUS": -2.7251708277996944,
       "min5YProfitUS": -6.753682463315247,
-      "minFCFY": 1.9279737676897497,
+      "minFCFY": 1.9267614175177226,
       "fcfPositive5Y": true,
       "maxPEUS": 35.21441,
       "maxPEGUS": 1.43,
@@ -14541,8 +14541,8 @@
       "pe_5y_avg": 33.55,
       "pe_vs_avg_pct": 4.96,
       "pb_current": 6.11,
-      "pb_5y_avg": 5.45,
-      "pb_vs_avg_pct": 12.2,
+      "pb_5y_avg": 5.46,
+      "pb_vs_avg_pct": 11.99,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -15024,7 +15024,7 @@
   },
   {
     "ticker": "DHI",
-    "name": null,
+    "name": "D.R. Horton, Inc.",
     "livePrice": 151.08,
     "prevClose": 146.00999450683594,
     "metrics": {
@@ -15236,7 +15236,7 @@
   },
   {
     "ticker": "DIS",
-    "name": null,
+    "name": "The Walt Disney Company",
     "livePrice": 104.91,
     "prevClose": 104.68000030517578,
     "metrics": {
@@ -15282,9 +15282,9 @@
       "pe_current": 21.63,
       "pe_5y_avg": 17.87,
       "pe_vs_avg_pct": 21.05,
-      "pb_current": 1.65,
+      "pb_current": 1.68,
       "pb_5y_avg": 1.68,
-      "pb_vs_avg_pct": -1.82,
+      "pb_vs_avg_pct": 0.24,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -15554,7 +15554,7 @@
   },
   {
     "ticker": "DOC",
-    "name": null,
+    "name": "Healthpeak Properties, Inc.",
     "livePrice": 21.41,
     "prevClose": 21.100000381469727,
     "metrics": {
@@ -15600,9 +15600,9 @@
       "pe_current": 61.17,
       "pe_5y_avg": 59.84,
       "pe_vs_avg_pct": 2.22,
-      "pb_current": 1.9,
+      "pb_current": 1.88,
       "pb_5y_avg": 1.64,
-      "pb_vs_avg_pct": 15.97,
+      "pb_vs_avg_pct": 14.74,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -15872,7 +15872,7 @@
   },
   {
     "ticker": "DPZ",
-    "name": null,
+    "name": "Domino's Pizza, Inc.",
     "livePrice": 350.95,
     "prevClose": 358.42999267578125,
     "metrics": {
@@ -15982,8 +15982,8 @@
     "livePrice": 213.76,
     "prevClose": 210.94000244140625,
     "metrics": {
-      "minMcapUS": 24.385306624,
-      "maxMcapUS": 24.385306624,
+      "minMcapUS": 24.48300032,
+      "maxMcapUS": 24.48300032,
       "positiveEPS": true,
       "minROEUS": 53.717999999999996,
       "minROIC": 7.7219999999999995,
@@ -15995,7 +15995,7 @@
       "minEPSGUS": 36.0,
       "min5YSalesUS": 4.724814957914836,
       "min5YProfitUS": 4.209283659234853,
-      "minFCFY": 4.461293092494025,
+      "minFCFY": 4.443491344119707,
       "fcfPositive5Y": true,
       "maxPEUS": 20.494726,
       "maxPEGUS": 1.91,
@@ -16025,8 +16025,8 @@
       "pe_5y_avg": 20.3,
       "pe_vs_avg_pct": 0.96,
       "pb_current": 11.05,
-      "pb_5y_avg": 10.15,
-      "pb_vs_avg_pct": 8.83,
+      "pb_5y_avg": 10.19,
+      "pb_vs_avg_pct": 8.4,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -16084,7 +16084,7 @@
   },
   {
     "ticker": "DTE",
-    "name": null,
+    "name": "DTE Energy Company",
     "livePrice": 139.87,
     "prevClose": 139.97000122070312,
     "metrics": {
@@ -16300,8 +16300,8 @@
     "livePrice": 183.77,
     "prevClose": 180.6699981689453,
     "metrics": {
-      "minMcapUS": 11.724526592,
-      "maxMcapUS": 11.724526592,
+      "minMcapUS": 11.795277824,
+      "maxMcapUS": 11.795277824,
       "positiveEPS": true,
       "minROEUS": 88.47500000000001,
       "minROIC": 7.515,
@@ -16313,7 +16313,7 @@
       "minEPSGUS": 55.800000000000004,
       "min5YSalesUS": 3.280127215162709,
       "min5YProfitUS": 5.91112604108508,
-      "minFCFY": 11.178583542079105,
+      "minFCFY": 11.111531407367382,
       "fcfPositive5Y": true,
       "maxPEUS": 15.573729,
       "maxPEGUS": 0.57,
@@ -16402,7 +16402,7 @@
   },
   {
     "ticker": "DVN",
-    "name": null,
+    "name": "Devon Energy Corporation",
     "livePrice": 42.98,
     "prevClose": 43.11000061035156,
     "metrics": {
@@ -16414,12 +16414,12 @@
       "minOpMargin": 41.077000000000005,
       "maxDEUS": 0.28488,
       "minCRUS": 0.717,
-      "minICRUS": 7.9738430583501,
+      "minICRUS": 7.758551307847083,
       "minRevGUS": 64.2,
       "minEPSGUS": 44.0,
       "min5YSalesUS": -2.158032454945147,
       "min5YProfitUS": -15.171959253202072,
-      "minFCFY": 5.916071140040962,
+      "minFCFY": null,
       "fcfPositive5Y": false,
       "maxPEUS": 9.343478,
       "maxPEGUS": 2.92,
@@ -16448,9 +16448,9 @@
       "pe_current": 9.34,
       "pe_5y_avg": 11.73,
       "pe_vs_avg_pct": -20.35,
-      "pb_current": 0.96,
+      "pb_current": 1.18,
       "pb_5y_avg": 2.5,
-      "pb_vs_avg_pct": -61.41,
+      "pb_vs_avg_pct": -52.65,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -16614,7 +16614,7 @@
   },
   {
     "ticker": "EA",
-    "name": null,
+    "name": "Electronic Arts Inc.",
     "livePrice": 209.7,
     "prevClose": 209.6999969482422,
     "metrics": {
@@ -16661,8 +16661,8 @@
       "pe_5y_avg": 53.83,
       "pe_vs_avg_pct": 10.99,
       "pb_current": 7.77,
-      "pb_5y_avg": 7.76,
-      "pb_vs_avg_pct": 0.16,
+      "pb_5y_avg": 7.4,
+      "pb_vs_avg_pct": 5.04,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -16764,12 +16764,12 @@
     },
     "valuation_context": {
       "pe_current": 23.53,
-      "pe_5y_avg": 22.93,
-      "pe_vs_avg_pct": 2.6,
+      "pe_5y_avg": 23.59,
+      "pe_vs_avg_pct": -0.27,
       "pb_current": 10.9,
-      "pb_5y_avg": 8.48,
-      "pb_vs_avg_pct": 28.48,
-      "period_years": 0.7
+      "pb_5y_avg": 9.32,
+      "pb_vs_avg_pct": 16.9,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -16932,7 +16932,7 @@
   },
   {
     "ticker": "ED",
-    "name": null,
+    "name": "Consolidated Edison, Inc.",
     "livePrice": 107.98,
     "prevClose": 108.94999694824219,
     "metrics": {
@@ -17250,7 +17250,7 @@
   },
   {
     "ticker": "EIX",
-    "name": null,
+    "name": "Edison International",
     "livePrice": 68.62,
     "prevClose": 67.2300033569336,
     "metrics": {
@@ -17356,12 +17356,12 @@
   },
   {
     "ticker": "EL",
-    "name": null,
+    "name": "The Est\u00e9e Lauder Companies Inc.",
     "livePrice": 88.35,
     "prevClose": 85.48999786376953,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 31.96457984,
+      "maxMcapUS": 31.96457984,
       "positiveEPS": false,
       "minROEUS": -5.949,
       "minROIC": 4.874,
@@ -17373,7 +17373,7 @@
       "minEPSGUS": -45.5,
       "min5YSalesUS": -4.181590835768678,
       "min5YProfitUS": null,
-      "minFCFY": null,
+      "minFCFY": 2.096070098070152,
       "fcfPositive5Y": false,
       "maxPEUS": null,
       "maxPEGUS": 2.12,
@@ -17403,8 +17403,8 @@
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
       "pb_current": 8.0,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 5.54,
+      "pb_vs_avg_pct": 44.49,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -17588,7 +17588,7 @@
       "minFCFY": 3.300586812510884,
       "fcfPositive5Y": true,
       "maxPEUS": 25.4486,
-      "maxPEGUS": 0.4,
+      "maxPEGUS": 0.41,
       "maxBetaUS": 1.147,
       "minGM": 19.426,
       "sharesFlat": true,
@@ -17678,8 +17678,8 @@
     "livePrice": 158.26,
     "prevClose": 156.91000366210938,
     "metrics": {
-      "minMcapUS": 88.277426176,
-      "maxMcapUS": 88.277426176,
+      "minMcapUS": 88.641421312,
+      "maxMcapUS": 88.641421312,
       "positiveEPS": true,
       "minROEUS": 12.8,
       "minROIC": 6.896999500000001,
@@ -17691,7 +17691,7 @@
       "minEPSGUS": 23.0,
       "min5YSalesUS": 5.470422201882341,
       "min5YProfitUS": -6.628697021994712,
-      "minFCFY": 3.0211574074245924,
+      "minFCFY": 3.008751394692438,
       "fcfPositive5Y": true,
       "maxPEUS": 34.630196,
       "maxPEGUS": 1.84,
@@ -17721,8 +17721,8 @@
       "pe_5y_avg": 33.04,
       "pe_vs_avg_pct": 4.81,
       "pb_current": 4.33,
-      "pb_5y_avg": 3.94,
-      "pb_vs_avg_pct": 9.94,
+      "pb_5y_avg": 3.77,
+      "pb_vs_avg_pct": 14.9,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -17784,8 +17784,8 @@
     "livePrice": 134.74,
     "prevClose": 136.1999969482422,
     "metrics": {
-      "minMcapUS": 70.675062784,
-      "maxMcapUS": 70.675062784,
+      "minMcapUS": 71.766376448,
+      "maxMcapUS": 71.766376448,
       "positiveEPS": true,
       "minROEUS": 22.506999999999998,
       "minROIC": 11.017000000000001,
@@ -17797,7 +17797,7 @@
       "minEPSGUS": 109.4,
       "min5YSalesUS": -5.19928004309328,
       "min5YProfitUS": -8.486594274316772,
-      "minFCFY": 4.88149548666696,
+      "minFCFY": 4.807265143865496,
       "fcfPositive5Y": true,
       "maxPEUS": 10.485603,
       "maxPEGUS": 1.01,
@@ -17827,8 +17827,8 @@
       "pe_5y_avg": 12.22,
       "pe_vs_avg_pct": -14.19,
       "pb_current": 2.33,
-      "pb_5y_avg": 2.12,
-      "pb_vs_avg_pct": 9.98,
+      "pb_5y_avg": 2.08,
+      "pb_vs_avg_pct": 12.1,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -17906,7 +17906,7 @@
       "minFCFY": 12.19013949146551,
       "fcfPositive5Y": true,
       "maxPEUS": 13.2198105,
-      "maxPEGUS": 0.48,
+      "maxPEGUS": 0.5,
       "maxBetaUS": 1.37,
       "minGM": 29.451,
       "sharesFlat": true,
@@ -18098,12 +18098,12 @@
   },
   {
     "ticker": "EQR",
-    "name": null,
+    "name": "Equity Residential",
     "livePrice": 67.07,
     "prevClose": 66.69999694824219,
     "metrics": {
-      "minMcapUS": 25.929816064,
-      "maxMcapUS": 25.929816064,
+      "minMcapUS": 25.928224768,
+      "maxMcapUS": 25.928224768,
       "positiveEPS": true,
       "minROEUS": 8.0240004,
       "minROIC": 2.6689998999999998,
@@ -18115,7 +18115,7 @@
       "minEPSGUS": -39.900000000000006,
       "min5YSalesUS": 2.4957194929942084,
       "min5YProfitUS": 7.591076370959726,
-      "minFCFY": 4.973826257836736,
+      "minFCFY": 4.9741315170629115,
       "fcfPositive5Y": true,
       "maxPEUS": 29.16087,
       "maxPEGUS": 16.1,
@@ -18204,7 +18204,7 @@
   },
   {
     "ticker": "EQT",
-    "name": null,
+    "name": "EQT Corporation",
     "livePrice": 51.69,
     "prevClose": 51.599998474121094,
     "metrics": {
@@ -18526,8 +18526,8 @@
     "livePrice": 288.1,
     "prevClose": 285.1199951171875,
     "metrics": {
-      "minMcapUS": 19.859564544,
-      "maxMcapUS": 19.859564544,
+      "minMcapUS": 19.857635328,
+      "maxMcapUS": 19.857635328,
       "positiveEPS": true,
       "minROEUS": 7.71,
       "minROIC": 2.9560001999999996,
@@ -18539,7 +18539,7 @@
       "minEPSGUS": -71.8,
       "min5YSalesUS": 3.270703986817658,
       "min5YProfitUS": 10.4008921682629,
-      "minFCFY": 4.703401214716987,
+      "minFCFY": 4.7038581612127786,
       "fcfPositive5Y": true,
       "maxPEUS": 44.87539,
       "maxPEGUS": 7.02,
@@ -18628,12 +18628,12 @@
   },
   {
     "ticker": "ETN",
-    "name": null,
+    "name": "Eaton Corporation plc",
     "livePrice": 448.68,
     "prevClose": 447.0899963378906,
     "metrics": {
-      "minMcapUS": 174.267301888,
-      "maxMcapUS": 174.267301888,
+      "minMcapUS": 174.222442496,
+      "maxMcapUS": 174.222442496,
       "positiveEPS": true,
       "minROEUS": 19.683999999999997,
       "minROIC": 7.052,
@@ -18645,7 +18645,7 @@
       "minEPSGUS": -15.9,
       "min5YSalesUS": 5.7523797886226635,
       "min5YProfitUS": 10.668320161160638,
-      "minFCFY": 2.038821948527946,
+      "minFCFY": 2.039346911395513,
       "fcfPositive5Y": true,
       "maxPEUS": 45.643948,
       "maxPEGUS": 3.23,
@@ -18675,8 +18675,8 @@
       "pe_5y_avg": 41.95,
       "pe_vs_avg_pct": 8.81,
       "pb_current": 8.6,
-      "pb_5y_avg": 7.64,
-      "pb_vs_avg_pct": 12.62,
+      "pb_5y_avg": 7.24,
+      "pb_vs_avg_pct": 18.84,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -18780,9 +18780,9 @@
       "pe_current": 27.41,
       "pe_5y_avg": 27.99,
       "pe_vs_avg_pct": -2.07,
-      "pb_current": 2.86,
+      "pb_current": 2.74,
       "pb_5y_avg": 2.71,
-      "pb_vs_avg_pct": 5.71,
+      "pb_vs_avg_pct": 1.24,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -18860,7 +18860,7 @@
       "minFCFY": -3.91007591331084,
       "fcfPositive5Y": false,
       "maxPEUS": 21.216284,
-      "maxPEGUS": 2.34,
+      "maxPEGUS": 2.35,
       "maxBetaUS": 0.515,
       "minGM": 52.696997,
       "sharesFlat": true,
@@ -18950,8 +18950,8 @@
     "livePrice": 89.72,
     "prevClose": 89.31999969482422,
     "metrics": {
-      "minMcapUS": 51.714609152,
-      "maxMcapUS": 51.714609152,
+      "minMcapUS": 51.660775424,
+      "maxMcapUS": 51.660775424,
       "positiveEPS": true,
       "minROEUS": 9.175,
       "minROIC": 8.3680004,
@@ -18963,10 +18963,10 @@
       "minEPSGUS": -25.4,
       "min5YSalesUS": 6.330670227362201,
       "min5YProfitUS": -6.742625099294742,
-      "minFCFY": 2.581475567331771,
+      "minFCFY": 2.584165624776511,
       "fcfPositive5Y": true,
       "maxPEUS": 53.404766,
-      "maxPEGUS": 2.15,
+      "maxPEGUS": 2.16,
       "maxBetaUS": 0.846,
       "minGM": 77.839,
       "sharesFlat": true,
@@ -18993,8 +18993,8 @@
       "pe_5y_avg": 47.76,
       "pe_vs_avg_pct": 11.82,
       "pb_current": 5.01,
-      "pb_5y_avg": 4.77,
-      "pb_vs_avg_pct": 5.09,
+      "pb_5y_avg": 4.68,
+      "pb_vs_avg_pct": 7.11,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -19052,7 +19052,7 @@
   },
   {
     "ticker": "EXC",
-    "name": null,
+    "name": "Exelon Corporation",
     "livePrice": 45.61,
     "prevClose": 45.31999969482422,
     "metrics": {
@@ -19158,12 +19158,12 @@
   },
   {
     "ticker": "EXE",
-    "name": null,
+    "name": "Expand Energy Corporation",
     "livePrice": 92.84,
     "prevClose": 91.95999908447266,
     "metrics": {
-      "minMcapUS": 21.492811776,
-      "maxMcapUS": 21.492811776,
+      "minMcapUS": 22.210004992,
+      "maxMcapUS": 22.210004992,
       "positiveEPS": true,
       "minROEUS": 14.893,
       "minROIC": 8.486,
@@ -19175,7 +19175,7 @@
       "minEPSGUS": -45.5,
       "min5YSalesUS": 1.2711253095319952,
       "min5YProfitUS": -18.098565286522074,
-      "minFCFY": 7.649068987035826,
+      "minFCFY": 7.402069475410588,
       "fcfPositive5Y": true,
       "maxPEUS": 8.003448,
       "maxPEGUS": 1.02,
@@ -19204,9 +19204,9 @@
       "pe_current": 8.0,
       "pe_5y_avg": 7.44,
       "pe_vs_avg_pct": 7.57,
-      "pb_current": 1.14,
-      "pb_5y_avg": 1.26,
-      "pb_vs_avg_pct": -9.5,
+      "pb_current": 1.12,
+      "pb_5y_avg": 1.3,
+      "pb_vs_avg_pct": -13.78,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -19374,8 +19374,8 @@
     "livePrice": 310.68,
     "prevClose": 306.57000732421875,
     "metrics": {
-      "minMcapUS": 37.288460288,
-      "maxMcapUS": 37.288460288,
+      "minMcapUS": 37.28760832,
+      "maxMcapUS": 37.28760832,
       "positiveEPS": true,
       "minROEUS": 89.48899999999999,
       "minROIC": 6.1079998,
@@ -19387,7 +19387,7 @@
       "minEPSGUS": 188.7,
       "min5YSalesUS": 4.777105847121432,
       "min5YProfitUS": 29.741323107686824,
-      "minFCFY": 8.340381919713767,
+      "minFCFY": 8.3405724853956,
       "fcfPositive5Y": true,
       "maxPEUS": 19.527342,
       "maxPEGUS": 1.03,
@@ -19582,7 +19582,7 @@
   },
   {
     "ticker": "F",
-    "name": null,
+    "name": "Ford Motor Company",
     "livePrice": 13.98,
     "prevClose": 13.789999961853027,
     "metrics": {
@@ -19692,8 +19692,8 @@
     "livePrice": 188.04,
     "prevClose": 189.6300048828125,
     "metrics": {
-      "minMcapUS": 52.654915584,
-      "maxMcapUS": 52.654915584,
+      "minMcapUS": 52.898152448,
+      "maxMcapUS": 52.898152448,
       "positiveEPS": true,
       "minROEUS": 3.4930002,
       "minROIC": 1.308,
@@ -19705,7 +19705,7 @@
       "minEPSGUS": 179.5,
       "min5YSalesUS": 9.310043794515565,
       "min5YProfitUS": -17.6209197296034,
-      "minFCFY": -1.33510801831694,
+      "minFCFY": -1.3289689100031685,
       "fcfPositive5Y": false,
       "maxPEUS": 284.90906,
       "maxPEGUS": 19.36,
@@ -19900,7 +19900,7 @@
   },
   {
     "ticker": "FCX",
-    "name": null,
+    "name": "Freeport-McMoRan Inc.",
     "livePrice": 69.62,
     "prevClose": 68.18000030517578,
     "metrics": {
@@ -19946,9 +19946,9 @@
       "pe_current": 34.13,
       "pe_5y_avg": 32.51,
       "pe_vs_avg_pct": 4.98,
-      "pb_current": 4.85,
+      "pb_current": 4.97,
       "pb_5y_avg": 4.23,
-      "pb_vs_avg_pct": 14.58,
+      "pb_vs_avg_pct": 17.54,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -20112,7 +20112,7 @@
   },
   {
     "ticker": "FDX",
-    "name": null,
+    "name": "FedEx Corporation",
     "livePrice": 318.57,
     "prevClose": 315.8699951171875,
     "metrics": {
@@ -20222,8 +20222,8 @@
     "livePrice": 47.47,
     "prevClose": 46.904998779296875,
     "metrics": {
-      "minMcapUS": 27.468038144,
-      "maxMcapUS": 27.468038144,
+      "minMcapUS": 27.458127872,
+      "maxMcapUS": 27.458127872,
       "positiveEPS": true,
       "minROEUS": 9.491,
       "minROIC": 3.682,
@@ -20235,7 +20235,7 @@
       "minEPSGUS": 8.3,
       "min5YSalesUS": 3.9061398168806605,
       "min5YProfitUS": 20.23054829051847,
-      "minFCFY": -3.6587978898650535,
+      "minFCFY": -3.660118434457555,
       "fcfPositive5Y": false,
       "maxPEUS": 25.385027,
       "maxPEGUS": 1.69,
@@ -20265,8 +20265,8 @@
       "pe_5y_avg": 75.47,
       "pe_vs_avg_pct": -66.36,
       "pb_current": 2.12,
-      "pb_5y_avg": 2.11,
-      "pb_vs_avg_pct": 0.64,
+      "pb_5y_avg": 2.1,
+      "pb_vs_avg_pct": 1.12,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -20617,8 +20617,8 @@
     "livePrice": 42.77,
     "prevClose": 42.810001373291016,
     "metrics": {
-      "minMcapUS": 22.056742912,
-      "maxMcapUS": 22.056742912,
+      "minMcapUS": 22.10692096,
+      "maxMcapUS": 22.10692096,
       "positiveEPS": true,
       "minROEUS": 22.348000000000003,
       "minROIC": 4.275,
@@ -20630,7 +20630,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 1.8958732460805594,
       "min5YProfitUS": null,
-      "minFCFY": 8.283181280614276,
+      "minFCFY": 8.26438020611623,
       "fcfPositive5Y": true,
       "maxPEUS": 6.5698924,
       "maxPEGUS": 0.25,
@@ -20657,12 +20657,12 @@
     },
     "valuation_context": {
       "pe_current": 6.57,
-      "pe_5y_avg": 7.59,
-      "pe_vs_avg_pct": -13.44,
+      "pe_5y_avg": 30.26,
+      "pe_vs_avg_pct": -78.29,
       "pb_current": 1.38,
       "pb_5y_avg": 1.89,
       "pb_vs_avg_pct": -26.77,
-      "period_years": 0.4
+      "period_years": 0.7
     },
     "earnings_surprises": [
       {
@@ -20765,9 +20765,9 @@
       "pe_current": 10.04,
       "pe_5y_avg": 9.71,
       "pe_vs_avg_pct": 3.4,
-      "pb_current": 1.07,
+      "pb_current": 1.03,
       "pb_5y_avg": 1.54,
-      "pb_vs_avg_pct": -30.77,
+      "pb_vs_avg_pct": -32.83,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -20810,8 +20810,8 @@
     "livePrice": 57.09,
     "prevClose": 56.959999084472656,
     "metrics": {
-      "minMcapUS": 51.774496768,
-      "maxMcapUS": 51.774496768,
+      "minMcapUS": 51.756253184,
+      "maxMcapUS": 51.756253184,
       "positiveEPS": true,
       "minROEUS": 8.437999999999999,
       "minROIC": 0.9199999999999999,
@@ -20823,7 +20823,7 @@
       "minEPSGUS": -5.7,
       "min5YSalesUS": 1.7150265154157296,
       "min5YProfitUS": 0.6138403308010965,
-      "minFCFY": 7.349178142764175,
+      "minFCFY": 7.351768657736381,
       "fcfPositive5Y": true,
       "maxPEUS": 19.222221,
       "maxPEGUS": 2.17,
@@ -20853,8 +20853,8 @@
       "pe_5y_avg": 18.1,
       "pe_vs_avg_pct": 6.2,
       "pb_current": 1.61,
-      "pb_5y_avg": 1.71,
-      "pb_vs_avg_pct": -6.12,
+      "pb_5y_avg": 1.74,
+      "pb_vs_avg_pct": -7.74,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -20912,7 +20912,7 @@
   },
   {
     "ticker": "FIX",
-    "name": null,
+    "name": "Comfort Systems USA, Inc.",
     "livePrice": 1694.55,
     "prevClose": 1713.5999755859375,
     "metrics": {
@@ -20932,7 +20932,7 @@
       "minFCFY": 1.729507157481532,
       "fcfPositive5Y": true,
       "maxPEUS": 41.66585,
-      "maxPEGUS": 0.75,
+      "maxPEGUS": 0.74,
       "maxBetaUS": 1.701,
       "minGM": 25.661,
       "sharesFlat": true,
@@ -21205,8 +21205,8 @@
     "livePrice": 118.69,
     "prevClose": 117.91000366210938,
     "metrics": {
-      "minMcapUS": 10.375682048,
-      "maxMcapUS": 10.375682048,
+      "minMcapUS": 10.316345344,
+      "maxMcapUS": 10.316345344,
       "positiveEPS": true,
       "minROEUS": 12.550999,
       "minROIC": 3.259,
@@ -21218,7 +21218,7 @@
       "minEPSGUS": -45.6,
       "min5YSalesUS": 3.5478270704771386,
       "min5YProfitUS": 1.293548856587745,
-      "minFCFY": 3.1905372434172725,
+      "minFCFY": 3.208888312298825,
       "fcfPositive5Y": true,
       "maxPEUS": 23.97778,
       "maxPEGUS": 3.59,
@@ -21248,8 +21248,8 @@
       "pe_5y_avg": 21.95,
       "pe_vs_avg_pct": 9.24,
       "pb_current": 3.22,
-      "pb_5y_avg": 2.84,
-      "pb_vs_avg_pct": 13.3,
+      "pb_5y_avg": 2.82,
+      "pb_vs_avg_pct": 14.11,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -21523,8 +21523,8 @@
     "livePrice": 61.71,
     "prevClose": 60.869998931884766,
     "metrics": {
-      "minMcapUS": 18.637471744,
-      "maxMcapUS": 18.637471744,
+      "minMcapUS": 18.812973056,
+      "maxMcapUS": 18.812973056,
       "positiveEPS": true,
       "minROEUS": 7.318,
       "minROIC": 3.295,
@@ -21566,8 +21566,8 @@
       "pe_5y_avg": 35.25,
       "pe_vs_avg_pct": -7.37,
       "pb_current": 3.08,
-      "pb_5y_avg": 2.52,
-      "pb_vs_avg_pct": 22.27,
+      "pb_5y_avg": 2.54,
+      "pb_vs_avg_pct": 21.31,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -21837,7 +21837,7 @@
   },
   {
     "ticker": "GE",
-    "name": null,
+    "name": "GE Aerospace",
     "livePrice": 370.08,
     "prevClose": 374.54998779296875,
     "metrics": {
@@ -21857,7 +21857,7 @@
       "minFCFY": 1.8917596504370051,
       "fcfPositive5Y": true,
       "maxPEUS": 43.69303,
-      "maxPEGUS": 5.5,
+      "maxPEGUS": 5.44,
       "maxBetaUS": 1.366,
       "minGM": 31.051000000000002,
       "sharesFlat": true,
@@ -21947,8 +21947,8 @@
     "livePrice": 71.77,
     "prevClose": 70.30999755859375,
     "metrics": {
-      "minMcapUS": 32.417519616,
-      "maxMcapUS": 32.417519616,
+      "minMcapUS": 32.647581696,
+      "maxMcapUS": 32.647581696,
       "positiveEPS": true,
       "minROEUS": 19.375999999999998,
       "minROIC": 5.131,
@@ -21960,7 +21960,7 @@
       "minEPSGUS": 16.8,
       "min5YSalesUS": 2.375064707698127,
       "min5YProfitUS": 1.6951970056895416,
-      "minFCFY": 4.642551366752907,
+      "minFCFY": 4.609836079173955,
       "fcfPositive5Y": true,
       "maxPEUS": 16.536865,
       "maxPEGUS": 1.98,
@@ -21990,8 +21990,8 @@
       "pe_5y_avg": 15.36,
       "pe_vs_avg_pct": 7.66,
       "pb_current": 2.95,
-      "pb_5y_avg": 3.26,
-      "pb_vs_avg_pct": -9.39,
+      "pb_5y_avg": 3.28,
+      "pb_vs_avg_pct": -9.95,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -22049,7 +22049,7 @@
   },
   {
     "ticker": "GEN",
-    "name": null,
+    "name": "Gen Digital Inc.",
     "livePrice": 29.17,
     "prevClose": 28.100000381469727,
     "metrics": {
@@ -22175,7 +22175,7 @@
       "minFCFY": 1.4066058398847783,
       "fcfPositive5Y": false,
       "maxPEUS": 28.408491,
-      "maxPEGUS": 1.7,
+      "maxPEGUS": 1.68,
       "maxBetaUS": 1.033,
       "minGM": 20.57,
       "sharesFlat": true,
@@ -22307,9 +22307,9 @@
       "pe_current": null,
       "pe_5y_avg": 17.51,
       "pe_vs_avg_pct": null,
-      "pb_current": 14.08,
+      "pb_current": 13.98,
       "pb_5y_avg": 8.62,
-      "pb_vs_avg_pct": 63.31,
+      "pb_vs_avg_pct": 62.12,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -22367,12 +22367,12 @@
   },
   {
     "ticker": "GIS",
-    "name": null,
+    "name": "General Mills, Inc.",
     "livePrice": 36.89,
     "prevClose": 36.06999969482422,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 19.688501248,
+      "maxMcapUS": 19.688501248,
       "positiveEPS": false,
       "minROEUS": -1.028,
       "minROIC": 5.7350002,
@@ -22384,7 +22384,7 @@
       "minEPSGUS": -14.499999999999998,
       "min5YSalesUS": -1.7199272006118926,
       "min5YProfitUS": null,
-      "minFCFY": null,
+      "minFCFY": 8.260151341713748,
       "fcfPositive5Y": true,
       "maxPEUS": null,
       "maxPEGUS": 11.74,
@@ -22414,8 +22414,8 @@
       "pe_5y_avg": 8.45,
       "pe_vs_avg_pct": null,
       "pb_current": 3.56,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 2.46,
+      "pb_vs_avg_pct": 44.83,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -22519,9 +22519,9 @@
       "pe_current": 12.22,
       "pe_5y_avg": 11.38,
       "pe_vs_avg_pct": 7.42,
-      "pb_current": 2.35,
+      "pb_current": 2.3,
       "pb_5y_avg": 1.87,
-      "pb_vs_avg_pct": 25.85,
+      "pb_vs_avg_pct": 23.06,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -22579,12 +22579,12 @@
   },
   {
     "ticker": "GLW",
-    "name": null,
+    "name": "Corning Incorporated",
     "livePrice": 165.68,
     "prevClose": 157.17999267578125,
     "metrics": {
-      "minMcapUS": 142.714814464,
-      "maxMcapUS": 142.714814464,
+      "minMcapUS": 142.424784896,
+      "maxMcapUS": 142.424784896,
       "positiveEPS": true,
       "minROEUS": 16.813,
       "minROIC": 5.367,
@@ -22596,7 +22596,7 @@
       "minEPSGUS": 18.5,
       "min5YSalesUS": 1.9520306842415458,
       "min5YProfitUS": 3.933463380769542,
-      "minFCFY": 0.9900864218664778,
+      "minFCFY": 0.9921026042144186,
       "fcfPositive5Y": true,
       "maxPEUS": 76.35023,
       "maxPEGUS": 1.27,
@@ -22626,8 +22626,8 @@
       "pe_5y_avg": 84.43,
       "pe_vs_avg_pct": -9.57,
       "pb_current": 11.95,
-      "pb_5y_avg": 9.39,
-      "pb_vs_avg_pct": 27.28,
+      "pb_5y_avg": 9.37,
+      "pb_vs_avg_pct": 27.55,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -22685,7 +22685,7 @@
   },
   {
     "ticker": "GM",
-    "name": null,
+    "name": "General Motors Company",
     "livePrice": 87.58,
     "prevClose": 86.94000244140625,
     "metrics": {
@@ -22795,8 +22795,8 @@
     "livePrice": 212.22,
     "prevClose": 211.17999267578125,
     "metrics": {
-      "minMcapUS": 12.522330112,
-      "maxMcapUS": 12.522330112,
+      "minMcapUS": 12.522176512,
+      "maxMcapUS": 12.522176512,
       "positiveEPS": true,
       "minROEUS": 9.491,
       "minROIC": 4.721,
@@ -22808,7 +22808,7 @@
       "minEPSGUS": 92.0,
       "min5YSalesUS": -1.6089338446900525,
       "min5YProfitUS": -14.552040790719257,
-      "minFCFY": 2.141198943023041,
+      "minFCFY": 2.1412252074793305,
       "fcfPositive5Y": false,
       "maxPEUS": 48.78621,
       "maxPEGUS": 0.88,
@@ -23109,7 +23109,7 @@
   },
   {
     "ticker": "GPC",
-    "name": null,
+    "name": "Genuine Parts Company",
     "livePrice": 135.63,
     "prevClose": 132.7899932861328,
     "metrics": {
@@ -23215,7 +23215,7 @@
   },
   {
     "ticker": "GPN",
-    "name": null,
+    "name": "Global Payments Inc.",
     "livePrice": 86.12,
     "prevClose": 87.69000244140625,
     "metrics": {
@@ -23262,8 +23262,8 @@
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
       "pb_current": 0.99,
-      "pb_5y_avg": 0.9,
-      "pb_vs_avg_pct": 9.96,
+      "pb_5y_avg": 0.92,
+      "pb_vs_avg_pct": 7.57,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -23325,8 +23325,8 @@
     "livePrice": 310.89,
     "prevClose": 301.8699951171875,
     "metrics": {
-      "minMcapUS": 59.955929088,
-      "maxMcapUS": 59.955929088,
+      "minMcapUS": 59.957067776,
+      "maxMcapUS": 59.957067776,
       "positiveEPS": true,
       "minROEUS": 21.886998,
       "minROIC": 12.174,
@@ -23338,7 +23338,7 @@
       "minEPSGUS": 35.3,
       "min5YSalesUS": 8.31323690576584,
       "min5YProfitUS": 11.314051713648787,
-      "minFCFY": 2.273191360273296,
+      "minFCFY": 2.2731481884535314,
       "fcfPositive5Y": true,
       "maxPEUS": 32.050518,
       "maxPEGUS": 3.83,
@@ -23427,7 +23427,7 @@
   },
   {
     "ticker": "GS",
-    "name": null,
+    "name": "The Goldman Sachs Group, Inc.",
     "livePrice": 1039.61,
     "prevClose": 1032.5799560546875,
     "metrics": {
@@ -23474,8 +23474,8 @@
       "pe_5y_avg": 16.93,
       "pe_vs_avg_pct": -5.19,
       "pb_current": 2.84,
-      "pb_5y_avg": 2.1,
-      "pb_vs_avg_pct": 35.09,
+      "pb_5y_avg": 1.88,
+      "pb_vs_avg_pct": 50.9,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -23533,12 +23533,12 @@
   },
   {
     "ticker": "GWW",
-    "name": null,
+    "name": "W.W. Grainger, Inc.",
     "livePrice": 1277.55,
     "prevClose": 1282.5799560546875,
     "metrics": {
-      "minMcapUS": 60.173811712,
-      "maxMcapUS": 60.173811712,
+      "minMcapUS": 60.31712256,
+      "maxMcapUS": 60.31712256,
       "positiveEPS": true,
       "minROEUS": 46.091,
       "minROIC": 19.933999999999997,
@@ -23550,7 +23550,7 @@
       "minEPSGUS": 20.5,
       "min5YSalesUS": 3.3345605376595033,
       "min5YProfitUS": 1.9759459530588996,
-      "minFCFY": 2.2119256901496387,
+      "minFCFY": 2.2066702513469503,
       "fcfPositive5Y": true,
       "maxPEUS": 32.57394,
       "maxPEGUS": 2.0,
@@ -23580,8 +23580,8 @@
       "pe_5y_avg": 33.71,
       "pe_vs_avg_pct": -3.37,
       "pb_current": 14.57,
-      "pb_5y_avg": 13.83,
-      "pb_vs_avg_pct": 5.32,
+      "pb_5y_avg": 13.87,
+      "pb_vs_avg_pct": 5.02,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -23643,8 +23643,8 @@
     "livePrice": 31.89,
     "prevClose": 32.5099983215332,
     "metrics": {
-      "minMcapUS": 26.568527872,
-      "maxMcapUS": 26.568527872,
+      "minMcapUS": 26.64083456,
+      "maxMcapUS": 26.64083456,
       "positiveEPS": true,
       "minROEUS": 14.917,
       "minROIC": 7.258000000000001,
@@ -23656,7 +23656,7 @@
       "minEPSGUS": 16.1,
       "min5YSalesUS": 1.7938642061321897,
       "min5YProfitUS": -3.9815208285146952,
-      "minFCFY": 6.293160118073704,
+      "minFCFY": 6.276079663474326,
       "fcfPositive5Y": true,
       "maxPEUS": 16.696335,
       "maxPEGUS": 0.78,
@@ -23686,8 +23686,8 @@
       "pe_5y_avg": 19.33,
       "pe_vs_avg_pct": -13.62,
       "pb_current": 2.42,
-      "pb_5y_avg": 2.42,
-      "pb_vs_avg_pct": -0.18,
+      "pb_5y_avg": 2.43,
+      "pb_vs_avg_pct": -0.59,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -23745,7 +23745,7 @@
   },
   {
     "ticker": "HAS",
-    "name": null,
+    "name": "Hasbro, Inc.",
     "livePrice": 93.52,
     "prevClose": 91.69000244140625,
     "metrics": {
@@ -23791,9 +23791,9 @@
       "pe_current": 16.64,
       "pe_5y_avg": 16.59,
       "pe_vs_avg_pct": 0.3,
-      "pb_current": null,
+      "pb_current": 20.42,
       "pb_5y_avg": 27.55,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": -25.87,
       "period_years": 0.2
     },
     "earnings_surprises": [
@@ -23961,8 +23961,8 @@
     "livePrice": 413.36,
     "prevClose": 408.8900146484375,
     "metrics": {
-      "minMcapUS": 89.493061632,
-      "maxMcapUS": 89.493061632,
+      "minMcapUS": 91.699699712,
+      "maxMcapUS": 91.699699712,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 12.291,
@@ -23974,7 +23974,7 @@
       "minEPSGUS": 11.600000000000001,
       "min5YSalesUS": 4.649572898801035,
       "min5YProfitUS": 3.751684786876508,
-      "minFCFY": 8.595079729901176,
+      "minFCFY": 8.388249933378363,
       "fcfPositive5Y": true,
       "maxPEUS": 13.8711405,
       "maxPEGUS": 1.34,
@@ -24063,12 +24063,12 @@
   },
   {
     "ticker": "HD",
-    "name": null,
+    "name": "The Home Depot, Inc.",
     "livePrice": 355.62,
     "prevClose": 349.5199890136719,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 354.594619392,
+      "maxMcapUS": 354.594619392,
       "positiveEPS": true,
       "minROEUS": 128.38,
       "minROIC": 12.519,
@@ -24080,7 +24080,7 @@
       "minEPSGUS": -4.3,
       "min5YSalesUS": 0.9083611525721791,
       "min5YProfitUS": -3.7139224332015885,
-      "minFCFY": null,
+      "minFCFY": 3.566325970112931,
       "fcfPositive5Y": true,
       "maxPEUS": 25.257103,
       "maxPEGUS": 2.01,
@@ -24110,8 +24110,8 @@
       "pe_5y_avg": 24.0,
       "pe_vs_avg_pct": 5.24,
       "pb_current": 25.55,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 32.11,
+      "pb_vs_avg_pct": -20.41,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -24275,7 +24275,7 @@
   },
   {
     "ticker": "HII",
-    "name": null,
+    "name": "Huntington Ingalls Industries, Inc.",
     "livePrice": 324.48,
     "prevClose": 321.760009765625,
     "metrics": {
@@ -24487,7 +24487,7 @@
   },
   {
     "ticker": "HON",
-    "name": null,
+    "name": "Honeywell International Inc.",
     "livePrice": 246.21,
     "prevClose": 240.74000549316406,
     "metrics": {
@@ -24507,7 +24507,7 @@
       "minFCFY": 6.948271390231177,
       "fcfPositive5Y": true,
       "maxPEUS": 9.469616,
-      "maxPEGUS": 3.8,
+      "maxPEGUS": 3.89,
       "maxBetaUS": 0.918,
       "minGM": 36.510999999999996,
       "sharesFlat": true,
@@ -24613,10 +24613,10 @@
       "minFCFY": 1.8885158215964049,
       "fcfPositive5Y": false,
       "maxPEUS": 41.278763,
-      "maxPEGUS": 2.06,
+      "maxPEGUS": 2.12,
       "maxBetaUS": 2.321,
       "minGM": 91.89,
-      "sharesFlat": false,
+      "sharesFlat": true,
       "maxSBC": 6.818689917281466,
       "minInstOwn": 75.518996,
       "maxShort": 4.8699997,
@@ -24805,12 +24805,12 @@
   },
   {
     "ticker": "HPQ",
-    "name": null,
+    "name": "HP Inc.",
     "livePrice": 30.05,
     "prevClose": 28.18000030517578,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 27.48140544,
+      "maxMcapUS": 27.48140544,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 5.8790002,
@@ -24822,7 +24822,7 @@
       "minEPSGUS": 16.2,
       "min5YSalesUS": -2.547443753223977,
       "min5YProfitUS": -4.1867845397218435,
-      "minFCFY": null,
+      "minFCFY": 10.188707437518888,
       "fcfPositive5Y": true,
       "maxPEUS": 11.129629,
       "maxPEGUS": 24.71,
@@ -24911,12 +24911,12 @@
   },
   {
     "ticker": "HRL",
-    "name": null,
+    "name": "Hormel Foods Corporation",
     "livePrice": 25.02,
     "prevClose": 25.09000015258789,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 13.768111104,
+      "maxMcapUS": 13.768111104,
       "positiveEPS": true,
       "minROEUS": 5.831,
       "minROIC": 4.5819998,
@@ -24928,7 +24928,7 @@
       "minEPSGUS": -5.1,
       "min5YSalesUS": -0.5726196113662985,
       "min5YProfitUS": -13.717544006279802,
-      "minFCFY": null,
+      "minFCFY": 3.8810625216755947,
       "fcfPositive5Y": true,
       "maxPEUS": 29.435293,
       "maxPEGUS": 1.76,
@@ -24958,8 +24958,8 @@
       "pe_5y_avg": 27.34,
       "pe_vs_avg_pct": 7.66,
       "pb_current": 1.73,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.67,
+      "pb_vs_avg_pct": 3.72,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -25021,8 +25021,8 @@
     "livePrice": 88.13,
     "prevClose": 88.2300033569336,
     "metrics": {
-      "minMcapUS": 9.821784064,
-      "maxMcapUS": 9.821784064,
+      "minMcapUS": 10.039483392,
+      "maxMcapUS": 10.039483392,
       "positiveEPS": true,
       "minROEUS": 8.8549994,
       "minROIC": 4.3920003,
@@ -25034,7 +25034,7 @@
       "minEPSGUS": 17.1,
       "min5YSalesUS": 0.8351468612569635,
       "min5YProfitUS": -5.850035785517482,
-      "minFCFY": 5.304535271851808,
+      "minFCFY": 5.1895100540248995,
       "fcfPositive5Y": true,
       "maxPEUS": 25.693876,
       "maxPEGUS": 2.01,
@@ -25064,8 +25064,8 @@
       "pe_5y_avg": 24.1,
       "pe_vs_avg_pct": 6.61,
       "pb_current": 3.12,
-      "pb_5y_avg": 2.66,
-      "pb_vs_avg_pct": 17.45,
+      "pb_5y_avg": 2.71,
+      "pb_vs_avg_pct": 15.28,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -25123,12 +25123,12 @@
   },
   {
     "ticker": "HST",
-    "name": null,
+    "name": "Host Hotels & Resorts, Inc.",
     "livePrice": 23.29,
     "prevClose": 23.3799991607666,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 16.157816832,
+      "maxMcapUS": 16.157816832,
       "positiveEPS": true,
       "minROEUS": 15.558,
       "minROIC": 4.33,
@@ -25140,7 +25140,7 @@
       "minEPSGUS": 8.4,
       "min5YSalesUS": 4.496531478453547,
       "min5YProfitUS": 3.8607716731521524,
-      "minFCFY": null,
+      "minFCFY": 5.3596349618527475,
       "fcfPositive5Y": true,
       "maxPEUS": 15.630873,
       "maxPEGUS": 3.83,
@@ -25170,8 +25170,8 @@
       "pe_5y_avg": 15.46,
       "pe_vs_avg_pct": 1.11,
       "pb_current": 2.5,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.79,
+      "pb_vs_avg_pct": 39.52,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -25339,8 +25339,8 @@
     "livePrice": 513.99,
     "prevClose": 507.7300109863281,
     "metrics": {
-      "minMcapUS": 27.155412992,
-      "maxMcapUS": 27.155412992,
+      "minMcapUS": 27.160143872,
+      "maxMcapUS": 27.160143872,
       "positiveEPS": true,
       "minROEUS": 24.444,
       "minROIC": 8.427,
@@ -25352,7 +25352,7 @@
       "minEPSGUS": -0.8999999999999999,
       "min5YSalesUS": 3.3872005640369185,
       "min5YProfitUS": 10.197539329470873,
-      "minFCFY": 3.2210889234411093,
+      "minFCFY": 3.2205278592126594,
       "fcfPositive5Y": true,
       "maxPEUS": 30.395624,
       "maxPEGUS": 2.38,
@@ -25441,7 +25441,7 @@
   },
   {
     "ticker": "HUM",
-    "name": null,
+    "name": "Humana Inc.",
     "livePrice": 385.0,
     "prevClose": 367.239990234375,
     "metrics": {
@@ -25487,9 +25487,9 @@
       "pe_current": 36.36,
       "pe_5y_avg": 14.01,
       "pe_vs_avg_pct": 159.49,
-      "pb_current": null,
+      "pb_current": 2.49,
       "pb_5y_avg": 1.84,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": 35.21,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -25673,7 +25673,7 @@
       "minFCFY": 10.52081993283098,
       "fcfPositive5Y": true,
       "maxPEUS": 34.853176,
-      "maxPEGUS": 1.65,
+      "maxPEGUS": 1.69,
       "maxBetaUS": 1.343,
       "minGM": 93.036,
       "sharesFlat": false,
@@ -25779,7 +25779,7 @@
       "minFCFY": 5.124141257517376,
       "fcfPositive5Y": true,
       "maxPEUS": 21.054125,
-      "maxPEGUS": 2.38,
+      "maxPEGUS": 2.41,
       "maxBetaUS": 0.705,
       "minGM": 58.098000000000006,
       "sharesFlat": true,
@@ -25865,7 +25865,7 @@
   },
   {
     "ticker": "ICE",
-    "name": null,
+    "name": "Intercontinental Exchange, Inc.",
     "livePrice": 150.3,
     "prevClose": 149.75,
     "metrics": {
@@ -25975,8 +25975,8 @@
     "livePrice": 586.67,
     "prevClose": 590.0,
     "metrics": {
-      "minMcapUS": 46.218518528,
-      "maxMcapUS": 46.218518528,
+      "minMcapUS": 46.27828736,
+      "maxMcapUS": 46.27828736,
       "positiveEPS": true,
       "minROEUS": 74.211,
       "minROIC": 27.084999999999997,
@@ -25988,7 +25988,7 @@
       "minEPSGUS": 17.599999999999998,
       "min5YSalesUS": 5.029538513177756,
       "min5YProfitUS": 9.302954611036673,
-      "minFCFY": 2.257923951776562,
+      "minFCFY": 2.2550078223119447,
       "fcfPositive5Y": true,
       "maxPEUS": 41.140953,
       "maxPEGUS": 3.59,
@@ -26018,8 +26018,8 @@
       "pe_5y_avg": 40.09,
       "pe_vs_avg_pct": 2.62,
       "pb_current": 29.87,
-      "pb_5y_avg": 32.47,
-      "pb_vs_avg_pct": -7.99,
+      "pb_5y_avg": 32.51,
+      "pb_vs_avg_pct": -8.11,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -26123,9 +26123,9 @@
       "pe_current": 33.78,
       "pe_5y_avg": 32.62,
       "pe_vs_avg_pct": 3.57,
-      "pb_current": 4.3,
+      "pb_current": 4.33,
       "pb_5y_avg": 3.62,
-      "pb_vs_avg_pct": 18.83,
+      "pb_vs_avg_pct": 19.58,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -26183,12 +26183,12 @@
   },
   {
     "ticker": "IFF",
-    "name": null,
+    "name": "International Flavors & Fragrances Inc.",
     "livePrice": 85.89,
     "prevClose": 84.55000305175781,
     "metrics": {
-      "minMcapUS": 21.914830848,
-      "maxMcapUS": 21.914830848,
+      "minMcapUS": 21.928015872,
+      "maxMcapUS": 21.928015872,
       "positiveEPS": false,
       "minROEUS": -5.548,
       "minROIC": 2.27,
@@ -26200,10 +26200,10 @@
       "minEPSGUS": -91.60000000000001,
       "min5YSalesUS": -2.6263387291781126,
       "min5YProfitUS": null,
-      "minFCFY": 1.1590324459345789,
+      "minFCFY": 1.1583355351558915,
       "fcfPositive5Y": false,
       "maxPEUS": null,
-      "maxPEGUS": 0.9,
+      "maxPEGUS": 1.91,
       "maxBetaUS": 0.943,
       "minGM": 36.583,
       "sharesFlat": true,
@@ -26819,7 +26819,7 @@
   },
   {
     "ticker": "IP",
-    "name": null,
+    "name": "International Paper Company",
     "livePrice": 41.58,
     "prevClose": 40.529998779296875,
     "metrics": {
@@ -26865,9 +26865,9 @@
       "pe_current": null,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 1.52,
-      "pb_5y_avg": 1.32,
-      "pb_vs_avg_pct": 15.39,
+      "pb_current": 1.73,
+      "pb_5y_avg": 1.36,
+      "pb_vs_avg_pct": 26.9,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -27031,7 +27031,7 @@
   },
   {
     "ticker": "IR",
-    "name": null,
+    "name": "Ingersoll Rand Inc.",
     "livePrice": 86.97,
     "prevClose": 88.23999786376953,
     "metrics": {
@@ -27051,7 +27051,7 @@
       "minFCFY": 3.6157206656922005,
       "fcfPositive5Y": true,
       "maxPEUS": 35.938015,
-      "maxPEGUS": 0.79,
+      "maxPEGUS": 0.78,
       "maxBetaUS": 1.161,
       "minGM": 42.821,
       "sharesFlat": true,
@@ -27396,8 +27396,8 @@
       "pe_5y_avg": 14.72,
       "pe_vs_avg_pct": 13.39,
       "pb_current": -71.44,
-      "pb_5y_avg": 57.35,
-      "pb_vs_avg_pct": -224.57,
+      "pb_5y_avg": 49.56,
+      "pb_vs_avg_pct": -244.15,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -27671,8 +27671,8 @@
     "livePrice": 145.07,
     "prevClose": 144.02999877929688,
     "metrics": {
-      "minMcapUS": 16.978791424,
-      "maxMcapUS": 16.978791424,
+      "minMcapUS": 17.12999424,
+      "maxMcapUS": 17.12999424,
       "positiveEPS": true,
       "minROEUS": 7.997999999999999,
       "minROIC": 4.551,
@@ -27684,7 +27684,7 @@
       "minEPSGUS": -25.4,
       "min5YSalesUS": 4.221301185082349,
       "min5YProfitUS": -14.788529262642447,
-      "minFCFY": 3.5778282731085396,
+      "minFCFY": 3.546247543863739,
       "fcfPositive5Y": true,
       "maxPEUS": 48.35667,
       "maxPEGUS": 0.44,
@@ -27714,8 +27714,8 @@
       "pe_5y_avg": 42.51,
       "pe_vs_avg_pct": 13.75,
       "pb_current": 5.21,
-      "pb_5y_avg": 4.57,
-      "pb_vs_avg_pct": 13.9,
+      "pb_5y_avg": 4.62,
+      "pb_vs_avg_pct": 12.67,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -27777,8 +27777,8 @@
     "livePrice": 268.52,
     "prevClose": 266.79998779296875,
     "metrics": {
-      "minMcapUS": 25.21803776,
-      "maxMcapUS": 25.21803776,
+      "minMcapUS": 25.214027776,
+      "maxMcapUS": 25.214027776,
       "positiveEPS": true,
       "minROEUS": 18.448,
       "minROIC": 7.380000000000001,
@@ -27790,7 +27790,7 @@
       "minEPSGUS": 45.800000000000004,
       "min5YSalesUS": -4.127237062994105,
       "min5YProfitUS": -9.200182667582368,
-      "minFCFY": 3.7575683287421646,
+      "minFCFY": 3.758165924216042,
       "fcfPositive5Y": false,
       "maxPEUS": 38.1963,
       "maxPEGUS": 2.5,
@@ -27820,8 +27820,8 @@
       "pe_5y_avg": 40.1,
       "pe_vs_avg_pct": -4.75,
       "pb_current": 6.9,
-      "pb_5y_avg": 5.7,
-      "pb_vs_avg_pct": 20.97,
+      "pb_5y_avg": 5.69,
+      "pb_vs_avg_pct": 21.19,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -27985,7 +27985,7 @@
   },
   {
     "ticker": "JCI",
-    "name": null,
+    "name": "Johnson Controls International plc",
     "livePrice": 152.21,
     "prevClose": 154.5500030517578,
     "metrics": {
@@ -28303,7 +28303,7 @@
   },
   {
     "ticker": "JPM",
-    "name": null,
+    "name": "JPMorgan Chase & Co.",
     "livePrice": 357.52,
     "prevClose": 356.29998779296875,
     "metrics": {
@@ -28413,8 +28413,8 @@
     "livePrice": 30.01,
     "prevClose": 30.3700008392334,
     "metrics": {
-      "minMcapUS": 40.830390272,
-      "maxMcapUS": 40.830390272,
+      "minMcapUS": 40.8369152,
+      "maxMcapUS": 40.8369152,
       "positiveEPS": true,
       "minROEUS": 5.1,
       "minROIC": 3.267,
@@ -28426,7 +28426,7 @@
       "minEPSGUS": -90.0,
       "min5YSalesUS": 3.3852981679973304,
       "min5YProfitUS": 7.681230546251228,
-      "minFCFY": 3.6443442986642633,
+      "minFCFY": 3.6437620048244974,
       "fcfPositive5Y": true,
       "maxPEUS": 30.313131,
       "maxPEGUS": 1.0,
@@ -28515,7 +28515,7 @@
   },
   {
     "ticker": "KEY",
-    "name": null,
+    "name": "KeyCorp",
     "livePrice": 22.73,
     "prevClose": 22.65999984741211,
     "metrics": {
@@ -28833,7 +28833,7 @@
   },
   {
     "ticker": "KIM",
-    "name": null,
+    "name": "Kimco Realty Corporation",
     "livePrice": 24.46,
     "prevClose": 24.43000030517578,
     "metrics": {
@@ -28946,14 +28946,14 @@
       "minMcapUS": 94.954340352,
       "maxMcapUS": 94.954340352,
       "positiveEPS": true,
-      "minROEUS": 0,
-      "minROIC": 0,
-      "minOpMargin": 15.540000000000001,
-      "maxDEUS": 0.69029,
-      "minCRUS": null,
+      "minROEUS": 7.28,
+      "minROIC": 1.3860000000000001,
+      "minOpMargin": 20.65,
+      "maxDEUS": 0.69812,
+      "minCRUS": 0.856,
       "minICRUS": 3.3109884225312225,
-      "minRevGUS": 2.1999999999999997,
-      "minEPSGUS": 42.699999999999996,
+      "minRevGUS": 7.8,
+      "minEPSGUS": 40.0,
       "min5YSalesUS": 28.11514119736831,
       "min5YProfitUS": null,
       "minFCFY": 0.33383939988934186,
@@ -28961,7 +28961,7 @@
       "maxPEUS": 32.84664,
       "maxPEGUS": 0.54,
       "maxBetaUS": 1.786,
-      "minGM": 54.151,
+      "minGM": 54.766999999999996,
       "sharesFlat": true,
       "maxSBC": 3.759507201961896,
       "minInstOwn": 62.564,
@@ -28983,12 +28983,12 @@
     },
     "valuation_context": {
       "pe_current": 32.85,
-      "pe_5y_avg": 34.25,
-      "pe_vs_avg_pct": -4.1,
+      "pe_5y_avg": 30.69,
+      "pe_vs_avg_pct": 7.03,
       "pb_current": 3.27,
-      "pb_5y_avg": 3.48,
-      "pb_vs_avg_pct": -6.0,
-      "period_years": 0.7
+      "pb_5y_avg": 3.29,
+      "pb_vs_avg_pct": -0.57,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -29091,9 +29091,9 @@
       "pe_current": 53.98,
       "pe_5y_avg": 58.35,
       "pe_vs_avg_pct": -7.49,
-      "pb_current": 44.41,
+      "pb_current": 40.76,
       "pb_5y_avg": 35.03,
-      "pb_vs_avg_pct": 26.78,
+      "pb_vs_avg_pct": 16.37,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -29155,8 +29155,8 @@
     "livePrice": 109.68,
     "prevClose": 108.66000366210938,
     "metrics": {
-      "minMcapUS": 36.477267968,
-      "maxMcapUS": 36.477267968,
+      "minMcapUS": 36.407218176,
+      "maxMcapUS": 36.407218176,
       "positiveEPS": true,
       "minROEUS": 104.91299999999998,
       "minROIC": 10.195,
@@ -29168,7 +29168,7 @@
       "minEPSGUS": -32.300000000000004,
       "min5YSalesUS": -4.003670044321606,
       "min5YProfitUS": 0.8839245715842603,
-      "minFCFY": 4.49320930898067,
+      "minFCFY": 4.501854528068407,
       "fcfPositive5Y": true,
       "maxPEUS": 21.67589,
       "maxPEGUS": 2.3,
@@ -29198,8 +29198,8 @@
       "pe_5y_avg": 16.97,
       "pe_vs_avg_pct": 27.73,
       "pb_current": 20.84,
-      "pb_5y_avg": 24.23,
-      "pb_vs_avg_pct": -13.98,
+      "pb_5y_avg": 24.19,
+      "pb_vs_avg_pct": -13.83,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -29257,12 +29257,12 @@
   },
   {
     "ticker": "KMI",
-    "name": null,
+    "name": "Kinder Morgan, Inc.",
     "livePrice": 30.85,
     "prevClose": 31.280000686645508,
     "metrics": {
-      "minMcapUS": 68.696846336,
-      "maxMcapUS": 68.696846336,
+      "minMcapUS": 68.635877376,
+      "maxMcapUS": 68.635877376,
       "positiveEPS": true,
       "minROEUS": 10.9910004,
       "minROIC": 4.453,
@@ -29274,7 +29274,7 @@
       "minEPSGUS": 21.2,
       "min5YSalesUS": -2.4770001811131537,
       "min5YProfitUS": 3.70287226756969,
-      "minFCFY": 4.208344566299248,
+      "minFCFY": 4.212082821004193,
       "fcfPositive5Y": true,
       "maxPEUS": 19.903227,
       "maxPEGUS": 3.35,
@@ -29363,7 +29363,7 @@
   },
   {
     "ticker": "KO",
-    "name": null,
+    "name": "The Coca-Cola Company",
     "livePrice": 87.05,
     "prevClose": 86.8499984741211,
     "metrics": {
@@ -29469,12 +29469,12 @@
   },
   {
     "ticker": "KR",
-    "name": null,
+    "name": "The Kroger Co.",
     "livePrice": 56.73,
     "prevClose": 57.31999969482422,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 34.7554816,
+      "maxMcapUS": 34.7554816,
       "positiveEPS": true,
       "minROEUS": 13.779001,
       "minROIC": 5.771,
@@ -29486,7 +29486,7 @@
       "minEPSGUS": 13.200000000000001,
       "min5YSalesUS": -0.08323683467112986,
       "min5YProfitUS": -14.655768692896864,
-      "minFCFY": null,
+      "minFCFY": 9.943755174435562,
       "fcfPositive5Y": true,
       "maxPEUS": 33.175438,
       "maxPEGUS": 0.55,
@@ -29516,8 +29516,8 @@
       "pe_5y_avg": 38.53,
       "pe_vs_avg_pct": -13.9,
       "pb_current": 6.13,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 5.44,
+      "pb_vs_avg_pct": 12.71,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -29762,8 +29762,8 @@
     "livePrice": 137.57,
     "prevClose": 135.25999450683594,
     "metrics": {
-      "minMcapUS": 17.26396416,
-      "maxMcapUS": 17.26396416,
+      "minMcapUS": 17.304307712,
+      "maxMcapUS": 17.304307712,
       "positiveEPS": true,
       "minROEUS": 27.781,
       "minROIC": 8.9099996,
@@ -29775,7 +29775,7 @@
       "minEPSGUS": -6.7,
       "min5YSalesUS": 3.5919299333218024,
       "min5YProfitUS": 16.149032905252227,
-      "minFCFY": 9.41267014307796,
+      "minFCFY": 9.390725286704841,
       "fcfPositive5Y": true,
       "maxPEUS": 12.833023,
       "maxPEGUS": 2.46,
@@ -29805,8 +29805,8 @@
       "pe_5y_avg": 11.51,
       "pe_vs_avg_pct": 11.49,
       "pb_current": 3.27,
-      "pb_5y_avg": 4.11,
-      "pb_vs_avg_pct": -20.51,
+      "pb_5y_avg": 4.12,
+      "pb_vs_avg_pct": -20.7,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -29970,7 +29970,7 @@
   },
   {
     "ticker": "LH",
-    "name": null,
+    "name": "Labcorp Holdings Inc.",
     "livePrice": 319.17,
     "prevClose": 316.5299987792969,
     "metrics": {
@@ -30182,7 +30182,7 @@
   },
   {
     "ticker": "LII",
-    "name": null,
+    "name": "Lennox International Inc.",
     "livePrice": 439.77,
     "prevClose": 435.7300109863281,
     "metrics": {
@@ -30202,7 +30202,7 @@
       "minFCFY": null,
       "fcfPositive5Y": true,
       "maxPEUS": 19.527975,
-      "maxPEGUS": 1.31,
+      "maxPEGUS": 1.32,
       "maxBetaUS": 1.199,
       "minGM": 33.330002,
       "sharesFlat": true,
@@ -30226,8 +30226,8 @@
     },
     "valuation_context": {
       "pe_current": 19.53,
-      "pe_5y_avg": 22.11,
-      "pe_vs_avg_pct": -11.68,
+      "pe_5y_avg": 22.18,
+      "pe_vs_avg_pct": -11.96,
       "pb_current": 11.72,
       "pb_5y_avg": 16.0,
       "pb_vs_avg_pct": -26.78,
@@ -30500,12 +30500,12 @@
   },
   {
     "ticker": "LLY",
-    "name": null,
+    "name": "Eli Lilly and Company",
     "livePrice": 1185.71,
     "prevClose": 1191.93994140625,
     "metrics": {
-      "minMcapUS": 1057.346617344,
-      "maxMcapUS": 1057.346617344,
+      "minMcapUS": 1056.890945536,
+      "maxMcapUS": 1056.890945536,
       "positiveEPS": true,
       "minROEUS": 102.28600000000002,
       "minROIC": 20.357001,
@@ -30517,7 +30517,7 @@
       "minEPSGUS": 26.200000000000003,
       "min5YSalesUS": 17.95775115089644,
       "min5YProfitUS": 27.010092349727643,
-      "minFCFY": 0.5640534430403967,
+      "minFCFY": 0.5642966310942678,
       "fcfPositive5Y": false,
       "maxPEUS": 39.842403,
       "maxPEGUS": 1.49,
@@ -30544,12 +30544,12 @@
     },
     "valuation_context": {
       "pe_current": 39.84,
-      "pe_5y_avg": 40.98,
-      "pe_vs_avg_pct": -2.78,
+      "pe_5y_avg": 38.58,
+      "pe_vs_avg_pct": 3.27,
       "pb_current": 33.96,
-      "pb_5y_avg": 36.81,
-      "pb_vs_avg_pct": -7.75,
-      "period_years": 0.7
+      "pb_5y_avg": 34.75,
+      "pb_vs_avg_pct": -2.28,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -30818,12 +30818,12 @@
   },
   {
     "ticker": "LOW",
-    "name": null,
+    "name": "Lowe's Companies, Inc.",
     "livePrice": 223.35,
     "prevClose": 218.39999389648438,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 125.299351552,
+      "maxMcapUS": 125.299351552,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 12.792,
@@ -30835,7 +30835,7 @@
       "minEPSGUS": -0.7000000000000001,
       "min5YSalesUS": -2.3255656470140385,
       "min5YProfitUS": 0.6653151438462679,
-      "minFCFY": null,
+      "minFCFY": 6.106176851860872,
       "fcfPositive5Y": true,
       "maxPEUS": 18.864021,
       "maxPEGUS": 1.46,
@@ -31348,7 +31348,7 @@
   },
   {
     "ticker": "LYB",
-    "name": null,
+    "name": "LyondellBasell Industries N.V.",
     "livePrice": 59.59,
     "prevClose": 61.439998626708984,
     "metrics": {
@@ -31454,7 +31454,7 @@
   },
   {
     "ticker": "LYV",
-    "name": null,
+    "name": "Live Nation Entertainment, Inc.",
     "livePrice": 180.66,
     "prevClose": 181.77000427246094,
     "metrics": {
@@ -31560,7 +31560,7 @@
   },
   {
     "ticker": "MA",
-    "name": null,
+    "name": "Mastercard Incorporated",
     "livePrice": 562.95,
     "prevClose": 575.9500122070312,
     "metrics": {
@@ -31670,8 +31670,8 @@
     "livePrice": 134.96,
     "prevClose": 133.6300048828125,
     "metrics": {
-      "minMcapUS": 16.055354368,
-      "maxMcapUS": 16.055354368,
+      "minMcapUS": 16.104324096,
+      "maxMcapUS": 16.104324096,
       "positiveEPS": true,
       "minROEUS": 7.049999999999999,
       "minROIC": 3.129,
@@ -31683,7 +31683,7 @@
       "minEPSGUS": 13.700000000000001,
       "min5YSalesUS": 1.8074560841666587,
       "min5YProfitUS": -6.855652928026402,
-      "minFCFY": 4.471635963581866,
+      "minFCFY": 4.458038696441297,
       "fcfPositive5Y": true,
       "maxPEUS": 119.43363,
       "maxPEGUS": 7.03,
@@ -31713,8 +31713,8 @@
       "pe_5y_avg": 39.43,
       "pe_vs_avg_pct": 202.9,
       "pb_current": 2.88,
-      "pb_5y_avg": 2.71,
-      "pb_vs_avg_pct": 6.32,
+      "pb_5y_avg": 2.72,
+      "pb_vs_avg_pct": 5.93,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -31772,7 +31772,7 @@
   },
   {
     "ticker": "MAR",
-    "name": null,
+    "name": "Marriott International, Inc.",
     "livePrice": 353.91,
     "prevClose": 359.6700134277344,
     "metrics": {
@@ -31878,7 +31878,7 @@
   },
   {
     "ticker": "MAS",
-    "name": null,
+    "name": "Masco Corporation",
     "livePrice": 77.51,
     "prevClose": 75.47000122070312,
     "metrics": {
@@ -31984,12 +31984,12 @@
   },
   {
     "ticker": "MCD",
-    "name": null,
+    "name": "McDonald's Corporation",
     "livePrice": 274.48,
     "prevClose": 276.260009765625,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 195.01965312,
+      "maxMcapUS": 195.01965312,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 13.25,
@@ -32001,7 +32001,7 @@
       "minEPSGUS": 5.7,
       "min5YSalesUS": 3.008207028849963,
       "min5YProfitUS": 6.7504387162246715,
-      "minFCFY": null,
+      "minFCFY": 3.6847568360601546,
       "fcfPositive5Y": true,
       "maxPEUS": 22.315447,
       "maxPEGUS": 2.55,
@@ -32030,7 +32030,7 @@
       "pe_current": 22.32,
       "pe_5y_avg": 22.59,
       "pe_vs_avg_pct": -1.22,
-      "pb_current": -108.96,
+      "pb_current": -189.82,
       "pb_5y_avg": null,
       "pb_vs_avg_pct": null,
       "period_years": 0.4
@@ -32196,7 +32196,7 @@
   },
   {
     "ticker": "MCK",
-    "name": null,
+    "name": "McKesson Corporation",
     "livePrice": 869.58,
     "prevClose": 871.3800048828125,
     "metrics": {
@@ -32412,8 +32412,8 @@
     "livePrice": 62.61,
     "prevClose": 62.75,
     "metrics": {
-      "minMcapUS": 79.909650432,
-      "maxMcapUS": 79.909650432,
+      "minMcapUS": 80.369311744,
+      "maxMcapUS": 80.369311744,
       "positiveEPS": true,
       "minROEUS": 13.340001,
       "minROIC": 4.123,
@@ -32425,7 +32425,7 @@
       "minEPSGUS": 144.9,
       "min5YSalesUS": 4.117684280747813,
       "min5YProfitUS": -2.039558324354507,
-      "minFCFY": 4.048322051856376,
+      "minFCFY": 4.025168226280735,
       "fcfPositive5Y": true,
       "maxPEUS": 38.411045,
       "maxPEGUS": 1.04,
@@ -32455,8 +32455,8 @@
       "pe_5y_avg": 30.69,
       "pe_vs_avg_pct": 25.16,
       "pb_current": 3.01,
-      "pb_5y_avg": 2.97,
-      "pb_vs_avg_pct": 1.34,
+      "pb_5y_avg": 2.98,
+      "pb_vs_avg_pct": 1.0,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -32514,12 +32514,12 @@
   },
   {
     "ticker": "MDT",
-    "name": null,
+    "name": "Medtronic plc",
     "livePrice": 87.16,
     "prevClose": 85.91999816894531,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 111.568740352,
+      "maxMcapUS": 111.568740352,
       "positiveEPS": true,
       "minROEUS": 9.8409995,
       "minROIC": 4.917,
@@ -32531,7 +32531,7 @@
       "minEPSGUS": 18.3,
       "min5YSalesUS": 3.0927862192707156,
       "min5YProfitUS": 5.020718705766858,
-      "minFCFY": null,
+      "minFCFY": 4.86336941949953,
       "fcfPositive5Y": true,
       "maxPEUS": 23.367292,
       "maxPEGUS": 1.72,
@@ -32561,8 +32561,8 @@
       "pe_5y_avg": 22.8,
       "pe_vs_avg_pct": 2.49,
       "pb_current": 2.26,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 2.3,
+      "pb_vs_avg_pct": -1.92,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -32770,12 +32770,12 @@
     },
     "valuation_context": {
       "pe_current": 18.73,
-      "pe_5y_avg": 16.29,
-      "pe_vs_avg_pct": 14.98,
+      "pe_5y_avg": 16.78,
+      "pe_vs_avg_pct": 11.62,
       "pb_current": 2.31,
-      "pb_5y_avg": 1.74,
-      "pb_vs_avg_pct": 32.85,
-      "period_years": 0.7
+      "pb_5y_avg": 1.85,
+      "pb_vs_avg_pct": 24.95,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -32938,12 +32938,12 @@
   },
   {
     "ticker": "MGM",
-    "name": null,
+    "name": "MGM Resorts International",
     "livePrice": 44.47,
     "prevClose": 44.70000076293945,
     "metrics": {
-      "minMcapUS": 11.37770496,
-      "maxMcapUS": 11.37770496,
+      "minMcapUS": 11.188330496,
+      "maxMcapUS": 11.188330496,
       "positiveEPS": true,
       "minROEUS": 18.924999,
       "minROIC": 1.7659999999999998,
@@ -32955,7 +32955,7 @@
       "minEPSGUS": 519.4,
       "min5YSalesUS": 5.963949503479005,
       "min5YProfitUS": -32.53644783743557,
-      "minFCFY": 12.836077268082017,
+      "minFCFY": 13.053341609117943,
       "fcfPositive5Y": true,
       "maxPEUS": 26.951517,
       "maxPEGUS": 0.62,
@@ -32985,8 +32985,8 @@
       "pe_5y_avg": 45.85,
       "pe_vs_avg_pct": -41.22,
       "pb_current": 4.45,
-      "pb_5y_avg": 3.96,
-      "pb_vs_avg_pct": 12.39,
+      "pb_5y_avg": 3.89,
+      "pb_vs_avg_pct": 14.41,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -33364,7 +33364,7 @@
     "ticker": "MNST",
     "name": "Monster Beverage Corporation",
     "livePrice": 90.36,
-    "prevClose": 94.16000366210938,
+    "prevClose": null,
     "metrics": {
       "minMcapUS": 88.509956096,
       "maxMcapUS": 88.509956096,
@@ -33394,13 +33394,13 @@
       "excludeChina": true
     },
     "price_action": {
-      "ret_1w": -6.25,
-      "ret_1m": -6.41,
-      "ret_3m": 18.94,
-      "ret_6m": 10.53,
-      "ret_1y": 51.87,
-      "pct_from_52w_high": -9.59,
-      "pct_from_52w_low": 100.76,
+      "ret_1w": 0.11,
+      "ret_1m": 4.9,
+      "ret_3m": 29.38,
+      "ret_6m": 25.43,
+      "ret_1y": 66.24,
+      "pct_from_52w_high": -2.44,
+      "pct_from_52w_low": 116.64,
       "fifty_two_week_high": 99.94,
       "fifty_two_week_low": 45.01
     },
@@ -33468,7 +33468,7 @@
   },
   {
     "ticker": "MO",
-    "name": null,
+    "name": "Altria Group, Inc.",
     "livePrice": 68.35,
     "prevClose": 67.75,
     "metrics": {
@@ -33684,8 +33684,8 @@
     "livePrice": 298.2,
     "prevClose": 299.25,
     "metrics": {
-      "minMcapUS": 83.741949952,
-      "maxMcapUS": 83.741949952,
+      "minMcapUS": 87.055507456,
+      "maxMcapUS": 87.055507456,
       "positiveEPS": true,
       "minROEUS": 42.099,
       "minROIC": 8.7390006,
@@ -33697,7 +33697,7 @@
       "minEPSGUS": 348.0,
       "min5YSalesUS": -5.64675069493521,
       "min5YProfitUS": -22.543610542558888,
-      "minFCFY": 5.692487460266203,
+      "minFCFY": 5.475816682143125,
       "fcfPositive5Y": true,
       "maxPEUS": 10.339807,
       "maxPEGUS": 1.48,
@@ -33726,9 +33726,9 @@
       "pe_current": 10.34,
       "pe_5y_avg": 14.03,
       "pe_vs_avg_pct": -26.3,
-      "pb_current": 4.42,
-      "pb_5y_avg": 3.58,
-      "pb_vs_avg_pct": 23.57,
+      "pb_current": 5.22,
+      "pb_5y_avg": 3.72,
+      "pb_vs_avg_pct": 40.2,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -33830,11 +33830,11 @@
     },
     "valuation_context": {
       "pe_current": 85.46,
-      "pe_5y_avg": 99.76,
-      "pe_vs_avg_pct": -14.33,
+      "pe_5y_avg": 99.62,
+      "pe_vs_avg_pct": -14.21,
       "pb_current": 17.68,
-      "pb_5y_avg": 14.26,
-      "pb_vs_avg_pct": 23.99,
+      "pb_5y_avg": 15.83,
+      "pb_vs_avg_pct": 11.69,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -33892,12 +33892,12 @@
   },
   {
     "ticker": "MRK",
-    "name": null,
+    "name": "Merck & Co., Inc.",
     "livePrice": 128.58,
     "prevClose": 128.3699951171875,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 317.570056192,
+      "maxMcapUS": 317.570056192,
       "positiveEPS": true,
       "minROEUS": 6.961,
       "minROIC": 11.867999999999999,
@@ -33909,7 +33909,7 @@
       "minEPSGUS": 0,
       "min5YSalesUS": 1.861797274650634,
       "min5YProfitUS": 4.684954396030383,
-      "minFCFY": null,
+      "minFCFY": 3.8920546062212034,
       "fcfPositive5Y": true,
       "maxPEUS": 102.864,
       "maxPEGUS": 12.3,
@@ -33939,8 +33939,8 @@
       "pe_5y_avg": 60.74,
       "pe_vs_avg_pct": 69.35,
       "pb_current": 6.92,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 4.96,
+      "pb_vs_avg_pct": 39.55,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -34044,9 +34044,9 @@
       "pe_current": null,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 3.49,
+      "pb_current": 3.17,
       "pb_5y_avg": 2.13,
-      "pb_vs_avg_pct": 63.94,
+      "pb_vs_avg_pct": 48.87,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -34124,7 +34124,7 @@
       "minFCFY": 5.4681114522919145,
       "fcfPositive5Y": true,
       "maxPEUS": 23.429094,
-      "maxPEGUS": 1.86,
+      "maxPEGUS": 1.84,
       "maxBetaUS": 0.579,
       "minGM": 43.994,
       "sharesFlat": true,
@@ -34850,8 +34850,8 @@
     "livePrice": 250.45,
     "prevClose": 250.13999938964844,
     "metrics": {
-      "minMcapUS": 36.16905216,
-      "maxMcapUS": 36.16905216,
+      "minMcapUS": 36.298469376,
+      "maxMcapUS": 36.298469376,
       "positiveEPS": true,
       "minROEUS": 10.742,
       "minROIC": 1.4080000000000001,
@@ -34863,7 +34863,7 @@
       "minEPSGUS": 25.5,
       "min5YSalesUS": 3.7490828573104817,
       "min5YProfitUS": 7.4339581661744925,
-      "minFCFY": 7.907312548164934,
+      "minFCFY": 7.879120109375711,
       "fcfPositive5Y": true,
       "maxPEUS": 13.265361,
       "maxPEGUS": 1.68,
@@ -34952,7 +34952,7 @@
   },
   {
     "ticker": "MTD",
-    "name": null,
+    "name": "Mettler-Toledo International Inc.",
     "livePrice": 1429.46,
     "prevClose": 1421.239990234375,
     "metrics": {
@@ -35058,12 +35058,12 @@
   },
   {
     "ticker": "MU",
-    "name": null,
+    "name": "Micron Technology, Inc.",
     "livePrice": 877.57,
     "prevClose": 881.469970703125,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 991.12157184,
+      "maxMcapUS": 991.12157184,
       "positiveEPS": true,
       "minROEUS": 66.63799999999999,
       "minROIC": 34.870000000000005,
@@ -35075,7 +35075,7 @@
       "minEPSGUS": 1368.5,
       "min5YSalesUS": 3.975637884962513,
       "min5YProfitUS": -0.3430851204517027,
-      "minFCFY": null,
+      "minFCFY": 0.16829418785663064,
       "fcfPositive5Y": false,
       "maxPEUS": 19.841059,
       "maxPEGUS": 0.13,
@@ -35105,8 +35105,8 @@
       "pe_5y_avg": 24.8,
       "pe_vs_avg_pct": -20.0,
       "pb_current": 9.84,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 6.47,
+      "pb_vs_avg_pct": 52.03,
       "period_years": 0.5
     },
     "earnings_surprises": [
@@ -35482,12 +35482,12 @@
   },
   {
     "ticker": "NEE",
-    "name": null,
+    "name": "NextEra Energy, Inc.",
     "livePrice": 84.65,
     "prevClose": 84.5999984741211,
     "metrics": {
-      "minMcapUS": 176.57806848,
-      "maxMcapUS": 176.57806848,
+      "minMcapUS": 176.546496512,
+      "maxMcapUS": 176.546496512,
       "positiveEPS": true,
       "minROEUS": 11.677,
       "minROIC": 2.4430001,
@@ -35499,7 +35499,7 @@
       "minEPSGUS": 53.1,
       "min5YSalesUS": 5.517979523919725,
       "min5YProfitUS": 10.509826407683676,
-      "minFCFY": 1.8184591255531215,
+      "minFCFY": 1.8187843222262672,
       "fcfPositive5Y": false,
       "maxPEUS": 19.022472,
       "maxPEGUS": 1.85,
@@ -35741,8 +35741,8 @@
       "pe_5y_avg": 24.94,
       "pe_vs_avg_pct": -6.52,
       "pb_current": 10.24,
-      "pb_5y_avg": 10.24,
-      "pb_vs_avg_pct": -0.01,
+      "pb_5y_avg": 14.85,
+      "pb_vs_avg_pct": -31.05,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -36012,7 +36012,7 @@
   },
   {
     "ticker": "NOC",
-    "name": null,
+    "name": "Northrop Grumman Corporation",
     "livePrice": 571.58,
     "prevClose": 567.739990234375,
     "metrics": {
@@ -36224,7 +36224,7 @@
   },
   {
     "ticker": "NRG",
-    "name": null,
+    "name": "NRG Energy, Inc.",
     "livePrice": 118.13,
     "prevClose": 119.05000305175781,
     "metrics": {
@@ -36330,7 +36330,7 @@
   },
   {
     "ticker": "NSC",
-    "name": null,
+    "name": "Norfolk Southern Corporation",
     "livePrice": 334.36,
     "prevClose": 341.1099853515625,
     "metrics": {
@@ -36440,8 +36440,8 @@
     "livePrice": 189.52,
     "prevClose": 191.47999572753906,
     "metrics": {
-      "minMcapUS": 37.190320128,
-      "maxMcapUS": 37.190320128,
+      "minMcapUS": 37.130743808,
+      "maxMcapUS": 37.130743808,
       "positiveEPS": true,
       "minROEUS": 106.734,
       "minROIC": 9.824,
@@ -36453,7 +36453,7 @@
       "minEPSGUS": 23.400000000000002,
       "min5YSalesUS": 1.7103672856315866,
       "min5YProfitUS": 0.03137747715338257,
-      "minFCFY": 5.025501242170969,
+      "minFCFY": 5.033564664539025,
       "fcfPositive5Y": true,
       "maxPEUS": 29.84567,
       "maxPEGUS": 2.13,
@@ -36483,8 +36483,8 @@
       "pe_5y_avg": 22.79,
       "pe_vs_avg_pct": 30.96,
       "pb_current": 27.49,
-      "pb_5y_avg": 20.75,
-      "pb_vs_avg_pct": 32.5,
+      "pb_5y_avg": 20.72,
+      "pb_vs_avg_pct": 32.7,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -36648,12 +36648,12 @@
   },
   {
     "ticker": "NUE",
-    "name": null,
+    "name": "Nucor Corporation",
     "livePrice": 272.63,
     "prevClose": 272.0,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 62.089015296,
+      "maxMcapUS": 62.089015296,
       "positiveEPS": true,
       "minROEUS": 14.548999000000002,
       "minROIC": 7.32,
@@ -36665,7 +36665,7 @@
       "minEPSGUS": 93.8,
       "min5YSalesUS": -4.78049845728995,
       "min5YProfitUS": -25.515378900442986,
-      "minFCFY": null,
+      "minFCFY": -0.3027910800384551,
       "fcfPositive5Y": false,
       "maxPEUS": 21.74083,
       "maxPEGUS": 5.21,
@@ -36695,8 +36695,8 @@
       "pe_5y_avg": 22.24,
       "pe_vs_avg_pct": -2.24,
       "pb_current": 2.81,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.83,
+      "pb_vs_avg_pct": 53.77,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -36860,12 +36860,12 @@
   },
   {
     "ticker": "NVR",
-    "name": null,
+    "name": "NVR, Inc.",
     "livePrice": 6390.14,
     "prevClose": 6304.81005859375,
     "metrics": {
-      "minMcapUS": 17.113773056,
-      "maxMcapUS": 17.113773056,
+      "minMcapUS": 17.028829184,
+      "maxMcapUS": 17.028829184,
       "positiveEPS": true,
       "minROEUS": 31.544,
       "minROIC": 16.547,
@@ -36877,7 +36877,7 @@
       "minEPSGUS": -22.6,
       "min5YSalesUS": -0.3756271446788362,
       "min5YProfitUS": -4.934647270913062,
-      "minFCFY": 6.408943231927827,
+      "minFCFY": 6.440912573311534,
       "fcfPositive5Y": true,
       "maxPEUS": 16.611141,
       "maxPEGUS": 4.97,
@@ -36907,8 +36907,8 @@
       "pe_5y_avg": 15.04,
       "pe_vs_avg_pct": 10.45,
       "pb_current": 5.05,
-      "pb_5y_avg": 5.13,
-      "pb_vs_avg_pct": -1.63,
+      "pb_5y_avg": 5.11,
+      "pb_vs_avg_pct": -1.24,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -37118,9 +37118,9 @@
       "pe_current": 27.69,
       "pe_5y_avg": 28.45,
       "pe_vs_avg_pct": -2.67,
-      "pb_current": 1.83,
+      "pb_current": 1.82,
       "pb_5y_avg": 1.11,
-      "pb_vs_avg_pct": 64.69,
+      "pb_vs_avg_pct": 63.77,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -37284,7 +37284,7 @@
   },
   {
     "ticker": "O",
-    "name": null,
+    "name": "Realty Income Corporation",
     "livePrice": 62.51,
     "prevClose": 62.36000061035156,
     "metrics": {
@@ -37328,12 +37328,12 @@
     },
     "valuation_context": {
       "pe_current": 45.63,
-      "pe_5y_avg": 51.79,
-      "pe_vs_avg_pct": -11.9,
+      "pe_5y_avg": 48.92,
+      "pe_vs_avg_pct": -6.73,
       "pb_current": 1.5,
-      "pb_5y_avg": 1.4,
-      "pb_vs_avg_pct": 6.82,
-      "period_years": 0.7
+      "pb_5y_avg": 1.45,
+      "pb_vs_avg_pct": 3.14,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -37394,8 +37394,8 @@
     "livePrice": 216.36,
     "prevClose": 211.41000366210938,
     "metrics": {
-      "minMcapUS": 44.996018176,
-      "maxMcapUS": 44.996018176,
+      "minMcapUS": 44.863680512,
+      "maxMcapUS": 44.863680512,
       "positiveEPS": true,
       "minROEUS": 24.818,
       "minROIC": 15.775,
@@ -37407,7 +37407,7 @@
       "minEPSGUS": 32.300000000000004,
       "min5YSalesUS": -2.568462180766773,
       "min5YProfitUS": -5.7594139305629515,
-      "minFCFY": 2.122630043094416,
+      "minFCFY": 2.128891319437185,
       "fcfPositive5Y": true,
       "maxPEUS": 41.687862,
       "maxPEGUS": 3.06,
@@ -37437,8 +37437,8 @@
       "pe_5y_avg": 43.65,
       "pe_vs_avg_pct": -4.5,
       "pb_current": 9.87,
-      "pb_5y_avg": 8.85,
-      "pb_vs_avg_pct": 11.54,
+      "pb_5y_avg": 8.82,
+      "pb_vs_avg_pct": 11.92,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -37500,8 +37500,8 @@
     "livePrice": 86.42,
     "prevClose": 87.93000030517578,
     "metrics": {
-      "minMcapUS": 54.476546048,
-      "maxMcapUS": 54.476546048,
+      "minMcapUS": 54.447435776,
+      "maxMcapUS": 54.447435776,
       "positiveEPS": true,
       "minROEUS": 16.277,
       "minROIC": 5.7669999999999995,
@@ -37513,7 +37513,7 @@
       "minEPSGUS": 14.2,
       "min5YSalesUS": 8.478484885369731,
       "min5YProfitUS": 14.527595414954408,
-      "minFCFY": 4.491841310651223,
+      "minFCFY": 4.494242869521173,
       "fcfPositive5Y": true,
       "maxPEUS": 14.925734,
       "maxPEGUS": 1.89,
@@ -37606,8 +37606,8 @@
     "livePrice": 85.24,
     "prevClose": 82.51000213623047,
     "metrics": {
-      "minMcapUS": 23.385247744,
-      "maxMcapUS": 23.385247744,
+      "minMcapUS": 24.29392896,
+      "maxMcapUS": 24.29392896,
       "positiveEPS": true,
       "minROEUS": 6.0510002,
       "minROIC": 5.092,
@@ -37619,7 +37619,7 @@
       "minEPSGUS": 58.8,
       "min5YSalesUS": 3.8644792145674955,
       "min5YProfitUS": null,
-      "minFCFY": 11.923756508910303,
+      "minFCFY": 11.477764690063538,
       "fcfPositive5Y": true,
       "maxPEUS": 230.37837,
       "maxPEGUS": 15.97,
@@ -37649,8 +37649,8 @@
       "pe_5y_avg": 132.64,
       "pe_vs_avg_pct": 73.69,
       "pb_current": 2.22,
-      "pb_5y_avg": 3.03,
-      "pb_vs_avg_pct": -26.88,
+      "pb_5y_avg": 3.15,
+      "pb_vs_avg_pct": -29.66,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -38176,12 +38176,12 @@
     },
     "valuation_context": {
       "pe_current": 16.49,
-      "pe_5y_avg": 20.64,
-      "pe_vs_avg_pct": -20.09,
+      "pe_5y_avg": 11.57,
+      "pe_vs_avg_pct": 42.55,
       "pb_current": 1.67,
-      "pb_5y_avg": 1.3,
-      "pb_vs_avg_pct": 28.5,
-      "period_years": 0.7
+      "pb_5y_avg": 1.34,
+      "pb_vs_avg_pct": 24.66,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -38772,8 +38772,8 @@
     "livePrice": 75.66,
     "prevClose": 75.04000091552734,
     "metrics": {
-      "minMcapUS": 37.710462976,
-      "maxMcapUS": 37.710462976,
+      "minMcapUS": 37.703000064,
+      "maxMcapUS": 37.703000064,
       "positiveEPS": true,
       "minROEUS": 11.834999999999999,
       "minROIC": 3.238,
@@ -38785,7 +38785,7 @@
       "minEPSGUS": -42.699999999999996,
       "min5YSalesUS": 4.42359125996159,
       "min5YProfitUS": 15.410657068168243,
-      "minFCFY": 0.06894638237814034,
+      "minFCFY": 0.06896002958880083,
       "fcfPositive5Y": false,
       "maxPEUS": 18.820896,
       "maxPEGUS": 3.76,
@@ -38814,9 +38814,9 @@
       "pe_current": 18.82,
       "pe_5y_avg": 18.16,
       "pe_vs_avg_pct": 3.64,
-      "pb_current": 2.17,
-      "pb_5y_avg": 2.34,
-      "pb_vs_avg_pct": -7.08,
+      "pb_current": 2.18,
+      "pb_5y_avg": 2.33,
+      "pb_vs_avg_pct": -6.54,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -38980,7 +38980,7 @@
   },
   {
     "ticker": "PFE",
-    "name": null,
+    "name": "Pfizer Inc.",
     "livePrice": 26.76,
     "prevClose": 26.200000762939453,
     "metrics": {
@@ -39086,7 +39086,7 @@
   },
   {
     "ticker": "PFG",
-    "name": null,
+    "name": "Principal Financial Group, Inc.",
     "livePrice": 113.4,
     "prevClose": 115.41000366210938,
     "metrics": {
@@ -39192,12 +39192,12 @@
   },
   {
     "ticker": "PG",
-    "name": null,
+    "name": "The Procter & Gamble Company",
     "livePrice": 145.79,
     "prevClose": 146.97000122070312,
     "metrics": {
-      "minMcapUS": 338.879086592,
-      "maxMcapUS": 338.879086592,
+      "minMcapUS": 339.486441472,
+      "maxMcapUS": 339.486441472,
       "positiveEPS": true,
       "minROEUS": 30.290001999999998,
       "minROIC": 10.7209995,
@@ -39209,7 +39209,7 @@
       "minEPSGUS": -15.5,
       "min5YSalesUS": 1.196773744287194,
       "min5YProfitUS": 1.8328849600831143,
-      "minFCFY": 4.469735843639275,
+      "minFCFY": 4.461739306678404,
       "fcfPositive5Y": true,
       "maxPEUS": 22.022657,
       "maxPEGUS": 4.17,
@@ -39239,8 +39239,8 @@
       "pe_5y_avg": 21.01,
       "pe_vs_avg_pct": 4.82,
       "pb_current": 6.35,
-      "pb_5y_avg": 6.54,
-      "pb_vs_avg_pct": -2.85,
+      "pb_5y_avg": 6.55,
+      "pb_vs_avg_pct": -3.0,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -39510,12 +39510,12 @@
   },
   {
     "ticker": "PHM",
-    "name": null,
+    "name": "PulteGroup, Inc.",
     "livePrice": 132.9,
     "prevClose": 129.5500030517578,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 25.3156352,
+      "maxMcapUS": 25.3156352,
       "positiveEPS": true,
       "minROEUS": 14.901,
       "minROIC": 9.2080005,
@@ -39527,7 +39527,7 @@
       "minEPSGUS": -18.2,
       "min5YSalesUS": 1.5848738937612072,
       "min5YProfitUS": -3.2503002490507193,
-      "minFCFY": null,
+      "minFCFY": 6.906929200812627,
       "fcfPositive5Y": true,
       "maxPEUS": 13.575076,
       "maxPEGUS": 1.17,
@@ -39556,9 +39556,9 @@
       "pe_current": 13.58,
       "pe_5y_avg": 12.5,
       "pe_vs_avg_pct": 8.6,
-      "pb_current": null,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_current": 1.96,
+      "pb_5y_avg": 1.91,
+      "pb_vs_avg_pct": 2.47,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -39722,7 +39722,7 @@
   },
   {
     "ticker": "PLD",
-    "name": null,
+    "name": "Prologis, Inc.",
     "livePrice": 140.16,
     "prevClose": 139.13999938964844,
     "metrics": {
@@ -39768,9 +39768,9 @@
       "pe_current": 31.22,
       "pe_5y_avg": 42.59,
       "pe_vs_avg_pct": -26.71,
-      "pb_current": 2.44,
+      "pb_current": 2.43,
       "pb_5y_avg": 2.35,
-      "pb_vs_avg_pct": 3.7,
+      "pb_vs_avg_pct": 3.59,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -39934,7 +39934,7 @@
   },
   {
     "ticker": "PM",
-    "name": null,
+    "name": "Philip Morris International Inc.",
     "livePrice": 189.57,
     "prevClose": 188.0500030517578,
     "metrics": {
@@ -40084,11 +40084,11 @@
     },
     "valuation_context": {
       "pe_current": 13.91,
-      "pe_5y_avg": 13.49,
-      "pe_vs_avg_pct": 3.09,
-      "pb_current": 1.76,
+      "pe_5y_avg": 13.47,
+      "pe_vs_avg_pct": 3.25,
+      "pb_current": 1.58,
       "pb_5y_avg": 1.4,
-      "pb_vs_avg_pct": 25.59,
+      "pb_vs_avg_pct": 12.59,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -40150,8 +40150,8 @@
     "livePrice": 68.89,
     "prevClose": 69.9000015258789,
     "metrics": {
-      "minMcapUS": 10.994843648,
-      "maxMcapUS": 10.994843648,
+      "minMcapUS": 11.1330048,
+      "maxMcapUS": 11.1330048,
       "positiveEPS": true,
       "minROEUS": 17.126,
       "minROIC": 8.663,
@@ -40163,7 +40163,7 @@
       "minEPSGUS": -11.1,
       "min5YSalesUS": 0.26161941638294106,
       "min5YProfitUS": 6.335438868238197,
-      "minFCFY": 6.784998712880287,
+      "minFCFY": 6.700796536079818,
       "fcfPositive5Y": true,
       "maxPEUS": 17.755154,
       "maxPEGUS": 1.22,
@@ -40192,9 +40192,9 @@
       "pe_current": 17.76,
       "pe_5y_avg": 17.76,
       "pe_vs_avg_pct": -0.03,
-      "pb_current": 2.93,
-      "pb_5y_avg": 3.79,
-      "pb_vs_avg_pct": -22.61,
+      "pb_current": 2.92,
+      "pb_5y_avg": 3.84,
+      "pb_vs_avg_pct": -23.91,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -40252,7 +40252,7 @@
   },
   {
     "ticker": "PNW",
-    "name": null,
+    "name": "Pinnacle West Capital Corporation",
     "livePrice": 101.03,
     "prevClose": 100.81999969482422,
     "metrics": {
@@ -40298,9 +40298,9 @@
       "pe_current": 19.39,
       "pe_5y_avg": 18.8,
       "pe_vs_avg_pct": 3.15,
-      "pb_current": 1.73,
+      "pb_current": 1.74,
       "pb_5y_avg": 1.63,
-      "pb_vs_avg_pct": 6.27,
+      "pb_vs_avg_pct": 6.78,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -40402,8 +40402,8 @@
     },
     "valuation_context": {
       "pe_current": 26.44,
-      "pe_5y_avg": 33.29,
-      "pe_vs_avg_pct": -20.59,
+      "pe_5y_avg": 42.43,
+      "pe_vs_avg_pct": -37.69,
       "pb_current": 6.88,
       "pb_5y_avg": 11.68,
       "pb_vs_avg_pct": -41.11,
@@ -40570,7 +40570,7 @@
   },
   {
     "ticker": "PPG",
-    "name": null,
+    "name": "PPG Industries, Inc.",
     "livePrice": 119.72,
     "prevClose": 117.16000366210938,
     "metrics": {
@@ -40676,12 +40676,12 @@
   },
   {
     "ticker": "PPL",
-    "name": null,
+    "name": "PPL Corporation",
     "livePrice": 35.46,
     "prevClose": 34.619998931884766,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 26.678341632,
+      "maxMcapUS": 26.678341632,
       "positiveEPS": true,
       "minROEUS": 8.6330004,
       "minROIC": 3.197,
@@ -40693,7 +40693,7 @@
       "minEPSGUS": 21.2,
       "min5YSalesUS": 2.7319414239135975,
       "min5YProfitUS": 9.331579014876157,
-      "minFCFY": null,
+      "minFCFY": -5.251450855998994,
       "fcfPositive5Y": false,
       "maxPEUS": 20.982246,
       "maxPEGUS": 1.38,
@@ -40720,12 +40720,12 @@
     },
     "valuation_context": {
       "pe_current": 20.98,
-      "pe_5y_avg": 22.41,
-      "pe_vs_avg_pct": -6.37,
+      "pe_5y_avg": 21.56,
+      "pe_vs_avg_pct": -2.68,
       "pb_current": 1.78,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
-      "period_years": 0.7
+      "pb_5y_avg": 1.84,
+      "pb_vs_avg_pct": -3.48,
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -40782,7 +40782,7 @@
   },
   {
     "ticker": "PRU",
-    "name": null,
+    "name": "Prudential Financial, Inc.",
     "livePrice": 121.28,
     "prevClose": 121.5,
     "metrics": {
@@ -40998,8 +40998,8 @@
     "livePrice": 9.19,
     "prevClose": 9.0600004196167,
     "metrics": {
-      "minMcapUS": 10.310680576,
-      "maxMcapUS": 10.310680576,
+      "minMcapUS": 10.285200384,
+      "maxMcapUS": 10.285200384,
       "positiveEPS": true,
       "minROEUS": -0.8959999999999999,
       "minROIC": 2.7490001,
@@ -41011,10 +41011,10 @@
       "minEPSGUS": -54.1,
       "min5YSalesUS": 0.4348774231768937,
       "min5YProfitUS": null,
-      "minFCFY": 4.742654923654964,
+      "minFCFY": 4.754404209379379,
       "fcfPositive5Y": false,
       "maxPEUS": 459.5,
-      "maxPEGUS": 0.86,
+      "maxPEGUS": 0.87,
       "maxBetaUS": 1.471,
       "minGM": 33.328998,
       "sharesFlat": false,
@@ -41104,8 +41104,8 @@
     "livePrice": 203.91,
     "prevClose": 205.52000427246094,
     "metrics": {
-      "minMcapUS": 81.754660864,
-      "maxMcapUS": 81.754660864,
+      "minMcapUS": 81.364361216,
+      "maxMcapUS": 81.364361216,
       "positiveEPS": true,
       "minROEUS": 23.452999,
       "minROIC": 6.036,
@@ -41117,7 +41117,7 @@
       "minEPSGUS": 344.9,
       "min5YSalesUS": -4.878831644771287,
       "min5YProfitUS": -16.769616414472367,
-      "minFCFY": 3.338035986155859,
+      "minFCFY": 3.354048331744725,
       "fcfPositive5Y": true,
       "maxPEUS": 11.638699,
       "maxPEGUS": 1.18,
@@ -41147,8 +41147,8 @@
       "pe_5y_avg": 14.99,
       "pe_vs_avg_pct": -22.36,
       "pb_current": 2.87,
-      "pb_5y_avg": 2.22,
-      "pb_vs_avg_pct": 29.09,
+      "pb_5y_avg": 2.21,
+      "pb_vs_avg_pct": 29.67,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -41422,8 +41422,8 @@
     "livePrice": 59.07,
     "prevClose": 59.779998779296875,
     "metrics": {
-      "minMcapUS": 50.532073472,
-      "maxMcapUS": 50.532073472,
+      "minMcapUS": 50.91833856,
+      "maxMcapUS": 50.91833856,
       "positiveEPS": true,
       "minROEUS": 24.497,
       "minROIC": 4.6230003,
@@ -41435,7 +41435,7 @@
       "minEPSGUS": -3.1,
       "min5YSalesUS": 3.8080320820609526,
       "min5YProfitUS": 16.68713404973885,
-      "minFCFY": 11.010828603902494,
+      "minFCFY": 10.927300766979306,
       "fcfPositive5Y": true,
       "maxPEUS": 11.166351,
       "maxPEGUS": 1.08,
@@ -41465,8 +41465,8 @@
       "pe_5y_avg": 9.49,
       "pe_vs_avg_pct": 17.66,
       "pb_current": 2.57,
-      "pb_5y_avg": 2.4,
-      "pb_vs_avg_pct": 7.04,
+      "pb_5y_avg": 2.41,
+      "pb_vs_avg_pct": 6.6,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -41528,8 +41528,8 @@
     "livePrice": 138.0,
     "prevClose": 133.3699951171875,
     "metrics": {
-      "minMcapUS": 28.87077888,
-      "maxMcapUS": 28.87077888,
+      "minMcapUS": 28.888809472,
+      "maxMcapUS": 28.888809472,
       "positiveEPS": true,
       "minROEUS": 6.722,
       "minROIC": 5.3049996,
@@ -41541,7 +41541,7 @@
       "minEPSGUS": -34.300000000000004,
       "min5YSalesUS": -0.004206452713328979,
       "min5YProfitUS": -2.214822877071021,
-      "minFCFY": 3.422145291287687,
+      "minFCFY": 3.420009401763692,
       "fcfPositive5Y": true,
       "maxPEUS": 49.285717,
       "maxPEGUS": 2.11,
@@ -41736,7 +41736,7 @@
   },
   {
     "ticker": "RCL",
-    "name": null,
+    "name": "Royal Caribbean Cruises Ltd.",
     "livePrice": 320.0,
     "prevClose": 320.54998779296875,
     "metrics": {
@@ -41842,7 +41842,7 @@
   },
   {
     "ticker": "REG",
-    "name": null,
+    "name": "Regency Centers Corporation",
     "livePrice": 77.12,
     "prevClose": 76.95999908447266,
     "metrics": {
@@ -42054,7 +42054,7 @@
   },
   {
     "ticker": "RF",
-    "name": null,
+    "name": "Regions Financial Corporation",
     "livePrice": 31.43,
     "prevClose": 31.389999389648438,
     "metrics": {
@@ -42102,7 +42102,7 @@
       "pe_vs_avg_pct": 5.33,
       "pb_current": 1.53,
       "pb_5y_avg": 1.24,
-      "pb_vs_avg_pct": 23.75,
+      "pb_vs_avg_pct": 23.72,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -42164,8 +42164,8 @@
     "livePrice": 176.56,
     "prevClose": 179.3300018310547,
     "metrics": {
-      "minMcapUS": 33.917175808,
-      "maxMcapUS": 33.917175808,
+      "minMcapUS": 33.963382784,
+      "maxMcapUS": 33.963382784,
       "positiveEPS": true,
       "minROEUS": 18.416001,
       "minROIC": 2.576,
@@ -42177,7 +42177,7 @@
       "minEPSGUS": 42.0,
       "min5YSalesUS": 4.989487630896017,
       "min5YProfitUS": 7.186904254260251,
-      "minFCFY": 6.622013615503443,
+      "minFCFY": 6.613004406198551,
       "fcfPositive5Y": false,
       "maxPEUS": 15.379791,
       "maxPEGUS": 0.87,
@@ -42418,9 +42418,9 @@
       "pe_current": 20.32,
       "pe_5y_avg": 19.6,
       "pe_vs_avg_pct": 3.67,
-      "pb_current": 4.74,
+      "pb_current": 4.66,
       "pb_5y_avg": 5.82,
-      "pb_vs_avg_pct": -18.64,
+      "pb_vs_avg_pct": -19.98,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -42482,8 +42482,8 @@
     "livePrice": 441.04,
     "prevClose": 441.79998779296875,
     "metrics": {
-      "minMcapUS": 49.07626496,
-      "maxMcapUS": 49.07626496,
+      "minMcapUS": 48.976908288,
+      "maxMcapUS": 48.976908288,
       "positiveEPS": true,
       "minROEUS": 30.629,
       "minROIC": 9.99,
@@ -42495,7 +42495,7 @@
       "minEPSGUS": 40.400000000000006,
       "min5YSalesUS": 1.4558784896390176,
       "min5YProfitUS": -1.3942738709534774,
-      "minFCFY": 2.76712174634082,
+      "minFCFY": 2.772735249057622,
       "fcfPositive5Y": true,
       "maxPEUS": 41.334583,
       "maxPEGUS": 1.93,
@@ -42525,8 +42525,8 @@
       "pe_5y_avg": 45.0,
       "pe_vs_avg_pct": -8.15,
       "pb_current": 14.02,
-      "pb_5y_avg": 12.65,
-      "pb_vs_avg_pct": 10.81,
+      "pb_5y_avg": 12.63,
+      "pb_vs_avg_pct": 10.98,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -42584,7 +42584,7 @@
   },
   {
     "ticker": "ROL",
-    "name": null,
+    "name": "Rollins, Inc.",
     "livePrice": 37.74,
     "prevClose": 36.83000183105469,
     "metrics": {
@@ -42604,7 +42604,7 @@
       "minFCFY": 3.579720635907728,
       "fcfPositive5Y": true,
       "maxPEUS": 34.309093,
-      "maxPEGUS": 3.18,
+      "maxPEGUS": 3.26,
       "maxBetaUS": 0.744,
       "minGM": 52.366,
       "sharesFlat": true,
@@ -42630,9 +42630,9 @@
       "pe_current": 34.31,
       "pe_5y_avg": 40.35,
       "pe_vs_avg_pct": -14.97,
-      "pb_current": null,
+      "pb_current": 13.15,
       "pb_5y_avg": 17.67,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": -25.58,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -42902,7 +42902,7 @@
   },
   {
     "ticker": "RSG",
-    "name": null,
+    "name": "Republic Services, Inc.",
     "livePrice": 214.56,
     "prevClose": 209.58999633789062,
     "metrics": {
@@ -43638,8 +43638,8 @@
     "livePrice": 151.57,
     "prevClose": 147.44000244140625,
     "metrics": {
-      "minMcapUS": 196.685529088,
-      "maxMcapUS": 196.685529088,
+      "minMcapUS": 195.016638464,
+      "maxMcapUS": 195.016638464,
       "positiveEPS": true,
       "minROEUS": 15.543000000000001,
       "minROIC": 10.187,
@@ -43651,7 +43651,7 @@
       "minEPSGUS": 68.10000000000001,
       "min5YSalesUS": 15.590968145957218,
       "min5YProfitUS": null,
-      "minFCFY": 1.0204106063654732,
+      "minFCFY": 1.02914295713824,
       "fcfPositive5Y": false,
       "maxPEUS": 101.72484,
       "maxPEGUS": 2.61,
@@ -43681,8 +43681,8 @@
       "pe_5y_avg": 105.75,
       "pe_vs_avg_pct": -3.81,
       "pb_current": 15.77,
-      "pb_5y_avg": 13.35,
-      "pb_vs_avg_pct": 18.14,
+      "pb_5y_avg": 13.23,
+      "pb_vs_avg_pct": 19.21,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -44102,8 +44102,8 @@
     },
     "valuation_context": {
       "pe_current": 16.38,
-      "pe_5y_avg": 16.77,
-      "pe_vs_avg_pct": -2.3,
+      "pe_5y_avg": 16.92,
+      "pe_vs_avg_pct": -3.17,
       "pb_current": 2.47,
       "pb_5y_avg": 3.72,
       "pb_vs_avg_pct": -33.57,
@@ -44164,7 +44164,7 @@
   },
   {
     "ticker": "SNA",
-    "name": null,
+    "name": "Snap-on Incorporated",
     "livePrice": 416.35,
     "prevClose": 414.67999267578125,
     "metrics": {
@@ -44482,7 +44482,7 @@
   },
   {
     "ticker": "SO",
-    "name": null,
+    "name": "The Southern Company",
     "livePrice": 92.69,
     "prevClose": 92.9000015258789,
     "metrics": {
@@ -44528,9 +44528,9 @@
       "pe_current": 22.33,
       "pe_5y_avg": 22.43,
       "pe_vs_avg_pct": -0.42,
-      "pb_current": null,
+      "pb_current": 2.81,
       "pb_5y_avg": 2.93,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": -3.93,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -44694,12 +44694,12 @@
   },
   {
     "ticker": "SPG",
-    "name": null,
+    "name": "Simon Property Group, Inc.",
     "livePrice": 222.91,
     "prevClose": 221.8300018310547,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 84.701257728,
+      "maxMcapUS": 84.701257728,
       "positiveEPS": true,
       "minROEUS": 113.58999999999999,
       "minROIC": 5.562,
@@ -44711,7 +44711,7 @@
       "minEPSGUS": 16.400000000000002,
       "min5YSalesUS": 3.761928841563411,
       "min5YProfitUS": 16.682979054514234,
-      "minFCFY": null,
+      "minFCFY": 3.7805873087306416,
       "fcfPositive5Y": true,
       "maxPEUS": 15.501391,
       "maxPEGUS": 4.58,
@@ -44741,8 +44741,8 @@
       "pe_5y_avg": 14.42,
       "pe_vs_avg_pct": 7.5,
       "pb_current": 15.0,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 18.54,
+      "pb_vs_avg_pct": -19.08,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -44906,7 +44906,7 @@
   },
   {
     "ticker": "SRE",
-    "name": null,
+    "name": "Sempra",
     "livePrice": 83.88,
     "prevClose": 84.3499984741211,
     "metrics": {
@@ -45032,7 +45032,7 @@
       "minFCFY": 4.201652623392019,
       "fcfPositive5Y": true,
       "maxPEUS": 29.066095,
-      "maxPEGUS": 1.87,
+      "maxPEGUS": 1.92,
       "maxBetaUS": 0.914,
       "minGM": 44.422,
       "sharesFlat": true,
@@ -45058,9 +45058,9 @@
       "pe_current": 29.07,
       "pe_5y_avg": 27.42,
       "pe_vs_avg_pct": 6.0,
-      "pb_current": 3.23,
+      "pb_current": 3.21,
       "pb_5y_avg": 3.39,
-      "pb_vs_avg_pct": -4.63,
+      "pb_vs_avg_pct": -5.23,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -45330,12 +45330,12 @@
   },
   {
     "ticker": "STX",
-    "name": null,
+    "name": "Seagate Technology Holdings plc",
     "livePrice": 812.76,
     "prevClose": 852.9500122070312,
     "metrics": {
-      "minMcapUS": 184.207589376,
-      "maxMcapUS": 184.207589376,
+      "minMcapUS": 184.496521216,
+      "maxMcapUS": 184.496521216,
       "positiveEPS": true,
       "minROEUS": 371.52898,
       "minROIC": 29.354998,
@@ -45347,7 +45347,7 @@
       "minEPSGUS": 148.8,
       "min5YSalesUS": 10.554906934557007,
       "min5YProfitUS": null,
-      "minFCFY": 1.6855983027182178,
+      "minFCFY": 1.6829585617849183,
       "fcfPositive5Y": true,
       "maxPEUS": 58.471943,
       "maxPEGUS": 0.46,
@@ -45377,8 +45377,8 @@
       "pe_5y_avg": 68.81,
       "pe_vs_avg_pct": -15.02,
       "pb_current": 166.55,
-      "pb_5y_avg": 155.96,
-      "pb_vs_avg_pct": 6.79,
+      "pb_5y_avg": 156.2,
+      "pb_vs_avg_pct": 6.63,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -45456,7 +45456,7 @@
       "minFCFY": 7.736627574749656,
       "fcfPositive5Y": true,
       "maxPEUS": 12.941849,
-      "maxPEGUS": 1.68,
+      "maxPEGUS": 1.73,
       "maxBetaUS": 0.4,
       "minGM": 52.72,
       "sharesFlat": true,
@@ -45758,8 +45758,8 @@
     "livePrice": 70.62,
     "prevClose": 66.83999633789062,
     "metrics": {
-      "minMcapUS": 10.626387968,
-      "maxMcapUS": 10.626387968,
+      "minMcapUS": 10.621669376,
+      "maxMcapUS": 10.621669376,
       "positiveEPS": true,
       "minROEUS": 5.094,
       "minROIC": 3.4410000000000003,
@@ -45771,7 +45771,7 @@
       "minEPSGUS": -68.60000000000001,
       "min5YSalesUS": -5.716529889400879,
       "min5YProfitUS": -17.850254467278592,
-      "minFCFY": 10.124795021976746,
+      "minFCFY": 10.129292881503451,
       "fcfPositive5Y": true,
       "maxPEUS": 36.590675,
       "maxPEGUS": 10.0,
@@ -46072,12 +46072,12 @@
   },
   {
     "ticker": "SYY",
-    "name": null,
+    "name": "Sysco Corporation",
     "livePrice": 84.29,
     "prevClose": 84.3499984741211,
     "metrics": {
-      "minMcapUS": 40.336441344,
-      "maxMcapUS": 40.336441344,
+      "minMcapUS": 40.353021952,
+      "maxMcapUS": 40.353021952,
       "positiveEPS": true,
       "minROEUS": 77.69200000000001,
       "minROIC": 8.1070006,
@@ -46089,7 +46089,7 @@
       "minEPSGUS": 5.2,
       "min5YSalesUS": 3.462381332058495,
       "min5YProfitUS": 6.108786286295076,
-      "minFCFY": 3.976553078445016,
+      "minFCFY": 3.974919157003808,
       "fcfPositive5Y": true,
       "maxPEUS": 23.030054,
       "maxPEGUS": 1.58,
@@ -46118,9 +46118,9 @@
       "pe_current": 23.03,
       "pe_5y_avg": 22.15,
       "pe_vs_avg_pct": 3.97,
-      "pb_current": null,
-      "pb_5y_avg": 17.96,
-      "pb_vs_avg_pct": null,
+      "pb_current": 17.55,
+      "pb_5y_avg": 17.97,
+      "pb_vs_avg_pct": -2.36,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -46390,12 +46390,12 @@
   },
   {
     "ticker": "TDG",
-    "name": null,
+    "name": "TransDigm Group Incorporated",
     "livePrice": 1225.25,
     "prevClose": 1262.0699462890625,
     "metrics": {
-      "minMcapUS": 67.727560704,
-      "maxMcapUS": 67.727560704,
+      "minMcapUS": 68.532625408,
+      "maxMcapUS": 68.532625408,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 11.817,
@@ -46407,7 +46407,7 @@
       "minEPSGUS": 10.9,
       "min5YSalesUS": 10.219391393918297,
       "min5YProfitUS": 19.08530464224485,
-      "minFCFY": 2.681330880845893,
+      "minFCFY": 2.6498328193158835,
       "fcfPositive5Y": true,
       "maxPEUS": 37.173847,
       "maxPEGUS": 3.05,
@@ -46496,12 +46496,12 @@
   },
   {
     "ticker": "TDY",
-    "name": null,
+    "name": "Teledyne Technologies Incorporated",
     "livePrice": 691.3,
     "prevClose": 687.52001953125,
     "metrics": {
-      "minMcapUS": 32.045674496,
-      "maxMcapUS": 32.045674496,
+      "minMcapUS": 32.02733056,
+      "maxMcapUS": 32.02733056,
       "positiveEPS": true,
       "minROEUS": 9.154,
       "minROIC": 5.139,
@@ -46513,7 +46513,7 @@
       "minEPSGUS": 21.2,
       "min5YSalesUS": 2.2983713652457993,
       "min5YProfitUS": 2.5590148595460827,
-      "minFCFY": 3.3514663582258466,
+      "minFCFY": 3.3533859401362482,
       "fcfPositive5Y": true,
       "maxPEUS": 33.444607,
       "maxPEGUS": 1.4,
@@ -46622,7 +46622,7 @@
       "minFCFY": 2.2777005720590897,
       "fcfPositive5Y": true,
       "maxPEUS": 103.27143,
-      "maxPEGUS": 0.96,
+      "maxPEGUS": 0.97,
       "maxBetaUS": 1.277,
       "minGM": 66.399,
       "sharesFlat": true,
@@ -46708,12 +46708,12 @@
   },
   {
     "ticker": "TEL",
-    "name": null,
+    "name": "TE Connectivity plc",
     "livePrice": 216.33,
     "prevClose": 215.0800018310547,
     "metrics": {
-      "minMcapUS": 62.630395904,
-      "maxMcapUS": 62.630395904,
+      "minMcapUS": 62.7228672,
+      "maxMcapUS": 62.7228672,
       "positiveEPS": true,
       "minROEUS": 23.290001,
       "minROIC": 9.690999999999999,
@@ -46725,7 +46725,7 @@
       "minEPSGUS": 19.2,
       "min5YSalesUS": 1.1770487371726368,
       "min5YProfitUS": -5.374499701384683,
-      "minFCFY": 5.1141302138813955,
+      "minFCFY": 5.106590535453074,
       "fcfPositive5Y": true,
       "maxPEUS": 169.00781,
       "maxPEGUS": 0.93,
@@ -46755,8 +46755,8 @@
       "pe_5y_avg": 20.87,
       "pe_vs_avg_pct": 709.81,
       "pb_current": 4.74,
-      "pb_5y_avg": 4.89,
-      "pb_vs_avg_pct": -3.16,
+      "pb_5y_avg": 4.9,
+      "pb_vs_avg_pct": -3.36,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -46814,7 +46814,7 @@
   },
   {
     "ticker": "TER",
-    "name": null,
+    "name": "Teradyne, Inc.",
     "livePrice": 379.31,
     "prevClose": 384.8900146484375,
     "metrics": {
@@ -46860,9 +46860,9 @@
       "pe_current": 52.1,
       "pe_5y_avg": 64.64,
       "pe_vs_avg_pct": -19.4,
-      "pb_current": 18.89,
+      "pb_current": 17.27,
       "pb_5y_avg": 14.14,
-      "pb_vs_avg_pct": 33.57,
+      "pb_vs_avg_pct": 22.12,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -47026,12 +47026,12 @@
   },
   {
     "ticker": "TGT",
-    "name": null,
+    "name": "Target Corporation",
     "livePrice": 149.7,
     "prevClose": 147.0800018310547,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 67.992408064,
+      "maxMcapUS": 67.992408064,
       "positiveEPS": true,
       "minROEUS": 22.015,
       "minROIC": 5.6750003,
@@ -47043,7 +47043,7 @@
       "minEPSGUS": -24.7,
       "min5YSalesUS": -0.8084201677393543,
       "min5YProfitUS": 5.912856996964444,
-      "minFCFY": null,
+      "minFCFY": 4.1695831648313835,
       "fcfPositive5Y": false,
       "maxPEUS": 19.775429,
       "maxPEGUS": 2.78,
@@ -47073,8 +47073,8 @@
       "pe_5y_avg": 16.68,
       "pe_vs_avg_pct": 18.56,
       "pb_current": 4.15,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 3.05,
+      "pb_vs_avg_pct": 35.97,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -47344,7 +47344,7 @@
   },
   {
     "ticker": "TMO",
-    "name": null,
+    "name": "Thermo Fisher Scientific Inc.",
     "livePrice": 594.0,
     "prevClose": 580.02001953125,
     "metrics": {
@@ -47918,12 +47918,12 @@
     },
     "valuation_context": {
       "pe_current": 26.8,
-      "pe_5y_avg": 27.41,
-      "pe_vs_avg_pct": -2.24,
+      "pe_5y_avg": 25.76,
+      "pe_vs_avg_pct": 4.03,
       "pb_current": 3.76,
       "pb_5y_avg": 4.26,
       "pb_vs_avg_pct": -11.66,
-      "period_years": 0.7
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -48192,7 +48192,7 @@
   },
   {
     "ticker": "TRV",
-    "name": null,
+    "name": "The Travelers Companies, Inc.",
     "livePrice": 384.31,
     "prevClose": 386.0,
     "metrics": {
@@ -48510,7 +48510,7 @@
   },
   {
     "ticker": "TSN",
-    "name": null,
+    "name": "Tyson Foods, Inc.",
     "livePrice": 58.04,
     "prevClose": 58.540000915527344,
     "metrics": {
@@ -48836,8 +48836,8 @@
       "maxMcapUS": 46.090682368,
       "positiveEPS": false,
       "minROEUS": -9.039,
-      "minROIC": -0.603,
-      "minOpMargin": 0.6709999999999999,
+      "minROIC": -0.621,
+      "minOpMargin": 0.51499996,
       "maxDEUS": 0.81607,
       "minCRUS": 1.062,
       "minICRUS": -0.22628642281463113,
@@ -49044,8 +49044,8 @@
     "livePrice": 89.43,
     "prevClose": 87.88999938964844,
     "metrics": {
-      "minMcapUS": 15.380789248,
-      "maxMcapUS": 15.380789248,
+      "minMcapUS": 15.550891008,
+      "maxMcapUS": 15.550891008,
       "positiveEPS": true,
       "minROEUS": 12.126000000000001,
       "minROIC": 4.5479998,
@@ -49057,7 +49057,7 @@
       "minEPSGUS": 5.2,
       "min5YSalesUS": 2.8341858038513745,
       "min5YProfitUS": 1.3564277656453516,
-      "minFCFY": 6.040002141767855,
+      "minFCFY": 5.973934223589409,
       "fcfPositive5Y": true,
       "maxPEUS": 16.841808,
       "maxPEGUS": 1.2,
@@ -49087,8 +49087,8 @@
       "pe_5y_avg": 17.21,
       "pe_vs_avg_pct": -2.14,
       "pb_current": 1.94,
-      "pb_5y_avg": 1.96,
-      "pb_vs_avg_pct": -0.87,
+      "pb_5y_avg": 1.98,
+      "pb_vs_avg_pct": -1.87,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -49146,7 +49146,7 @@
   },
   {
     "ticker": "TYL",
-    "name": null,
+    "name": "Tyler Technologies, Inc.",
     "livePrice": 312.45,
     "prevClose": 306.3299865722656,
     "metrics": {
@@ -49166,7 +49166,7 @@
       "minFCFY": 4.851300732487374,
       "fcfPositive5Y": true,
       "maxPEUS": 41.00394,
-      "maxPEGUS": 1.56,
+      "maxPEGUS": 1.59,
       "maxBetaUS": 0.809,
       "minGM": 47.205000000000005,
       "sharesFlat": true,
@@ -49468,8 +49468,8 @@
     "livePrice": 38.41,
     "prevClose": 38.13999938964844,
     "metrics": {
-      "minMcapUS": 14.110459904,
-      "maxMcapUS": 14.110459904,
+      "minMcapUS": 14.23150592,
+      "maxMcapUS": 14.23150592,
       "positiveEPS": true,
       "minROEUS": 13.739,
       "minROIC": 2.2449998,
@@ -49481,7 +49481,7 @@
       "minEPSGUS": 90.9,
       "min5YSalesUS": 2.446616400284718,
       "min5YProfitUS": 34.1536138351106,
-      "minFCFY": 4.350999217438405,
+      "minFCFY": 4.313991811205318,
       "fcfPositive5Y": true,
       "maxPEUS": 24.310125,
       "maxPEGUS": 8.17,
@@ -49511,8 +49511,8 @@
       "pe_5y_avg": 24.93,
       "pe_vs_avg_pct": -2.49,
       "pb_current": 4.26,
-      "pb_5y_avg": 3.71,
-      "pb_vs_avg_pct": 14.87,
+      "pb_5y_avg": 3.75,
+      "pb_vs_avg_pct": 13.64,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -49616,9 +49616,9 @@
       "pe_current": 7.08,
       "pe_5y_avg": 6.56,
       "pe_vs_avg_pct": 7.98,
-      "pb_current": 1.46,
+      "pb_current": 1.38,
       "pb_5y_avg": 1.44,
-      "pb_vs_avg_pct": 1.14,
+      "pb_vs_avg_pct": -4.32,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -49994,7 +49994,7 @@
   },
   {
     "ticker": "UPS",
-    "name": null,
+    "name": "United Parcel Service, Inc.",
     "livePrice": 104.5,
     "prevClose": 103.19999694824219,
     "metrics": {
@@ -50312,7 +50312,7 @@
   },
   {
     "ticker": "V",
-    "name": null,
+    "name": "Visa Inc.",
     "livePrice": 362.5,
     "prevClose": 370.4700012207031,
     "metrics": {
@@ -50572,7 +50572,7 @@
       "pe_vs_avg_pct": 5.76,
       "pb_current": 1.01,
       "pb_5y_avg": 1.13,
-      "pb_vs_avg_pct": -10.26,
+      "pb_vs_avg_pct": -10.68,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -50952,8 +50952,8 @@
     "livePrice": 191.82,
     "prevClose": 189.75,
     "metrics": {
-      "minMcapUS": 24.966526976,
-      "maxMcapUS": 24.966526976,
+      "minMcapUS": 25.132609536,
+      "maxMcapUS": 25.132609536,
       "positiveEPS": true,
       "minROEUS": 0,
       "minROIC": 18.958001,
@@ -50965,7 +50965,7 @@
       "minEPSGUS": -3.4000000000000004,
       "min5YSalesUS": 4.236620770587329,
       "min5YProfitUS": -0.9832019904655542,
-      "minFCFY": 4.773991997948926,
+      "minFCFY": 4.742444266651738,
       "fcfPositive5Y": true,
       "maxPEUS": 29.51077,
       "maxPEGUS": 1.85,
@@ -50995,8 +50995,8 @@
       "pe_5y_avg": 28.21,
       "pe_vs_avg_pct": 4.61,
       "pb_current": -21.52,
-      "pb_5y_avg": 91.71,
-      "pb_vs_avg_pct": -123.47,
+      "pb_5y_avg": 92.32,
+      "pb_vs_avg_pct": -123.31,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -51180,7 +51180,7 @@
       "minFCFY": 1.799738812596824,
       "fcfPositive5Y": false,
       "maxPEUS": 61.768707,
-      "maxPEGUS": 1.29,
+      "maxPEGUS": 1.28,
       "maxBetaUS": 2.077,
       "minGM": 38.039001999999996,
       "sharesFlat": true,
@@ -51270,8 +51270,8 @@
     "livePrice": 496.07,
     "prevClose": 484.0299987792969,
     "metrics": {
-      "minMcapUS": 125.734363136,
-      "maxMcapUS": 125.734363136,
+      "minMcapUS": 125.654532096,
+      "maxMcapUS": 125.654532096,
       "positiveEPS": true,
       "minROEUS": 23.542999000000002,
       "minROIC": 11.926,
@@ -51283,7 +51283,7 @@
       "minEPSGUS": 8.0,
       "min5YSalesUS": 6.088560910877083,
       "min5YProfitUS": 3.5403983999173994,
-      "minFCFY": 2.5401170533988715,
+      "minFCFY": 2.541730844662203,
       "fcfPositive5Y": false,
       "maxPEUS": 28.908508,
       "maxPEGUS": 1.7,
@@ -51313,8 +51313,8 @@
       "pe_5y_avg": 27.36,
       "pe_vs_avg_pct": 5.66,
       "pb_current": 6.21,
-      "pb_5y_avg": 6.19,
-      "pb_vs_avg_pct": 0.27,
+      "pb_5y_avg": 6.18,
+      "pb_vs_avg_pct": 0.44,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -51425,6 +51425,13 @@
     },
     "earnings_surprises": [
       {
+        "quarter": "Q2 2026",
+        "estimate": 1.63,
+        "actual": 0.76,
+        "surprise_pct": -53.4,
+        "verdict": "miss"
+      },
+      {
         "quarter": "Q1 2026",
         "estimate": 1.87,
         "actual": 2.87,
@@ -51471,7 +51478,7 @@
   },
   {
     "ticker": "VTR",
-    "name": null,
+    "name": "Ventas, Inc.",
     "livePrice": 93.36,
     "prevClose": 92.26000213623047,
     "metrics": {
@@ -51789,7 +51796,7 @@
   },
   {
     "ticker": "WAB",
-    "name": null,
+    "name": "Westinghouse Air Brake Technologies Corporation",
     "livePrice": 291.81,
     "prevClose": 295.2300109863281,
     "metrics": {
@@ -51835,9 +51842,9 @@
       "pe_current": 39.22,
       "pe_5y_avg": 38.25,
       "pe_vs_avg_pct": 2.54,
-      "pb_current": 4.4,
+      "pb_current": 4.47,
       "pb_5y_avg": 3.71,
-      "pb_vs_avg_pct": 18.61,
+      "pb_vs_avg_pct": 20.43,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -52213,12 +52220,12 @@
   },
   {
     "ticker": "WDC",
-    "name": null,
+    "name": "Western Digital Corporation",
     "livePrice": 434.3,
     "prevClose": 451.5199890136719,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 149.69544704,
+      "maxMcapUS": 149.69544704,
       "positiveEPS": true,
       "minROEUS": 130.853,
       "minROIC": 20.632,
@@ -52230,7 +52237,7 @@
       "minEPSGUS": 984.6999999999999,
       "min5YSalesUS": -12.717301067866904,
       "min5YProfitUS": 3.7784970219603364,
-      "minFCFY": null,
+      "minFCFY": 0.854401403175769,
       "fcfPositive5Y": false,
       "maxPEUS": 17.88715,
       "maxPEGUS": 0.85,
@@ -52259,9 +52266,9 @@
       "pe_current": 17.89,
       "pe_5y_avg": 22.24,
       "pe_vs_avg_pct": -19.57,
-      "pb_current": null,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_current": 20.77,
+      "pb_5y_avg": 9.9,
+      "pb_vs_avg_pct": 109.75,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -52319,7 +52326,7 @@
   },
   {
     "ticker": "WEC",
-    "name": null,
+    "name": "WEC Energy Group, Inc.",
     "livePrice": 107.63,
     "prevClose": 107.97000122070312,
     "metrics": {
@@ -52365,9 +52372,9 @@
       "pe_current": 20.94,
       "pe_5y_avg": 22.0,
       "pe_vs_avg_pct": -4.82,
-      "pb_current": null,
+      "pb_current": 2.57,
       "pb_5y_avg": 2.6,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": -1.03,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -52955,7 +52962,7 @@
   },
   {
     "ticker": "WRB",
-    "name": null,
+    "name": "W. R. Berkley Corporation",
     "livePrice": 71.6,
     "prevClose": 72.12999725341797,
     "metrics": {
@@ -53001,9 +53008,9 @@
       "pe_current": 14.73,
       "pe_5y_avg": 14.32,
       "pe_vs_avg_pct": 2.88,
-      "pb_current": null,
+      "pb_current": 2.87,
       "pb_5y_avg": 2.7,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": 6.21,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -53697,12 +53704,12 @@
   },
   {
     "ticker": "XOM",
-    "name": null,
+    "name": "ExxonMobil Holdings Corporation",
     "livePrice": 153.04,
     "prevClose": 154.83999633789062,
     "metrics": {
-      "minMcapUS": 0.0,
-      "maxMcapUS": 0.0,
+      "minMcapUS": 634.342670336,
+      "maxMcapUS": 634.342670336,
       "positiveEPS": true,
       "minROEUS": 12.584000000000001,
       "minROIC": 5.5209998,
@@ -53714,7 +53721,7 @@
       "minEPSGUS": 112.79999999999998,
       "min5YSalesUS": -4.0688325232897,
       "min5YProfitUS": -12.344796063182828,
-      "minFCFY": null,
+      "minFCFY": 3.722278368487043,
       "fcfPositive5Y": true,
       "maxPEUS": 25.764309,
       "maxPEGUS": 1.2,
@@ -53744,8 +53751,8 @@
       "pe_5y_avg": 24.26,
       "pe_vs_avg_pct": 6.2,
       "pb_current": 2.43,
-      "pb_5y_avg": null,
-      "pb_vs_avg_pct": null,
+      "pb_5y_avg": 1.99,
+      "pb_vs_avg_pct": 21.92,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -53847,12 +53854,12 @@
     },
     "valuation_context": {
       "pe_current": 28.65,
-      "pe_5y_avg": 33.71,
-      "pe_vs_avg_pct": -15.02,
+      "pe_5y_avg": 33.31,
+      "pe_vs_avg_pct": -14.0,
       "pb_current": 2.55,
       "pb_5y_avg": 2.7,
       "pb_vs_avg_pct": -5.45,
-      "period_years": 0.2
+      "period_years": 0.4
     },
     "earnings_surprises": [
       {
@@ -54061,7 +54068,7 @@
       "pe_current": 18.96,
       "pe_5y_avg": 22.56,
       "pe_vs_avg_pct": -15.94,
-      "pb_current": -5.7,
+      "pb_current": -5.71,
       "pb_5y_avg": null,
       "pb_vs_avg_pct": null,
       "period_years": 0.4
@@ -54231,8 +54238,8 @@
     "livePrice": 376.49,
     "prevClose": 364.239990234375,
     "metrics": {
-      "minMcapUS": 17.811990528,
-      "maxMcapUS": 17.811990528,
+      "minMcapUS": 17.933494272,
+      "maxMcapUS": 17.933494272,
       "positiveEPS": true,
       "minROEUS": 15.286,
       "minROIC": 7.315,
@@ -54244,7 +54251,7 @@
       "minEPSGUS": 121.50000000000001,
       "min5YSalesUS": -1.368918706358102,
       "min5YProfitUS": -1.9773122867192572,
-      "minFCFY": 4.665396597273555,
+      "minFCFY": 4.633787411399576,
       "fcfPositive5Y": false,
       "maxPEUS": 34.50871,
       "maxPEGUS": 0.7,
@@ -54274,8 +54281,8 @@
       "pe_5y_avg": 29.8,
       "pe_vs_avg_pct": 15.8,
       "pb_current": 5.25,
-      "pb_5y_avg": 3.76,
-      "pb_vs_avg_pct": 39.61,
+      "pb_5y_avg": 3.79,
+      "pb_vs_avg_pct": 38.51,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -54439,7 +54446,7 @@
   },
   {
     "ticker": "ZTS",
-    "name": null,
+    "name": "Zoetis Inc.",
     "livePrice": 72.66,
     "prevClose": 77.2699966430664,
     "metrics": {
@@ -54485,9 +54492,9 @@
       "pe_current": 11.85,
       "pe_5y_avg": 13.6,
       "pe_vs_avg_pct": -12.84,
-      "pb_current": null,
+      "pb_current": 9.27,
       "pb_5y_avg": 11.58,
-      "pb_vs_avg_pct": null,
+      "pb_vs_avg_pct": -19.96,
       "period_years": 0.4
     },
     "earnings_surprises": [
