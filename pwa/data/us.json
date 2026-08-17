@@ -135,7 +135,7 @@
       "minInstOwn": 66.483,
       "maxShort": 0.97,
       "analystBuy": true,
-      "minMSPR": -50.49881,
+      "minMSPR": -76.74283799999999,
       "excludeChina": true
     },
     "price_action": {
@@ -347,7 +347,7 @@
       "minInstOwn": 89.441,
       "maxShort": 3.1199999999999997,
       "analystBuy": true,
-      "minMSPR": -70.98204533333333,
+      "minMSPR": -69.51801033333334,
       "excludeChina": true
     },
     "price_action": {
@@ -453,7 +453,7 @@
       "minInstOwn": 82.137,
       "maxShort": 1.46,
       "analystBuy": true,
-      "minMSPR": 91.28603866666667,
+      "minMSPR": 24.619372,
       "excludeChina": true
     },
     "price_action": {
@@ -874,7 +874,7 @@
       "minGM": 64.491,
       "sharesFlat": true,
       "maxSBC": 2.9180449171652203,
-      "minInstOwn": 93.678004,
+      "minInstOwn": 93.761003,
       "maxShort": 2.2399999999999998,
       "analystBuy": true,
       "minMSPR": -38.754258666666665,
@@ -932,7 +932,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.68,
+        "institutional": 93.76,
         "insider": 0.24,
         "promoter": null,
         "fii": null,
@@ -980,7 +980,7 @@
       "minGM": 6.87,
       "sharesFlat": true,
       "maxSBC": 0.10340230973352105,
-      "minInstOwn": 88.358,
+      "minInstOwn": 88.922995,
       "maxShort": 4.44,
       "analystBuy": false,
       "minMSPR": 33.333333333333336,
@@ -1038,7 +1038,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 88.36,
+        "institutional": 88.92,
         "insider": 0.65,
         "promoter": null,
         "fii": null,
@@ -1298,7 +1298,7 @@
       "minGM": 52.408004,
       "sharesFlat": true,
       "maxSBC": 0.31821797931583135,
-      "minInstOwn": 88.595,
+      "minInstOwn": 90.205,
       "maxShort": 5.57,
       "analystBuy": true,
       "minMSPR": 33.333333333333336,
@@ -1356,7 +1356,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 88.59,
+        "institutional": 90.2,
         "insider": 0.32,
         "promoter": null,
         "fii": null,
@@ -1619,7 +1619,7 @@
       "minInstOwn": 60.30799999999999,
       "maxShort": 3.19,
       "analystBuy": false,
-      "minMSPR": -92.32106666666665,
+      "minMSPR": -92.32106666666668,
       "excludeChina": true
     },
     "price_action": {
@@ -1725,7 +1725,7 @@
       "minInstOwn": 100.27699999999999,
       "maxShort": 1.6400000000000001,
       "analystBuy": true,
-      "minMSPR": 59.57561333333334,
+      "minMSPR": -7.091053333333335,
       "excludeChina": true
     },
     "price_action": {
@@ -1828,7 +1828,7 @@
       "minGM": 13.272998999999999,
       "sharesFlat": true,
       "maxSBC": 0.668784092771357,
-      "minInstOwn": 100.532,
+      "minInstOwn": 99.914,
       "maxShort": 3.2399999999999998,
       "analystBuy": true,
       "minMSPR": -88.55249533333334,
@@ -1886,7 +1886,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 100.53,
+        "institutional": 99.91,
         "insider": 0.71,
         "promoter": null,
         "fii": null,
@@ -1937,7 +1937,7 @@
       "minInstOwn": 95.911,
       "maxShort": 2.4699999999999998,
       "analystBuy": true,
-      "minMSPR": -23.846391,
+      "minMSPR": -64.91303,
       "excludeChina": true
     },
     "price_action": {
@@ -2361,7 +2361,7 @@
       "minInstOwn": 85.995,
       "maxShort": 0.029999999000000003,
       "analystBuy": true,
-      "minMSPR": 34.491319,
+      "minMSPR": 23.054508,
       "excludeChina": true
     },
     "price_action": {
@@ -2570,7 +2570,7 @@
       "minGM": 79.654,
       "sharesFlat": true,
       "maxSBC": 9.376437995582586,
-      "minInstOwn": 100.16099999999999,
+      "minInstOwn": 101.69600000000001,
       "maxShort": 4.78,
       "analystBuy": true,
       "minMSPR": -16.660293233333334,
@@ -2628,7 +2628,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 100.16,
+        "institutional": 101.7,
         "insider": 0.18,
         "promoter": null,
         "fii": null,
@@ -2803,9 +2803,9 @@
       "pe_current": 19.34,
       "pe_5y_avg": 28.74,
       "pe_vs_avg_pct": -32.71,
-      "pb_current": 1.83,
+      "pb_current": 1.8,
       "pb_5y_avg": 2.41,
-      "pb_vs_avg_pct": -24.24,
+      "pb_vs_avg_pct": -25.16,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -2891,7 +2891,7 @@
       "minInstOwn": 75.414,
       "maxShort": 2.32,
       "analystBuy": true,
-      "minMSPR": -67.51213066666666,
+      "minMSPR": -47.856696,
       "excludeChina": true
     },
     "price_action": {
@@ -3103,7 +3103,7 @@
       "minInstOwn": 85.218,
       "maxShort": 2.4600001,
       "analystBuy": true,
-      "minMSPR": 13.976160000000002,
+      "minMSPR": 14.488184666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -4163,7 +4163,7 @@
       "minInstOwn": 68.162,
       "maxShort": 4.44,
       "analystBuy": true,
-      "minMSPR": -29.773101666666662,
+      "minMSPR": -96.11473833333332,
       "excludeChina": true
     },
     "price_action": {
@@ -4269,7 +4269,7 @@
       "minInstOwn": 76.116997,
       "maxShort": 4.0900003,
       "analystBuy": true,
-      "minMSPR": -96.629442,
+      "minMSPR": -63.29610866666667,
       "excludeChina": true
     },
     "price_action": {
@@ -4375,7 +4375,7 @@
       "minInstOwn": 107.707,
       "maxShort": 7.3,
       "analystBuy": true,
-      "minMSPR": -33.333333333333336,
+      "minMSPR": -48.915503333333334,
       "excludeChina": true
     },
     "price_action": {
@@ -4817,9 +4817,9 @@
       "pe_current": 62.89,
       "pe_5y_avg": 64.08,
       "pe_vs_avg_pct": -1.85,
-      "pb_current": 1563.23,
+      "pb_current": 1558.59,
       "pb_5y_avg": 25.58,
-      "pb_vs_avg_pct": 6011.13,
+      "pb_vs_avg_pct": 5993.01,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -5008,7 +5008,7 @@
       "minGM": 62.721000000000004,
       "sharesFlat": true,
       "maxSBC": 0.8701214348551743,
-      "minInstOwn": 95.517,
+      "minInstOwn": 95.48400000000001,
       "maxShort": 3.63,
       "analystBuy": false,
       "minMSPR": -31.961466666666666,
@@ -5066,7 +5066,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 95.52,
+        "institutional": 95.48,
         "insider": 0.4,
         "promoter": null,
         "fii": null,
@@ -5220,7 +5220,7 @@
       "minGM": 28.978002000000004,
       "sharesFlat": true,
       "maxSBC": 0.3150584382587093,
-      "minInstOwn": 99.845004,
+      "minInstOwn": 100.396,
       "maxShort": 4.04,
       "analystBuy": true,
       "minMSPR": -28.095853333333334,
@@ -5278,7 +5278,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 99.85,
+        "institutional": 100.4,
         "insider": 0.64,
         "promoter": null,
         "fii": null,
@@ -5435,7 +5435,7 @@
       "minInstOwn": 91.16199999999999,
       "maxShort": 5.1999997,
       "analystBuy": true,
-      "minMSPR": -26.190476666666672,
+      "minMSPR": -30.85440333333334,
       "excludeChina": true
     },
     "price_action": {
@@ -5647,7 +5647,7 @@
       "minInstOwn": 99.297994,
       "maxShort": 2.98,
       "analystBuy": true,
-      "minMSPR": 33.11185,
+      "minMSPR": 55.33407266666668,
       "excludeChina": true
     },
     "price_action": {
@@ -5748,12 +5748,12 @@
       "maxPEGUS": 89.29,
       "maxBetaUS": 1.221,
       "minGM": 4.71,
-      "sharesFlat": true,
+      "sharesFlat": false,
       "maxSBC": 0.47617450789711946,
-      "minInstOwn": 76.807,
+      "minInstOwn": 76.98200299999999,
       "maxShort": 0.01,
       "analystBuy": true,
-      "minMSPR": 100.0,
+      "minMSPR": 33.333333333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -5808,7 +5808,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 76.81,
+        "institutional": 76.98,
         "insider": 0.06,
         "promoter": null,
         "fii": null,
@@ -5965,7 +5965,7 @@
       "minInstOwn": 90.193003,
       "maxShort": 2.92,
       "analystBuy": true,
-      "minMSPR": -14.113083333333334,
+      "minMSPR": -2.1891866666666644,
       "excludeChina": true
     },
     "price_action": {
@@ -6174,7 +6174,7 @@
       "minGM": 22.518,
       "sharesFlat": true,
       "maxSBC": 0.33340529130987506,
-      "minInstOwn": 97.509,
+      "minInstOwn": 96.822,
       "maxShort": 8.51,
       "analystBuy": false,
       "minMSPR": -95.39614,
@@ -6232,7 +6232,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 97.51,
+        "institutional": 96.82,
         "insider": 6.47,
         "promoter": null,
         "fii": null,
@@ -6283,7 +6283,7 @@
       "minInstOwn": 99.547,
       "maxShort": 4.19,
       "analystBuy": true,
-      "minMSPR": 54.91829533333333,
+      "minMSPR": 10.160018666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -6810,7 +6810,7 @@
       "minGM": 87.227994,
       "sharesFlat": false,
       "maxSBC": 2.2922316751495337,
-      "minInstOwn": 98.926,
+      "minInstOwn": 98.324996,
       "maxShort": 3.1600002000000003,
       "analystBuy": true,
       "minMSPR": -80.906779,
@@ -6868,7 +6868,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 98.93,
+        "institutional": 98.32,
         "insider": 0.18,
         "promoter": null,
         "fii": null,
@@ -7128,7 +7128,7 @@
       "minGM": 47.152,
       "sharesFlat": true,
       "maxSBC": 5.397258011232243,
-      "minInstOwn": 83.208,
+      "minInstOwn": 84.572,
       "maxShort": 1.43,
       "analystBuy": true,
       "minMSPR": -76.470028,
@@ -7186,7 +7186,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 83.21,
+        "institutional": 84.57,
         "insider": 1.91,
         "promoter": null,
         "fii": null,
@@ -7449,7 +7449,7 @@
       "minInstOwn": 98.001,
       "maxShort": 3.95,
       "analystBuy": true,
-      "minMSPR": 29.236632666666665,
+      "minMSPR": 59.893921,
       "excludeChina": true
     },
     "price_action": {
@@ -7552,7 +7552,7 @@
       "minGM": 30.332002000000003,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 66.716003,
+      "minInstOwn": 66.907996,
       "maxShort": 0.9599999499999999,
       "analystBuy": true,
       "minMSPR": -3.3431903875,
@@ -7610,7 +7610,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 66.72,
+        "institutional": 66.91,
         "insider": 0.27,
         "promoter": null,
         "fii": null,
@@ -7873,7 +7873,7 @@
       "minInstOwn": 73.58100400000001,
       "maxShort": 3.55,
       "analystBuy": true,
-      "minMSPR": -29.34198666666667,
+      "minMSPR": -30.890470000000004,
       "excludeChina": true
     },
     "price_action": {
@@ -7976,7 +7976,7 @@
       "minGM": 56.452000000000005,
       "sharesFlat": true,
       "maxSBC": 1.2731317622740739,
-      "minInstOwn": 112.66799999999999,
+      "minInstOwn": 113.113,
       "maxShort": 8.84,
       "analystBuy": true,
       "minMSPR": 39.775051,
@@ -8034,8 +8034,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 112.67,
-        "insider": 0.37,
+        "institutional": 113.11,
+        "insider": 0.38,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -8400,7 +8400,7 @@
       "minGM": 24.691999,
       "sharesFlat": true,
       "maxSBC": 0.3402768197912356,
-      "minInstOwn": 89.107,
+      "minInstOwn": 89.976,
       "maxShort": 2.6600001,
       "analystBuy": true,
       "minMSPR": -7.501213133333333,
@@ -8458,7 +8458,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 89.11,
+        "institutional": 89.98,
         "insider": 4.76,
         "promoter": null,
         "fii": null,
@@ -8721,7 +8721,7 @@
       "minInstOwn": 83.839995,
       "maxShort": 1.09,
       "analystBuy": true,
-      "minMSPR": 0.9359759999999989,
+      "minMSPR": -63.04659066666667,
       "excludeChina": true
     },
     "price_action": {
@@ -8827,7 +8827,7 @@
       "minInstOwn": 91.783994,
       "maxShort": 2.98,
       "analystBuy": false,
-      "minMSPR": -5.11054066666667,
+      "minMSPR": -44.62760333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -9057,9 +9057,9 @@
       "pe_current": 21.06,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 5.0,
+      "pb_current": 4.98,
       "pb_5y_avg": 5.09,
-      "pb_vs_avg_pct": -1.79,
+      "pb_vs_avg_pct": -2.13,
       "period_years": 0
     },
     "earnings_surprises": null,
@@ -9113,7 +9113,7 @@
       "minGM": 73.732,
       "sharesFlat": true,
       "maxSBC": 1.7120075046904315,
-      "minInstOwn": 101.362,
+      "minInstOwn": 101.83799,
       "maxShort": 3.44,
       "analystBuy": true,
       "minMSPR": 29.393734,
@@ -9171,7 +9171,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 101.36,
+        "institutional": 101.84,
         "insider": 0.1,
         "promoter": null,
         "fii": null,
@@ -9406,7 +9406,7 @@
   },
   {
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "livePrice": 139.42,
     "prevClose": 142.0500030517578,
     "metrics": {
@@ -9434,7 +9434,7 @@
       "minInstOwn": 113.016,
       "maxShort": 7.6,
       "analystBuy": true,
-      "minMSPR": 100.0,
+      "minMSPR": 55.555556,
       "excludeChina": true
     },
     "price_action": {
@@ -9855,7 +9855,7 @@
       "minGM": 45.562000000000005,
       "sharesFlat": true,
       "maxSBC": 0.9350012896569513,
-      "minInstOwn": 93.517,
+      "minInstOwn": 95.10299599999999,
       "maxShort": 5.0200000000000005,
       "analystBuy": true,
       "minMSPR": 10.936920333333333,
@@ -9913,7 +9913,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.52,
+        "institutional": 95.1,
         "insider": 0.2,
         "promoter": null,
         "fii": null,
@@ -10070,7 +10070,7 @@
       "minInstOwn": 85.246,
       "maxShort": 50.4,
       "analystBuy": false,
-      "minMSPR": -99.02425666666666,
+      "minMSPR": -100.0,
       "excludeChina": true
     },
     "price_action": {
@@ -10173,7 +10173,7 @@
       "minGM": 9.1359995,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 92.644,
+      "minInstOwn": 92.541003,
       "maxShort": 2.01,
       "analystBuy": true,
       "minMSPR": -39.489415666666666,
@@ -10231,7 +10231,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 92.64,
+        "institutional": 92.54,
         "insider": 1.44,
         "promoter": null,
         "fii": null,
@@ -10491,7 +10491,7 @@
       "minGM": 60.431000000000004,
       "sharesFlat": true,
       "maxSBC": 0.760474928858797,
-      "minInstOwn": 87.34100500000001,
+      "minInstOwn": 86.711997,
       "maxShort": 2.4899999999999998,
       "analystBuy": true,
       "minMSPR": 40.95786666666667,
@@ -10549,8 +10549,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 87.34,
-        "insider": 0.14,
+        "institutional": 86.71,
+        "insider": 0.15,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -10703,7 +10703,7 @@
       "minGM": 69.39,
       "sharesFlat": true,
       "maxSBC": 1.041169861042625,
-      "minInstOwn": 92.412,
+      "minInstOwn": 91.591,
       "maxShort": 2.31,
       "analystBuy": false,
       "minMSPR": -24.128146666666666,
@@ -10761,7 +10761,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 92.41,
+        "institutional": 91.59,
         "insider": 0.74,
         "promoter": null,
         "fii": null,
@@ -11021,7 +11021,7 @@
       "minGM": 25.772000000000002,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 88.941,
+      "minInstOwn": 87.703,
       "maxShort": 2.1399999999999997,
       "analystBuy": true,
       "minMSPR": 23.476908000000005,
@@ -11079,7 +11079,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 88.94,
+        "institutional": 87.7,
         "insider": 0.21,
         "promoter": null,
         "fii": null,
@@ -11339,10 +11339,10 @@
       "minGM": 47.027,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 108.453,
+      "minInstOwn": 107.252,
       "maxShort": 9.0299994,
       "analystBuy": true,
-      "minMSPR": 61.274696500000005,
+      "minMSPR": 7.516464333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -11397,8 +11397,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 108.45,
-        "insider": 0.24,
+        "institutional": 107.25,
+        "insider": 0.23,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -11448,7 +11448,7 @@
       "minInstOwn": 89.541,
       "maxShort": 1.97,
       "analystBuy": true,
-      "minMSPR": -86.95680333333333,
+      "minMSPR": -91.51124333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -11534,9 +11534,9 @@
       "maxMcapUS": 63.745159168,
       "positiveEPS": true,
       "minROEUS": 7.981000000000001,
-      "minROIC": 3.695,
-      "minOpMargin": 15.737000000000002,
-      "maxDEUS": 0.31485,
+      "minROIC": 3.3930000000000002,
+      "minOpMargin": 11.8269995,
+      "maxDEUS": 0.31611999999999996,
       "minCRUS": 2.427,
       "minICRUS": 1.3871762089364483,
       "minRevGUS": 33.7,
@@ -11548,7 +11548,7 @@
       "maxPEUS": 79.27737,
       "maxPEGUS": 0.92,
       "maxBetaUS": 2.107,
-      "minGM": 37.500998,
+      "minGM": 37.495998,
       "sharesFlat": false,
       "maxSBC": 2.757931641628436,
       "minInstOwn": 88.08,
@@ -12190,7 +12190,7 @@
       "minInstOwn": 101.00399,
       "maxShort": 4.0900003,
       "analystBuy": true,
-      "minMSPR": 12.059945333333333,
+      "minMSPR": -12.014483333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -12208,9 +12208,9 @@
       "pe_current": 25.39,
       "pe_5y_avg": 21.46,
       "pe_vs_avg_pct": 18.29,
-      "pb_current": 7.87,
+      "pb_current": 7.74,
       "pb_5y_avg": 5.73,
-      "pb_vs_avg_pct": 37.31,
+      "pb_vs_avg_pct": 35.09,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -12399,7 +12399,7 @@
       "minGM": 47.522998,
       "sharesFlat": true,
       "maxSBC": 0.8178253386408916,
-      "minInstOwn": 85.059,
+      "minInstOwn": 88.045996,
       "maxShort": 5.6700002,
       "analystBuy": true,
       "minMSPR": -35.559490333333336,
@@ -12457,7 +12457,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 85.06,
+        "institutional": 88.05,
         "insider": 9.01,
         "promoter": null,
         "fii": null,
@@ -12505,7 +12505,7 @@
       "minGM": 61.619,
       "sharesFlat": true,
       "maxSBC": 1.0777582323722756,
-      "minInstOwn": 108.35900000000001,
+      "minInstOwn": 105.901,
       "maxShort": 4.8299997999999995,
       "analystBuy": false,
       "minMSPR": 33.333333333333336,
@@ -12563,8 +12563,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 108.36,
-        "insider": 1.46,
+        "institutional": 105.9,
+        "insider": 1.47,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -12717,10 +12717,10 @@
       "minGM": 34.585,
       "sharesFlat": true,
       "maxSBC": 1.77026743657266,
-      "minInstOwn": 123.25801000000001,
+      "minInstOwn": 122.997,
       "maxShort": 8.28,
       "analystBuy": true,
-      "minMSPR": -14.302905666666666,
+      "minMSPR": 6.457832666666668,
       "excludeChina": true
     },
     "price_action": {
@@ -12775,7 +12775,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 123.26,
+        "institutional": 123.0,
         "insider": 0.47,
         "promoter": null,
         "fii": null,
@@ -12929,7 +12929,7 @@
       "minGM": 75.136,
       "sharesFlat": false,
       "maxSBC": 22.790479228512854,
-      "minInstOwn": 77.084,
+      "minInstOwn": 76.728994,
       "maxShort": 2.55,
       "analystBuy": true,
       "minMSPR": -80.96264666666666,
@@ -12987,7 +12987,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 77.08,
+        "institutional": 76.73,
         "insider": 1.47,
         "promoter": null,
         "fii": null,
@@ -13056,9 +13056,9 @@
       "pe_current": 33.54,
       "pe_5y_avg": 33.88,
       "pe_vs_avg_pct": -1.01,
-      "pb_current": 9.01,
+      "pb_current": 8.77,
       "pb_5y_avg": 6.72,
-      "pb_vs_avg_pct": 34.01,
+      "pb_vs_avg_pct": 30.51,
       "period_years": 0.6
     },
     "earnings_surprises": [
@@ -13141,7 +13141,7 @@
       "minGM": 78.68399600000001,
       "sharesFlat": true,
       "maxSBC": 5.974745919310132,
-      "minInstOwn": 104.79,
+      "minInstOwn": 104.908,
       "maxShort": 4.0599998,
       "analystBuy": true,
       "minMSPR": 30.853823333333334,
@@ -13199,7 +13199,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 104.79,
+        "institutional": 104.91,
         "insider": 1.26,
         "promoter": null,
         "fii": null,
@@ -13356,7 +13356,7 @@
       "minInstOwn": 69.792,
       "maxShort": 3.8,
       "analystBuy": true,
-      "minMSPR": 18.50611266666667,
+      "minMSPR": 35.59813666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -13886,7 +13886,7 @@
       "minInstOwn": 71.093005,
       "maxShort": 1.04,
       "analystBuy": true,
-      "minMSPR": -15.982173333333336,
+      "minMSPR": -15.945136000000003,
       "excludeChina": true
     },
     "price_action": {
@@ -14201,10 +14201,10 @@
       "minGM": 52.225,
       "sharesFlat": true,
       "maxSBC": 7.662025224174382,
-      "minInstOwn": 96.69200000000001,
+      "minInstOwn": 96.127,
       "maxShort": 4.4499997,
       "analystBuy": true,
-      "minMSPR": -17.343573000000003,
+      "minMSPR": -36.16773966666667,
       "excludeChina": true
     },
     "price_action": {
@@ -14259,7 +14259,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 96.69,
+        "institutional": 96.13,
         "insider": 0.65,
         "promoter": null,
         "fii": null,
@@ -14310,7 +14310,7 @@
       "minInstOwn": 79.587,
       "maxShort": 4.38,
       "analystBuy": true,
-      "minMSPR": -5.155514666666666,
+      "minMSPR": -58.72889133333333,
       "excludeChina": true
     },
     "price_action": {
@@ -14411,12 +14411,12 @@
       "maxPEGUS": 1.57,
       "maxBetaUS": 1.509,
       "minGM": 79.536,
-      "sharesFlat": false,
+      "sharesFlat": true,
       "maxSBC": 21.903600592677662,
       "minInstOwn": 92.86,
       "maxShort": 4.03,
       "analystBuy": true,
-      "minMSPR": -32.04175933333334,
+      "minMSPR": -29.550432666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -15155,7 +15155,7 @@
       "minGM": 58.752996,
       "sharesFlat": true,
       "maxSBC": 1.2129599478997068,
-      "minInstOwn": 84.856004,
+      "minInstOwn": 84.516,
       "maxShort": 1.9199998999999999,
       "analystBuy": true,
       "minMSPR": 51.88391566666667,
@@ -15213,7 +15213,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 84.86,
+        "institutional": 84.52,
         "insider": 10.96,
         "promoter": null,
         "fii": null,
@@ -15473,7 +15473,7 @@
       "minGM": 36.991,
       "sharesFlat": true,
       "maxSBC": 0.3034236907448047,
-      "minInstOwn": 107.91999999999999,
+      "minInstOwn": 105.251,
       "maxShort": 6.43,
       "analystBuy": false,
       "minMSPR": -7.772706133333334,
@@ -15531,7 +15531,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 107.92,
+        "institutional": 105.25,
         "insider": 0.16,
         "promoter": null,
         "fii": null,
@@ -16006,7 +16006,7 @@
       "minInstOwn": 101.237,
       "maxShort": 7.26,
       "analystBuy": true,
-      "minMSPR": 56.878092,
+      "minMSPR": 26.449098000000003,
       "excludeChina": true
     },
     "price_action": {
@@ -16533,7 +16533,7 @@
       "minGM": 62.473,
       "sharesFlat": true,
       "maxSBC": 3.423423423423423,
-      "minInstOwn": 105.97000000000001,
+      "minInstOwn": 106.32600000000001,
       "maxShort": 5.37,
       "analystBuy": true,
       "minMSPR": -100.0,
@@ -16591,7 +16591,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 105.97,
+        "institutional": 106.33,
         "insider": 0.27,
         "promoter": null,
         "fii": null,
@@ -16745,7 +16745,7 @@
       "minGM": 72.052,
       "sharesFlat": true,
       "maxSBC": 5.468468468468468,
-      "minInstOwn": 93.254995,
+      "minInstOwn": 95.926005,
       "maxShort": 3.9100002000000003,
       "analystBuy": false,
       "minMSPR": -6.784296666666667,
@@ -16803,7 +16803,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.25,
+        "institutional": 95.93,
         "insider": 10.04,
         "promoter": null,
         "fii": null,
@@ -16854,7 +16854,7 @@
       "minInstOwn": 96.80199999999999,
       "maxShort": 1.26,
       "analystBuy": true,
-      "minMSPR": -15.5731732,
+      "minMSPR": -21.642773533333337,
       "excludeChina": true
     },
     "price_action": {
@@ -17066,7 +17066,7 @@
       "minInstOwn": 104.926,
       "maxShort": 6.890000000000001,
       "analystBuy": true,
-      "minMSPR": 28.11460166666667,
+      "minMSPR": 55.555556,
       "excludeChina": true
     },
     "price_action": {
@@ -17381,7 +17381,7 @@
       "minGM": 74.651,
       "sharesFlat": true,
       "maxSBC": 2.122015915119363,
-      "minInstOwn": 91.363996,
+      "minInstOwn": 96.665,
       "maxShort": 3.6199997999999995,
       "analystBuy": true,
       "minMSPR": 100.0,
@@ -17439,7 +17439,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 91.36,
+        "institutional": 96.67,
         "insider": 0.43,
         "promoter": null,
         "fii": null,
@@ -17702,7 +17702,7 @@
       "minInstOwn": 84.552,
       "maxShort": 2.23,
       "analystBuy": true,
-      "minMSPR": -80.01606333333334,
+      "minMSPR": -97.82372666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -18229,7 +18229,7 @@
       "minGM": 80.748004,
       "sharesFlat": true,
       "maxSBC": 0.7276358317998921,
-      "minInstOwn": 94.789004,
+      "minInstOwn": 96.761,
       "maxShort": 3.32,
       "analystBuy": true,
       "minMSPR": -29.628073333333333,
@@ -18287,8 +18287,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 94.79,
-        "insider": 0.79,
+        "institutional": 96.76,
+        "insider": 0.95,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -18335,7 +18335,7 @@
       "minGM": 17.904,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 45.509,
+      "minInstOwn": 45.959,
       "maxShort": 11.359999,
       "analystBuy": false,
       "minMSPR": 35.550936666666665,
@@ -18393,7 +18393,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 45.51,
+        "institutional": 45.96,
         "insider": 45.46,
         "promoter": null,
         "fii": null,
@@ -18656,7 +18656,7 @@
       "minInstOwn": 89.865,
       "maxShort": 1.76,
       "analystBuy": true,
-      "minMSPR": -12.600743333333334,
+      "minMSPR": 10.227344,
       "excludeChina": true
     },
     "price_action": {
@@ -18759,7 +18759,7 @@
       "minGM": 47.000998,
       "sharesFlat": false,
       "maxSBC": null,
-      "minInstOwn": 98.205,
+      "minInstOwn": 100.07701,
       "maxShort": 4.9099997,
       "analystBuy": true,
       "minMSPR": 19.251706666666667,
@@ -18817,7 +18817,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 98.2,
+        "institutional": 100.08,
         "insider": 0.22,
         "promoter": null,
         "fii": null,
@@ -18974,7 +18974,7 @@
       "minInstOwn": 97.524,
       "maxShort": 1.9800000000000002,
       "analystBuy": true,
-      "minMSPR": 7.567716000000002,
+      "minMSPR": -17.967375333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -19077,7 +19077,7 @@
       "minGM": 42.363998,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 94.451,
+      "minInstOwn": 95.37,
       "maxShort": 3.73,
       "analystBuy": false,
       "minMSPR": 100.0,
@@ -19135,7 +19135,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 94.45,
+        "institutional": 95.37,
         "insider": 0.07,
         "promoter": null,
         "fii": null,
@@ -19292,7 +19292,7 @@
       "minInstOwn": 99.913,
       "maxShort": 4.42,
       "analystBuy": false,
-      "minMSPR": 46.76102133333333,
+      "minMSPR": 10.791482333333335,
       "excludeChina": true
     },
     "price_action": {
@@ -19395,10 +19395,10 @@
       "minGM": 90.43299999999999,
       "sharesFlat": true,
       "maxSBC": 2.7014185841308627,
-      "minInstOwn": 106.48599999999999,
+      "minInstOwn": 108.663,
       "maxShort": 8.42,
       "analystBuy": true,
-      "minMSPR": 9.149838000000003,
+      "minMSPR": -34.86339266666666,
       "excludeChina": true
     },
     "price_action": {
@@ -19453,7 +19453,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 106.49,
+        "institutional": 108.66,
         "insider": 0.61,
         "promoter": null,
         "fii": null,
@@ -19819,7 +19819,7 @@
       "minGM": 44.701,
       "sharesFlat": false,
       "maxSBC": 0.10243277848911651,
-      "minInstOwn": 87.351,
+      "minInstOwn": 87.564003,
       "maxShort": 3.5700000000000003,
       "analystBuy": false,
       "minMSPR": -22.222221333333334,
@@ -19877,7 +19877,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 87.35,
+        "institutional": 87.56,
         "insider": 0.09,
         "promoter": null,
         "fii": null,
@@ -20137,7 +20137,7 @@
       "minGM": 27.317999999999998,
       "sharesFlat": true,
       "maxSBC": 0.18686655405405406,
-      "minInstOwn": 82.41200400000001,
+      "minInstOwn": 82.67999999999999,
       "maxShort": 2.15,
       "analystBuy": true,
       "minMSPR": 9.878860666666668,
@@ -20195,7 +20195,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 82.41,
+        "institutional": 82.68,
         "insider": 7.52,
         "promoter": null,
         "fii": null,
@@ -20831,7 +20831,7 @@
       "minGM": 0,
       "sharesFlat": false,
       "maxSBC": 1.8478630540755017,
-      "minInstOwn": 93.4,
+      "minInstOwn": 93.03,
       "maxShort": 0,
       "analystBuy": true,
       "minMSPR": -13.110227666666665,
@@ -20889,7 +20889,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.4,
+        "institutional": 93.03,
         "insider": 0.35,
         "promoter": null,
         "fii": null,
@@ -21046,7 +21046,7 @@
       "minInstOwn": 64.979,
       "maxShort": 8.25,
       "analystBuy": false,
-      "minMSPR": -16.368275,
+      "minMSPR": 41.8158625,
       "excludeChina": true
     },
     "price_action": {
@@ -21226,7 +21226,7 @@
       "minGM": 68.136,
       "sharesFlat": true,
       "maxSBC": 1.142164624015325,
-      "minInstOwn": 100.612,
+      "minInstOwn": 100.44500000000001,
       "maxShort": 0.02,
       "analystBuy": true,
       "minMSPR": -17.27241,
@@ -21284,7 +21284,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 100.61,
+        "institutional": 100.45,
         "insider": 1.03,
         "promoter": null,
         "fii": null,
@@ -21332,7 +21332,7 @@
       "minGM": 44.015998,
       "sharesFlat": true,
       "maxSBC": 0.36830073173498135,
-      "minInstOwn": 96.724,
+      "minInstOwn": 96.745,
       "maxShort": 12.45,
       "analystBuy": true,
       "minMSPR": -61.56179933333334,
@@ -21390,7 +21390,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 96.72,
+        "institutional": 96.75,
         "insider": 5.36,
         "promoter": null,
         "fii": null,
@@ -21441,7 +21441,7 @@
       "minInstOwn": 71.648,
       "maxShort": 2.3699999,
       "analystBuy": false,
-      "minMSPR": -23.065871299999998,
+      "minMSPR": -22.033417966666665,
       "excludeChina": true
     },
     "price_action": {
@@ -21544,10 +21544,10 @@
       "minGM": 63.23,
       "sharesFlat": true,
       "maxSBC": 2.808299872568585,
-      "minInstOwn": 111.884,
+      "minInstOwn": 112.498,
       "maxShort": 5.82,
       "analystBuy": false,
-      "minMSPR": -9.711421999999999,
+      "minMSPR": -31.933644666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -21602,7 +21602,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 111.88,
+        "institutional": 112.5,
         "insider": 0.41,
         "promoter": null,
         "fii": null,
@@ -21653,7 +21653,7 @@
       "minInstOwn": 88.122004,
       "maxShort": 1.01,
       "analystBuy": true,
-      "minMSPR": -33.6467307,
+      "minMSPR": -28.320829033333336,
       "excludeChina": true
     },
     "price_action": {
@@ -21862,10 +21862,10 @@
       "minGM": 31.051000000000002,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 81.905,
+      "minInstOwn": 81.38,
       "maxShort": 1.37,
       "analystBuy": false,
-      "minMSPR": 21.359843666666666,
+      "minMSPR": 11.111112,
       "excludeChina": true
     },
     "price_action": {
@@ -21920,7 +21920,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 81.91,
+        "institutional": 81.38,
         "insider": 0.3,
         "promoter": null,
         "fii": null,
@@ -21968,7 +21968,7 @@
       "minGM": 39.528,
       "sharesFlat": true,
       "maxSBC": 0.6303030303030304,
-      "minInstOwn": 92.362,
+      "minInstOwn": 92.003995,
       "maxShort": 4.8699997,
       "analystBuy": true,
       "minMSPR": 97.60320999999999,
@@ -22026,7 +22026,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 92.36,
+        "institutional": 92.0,
         "insider": 0.36,
         "promoter": null,
         "fii": null,
@@ -22289,7 +22289,7 @@
       "minInstOwn": 92.567,
       "maxShort": 1.97,
       "analystBuy": true,
-      "minMSPR": -82.61957333333334,
+      "minMSPR": -69.24255666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -22501,7 +22501,7 @@
       "minInstOwn": 87.81,
       "maxShort": 0.06999999999999999,
       "analystBuy": true,
-      "minMSPR": -31.771240666666667,
+      "minMSPR": -32.470037999999995,
       "excludeChina": true
     },
     "price_action": {
@@ -22819,7 +22819,7 @@
       "minInstOwn": 91.613,
       "maxShort": 3.52,
       "analystBuy": true,
-      "minMSPR": -91.73553499999998,
+      "minMSPR": -90.11954533333333,
       "excludeChina": true
     },
     "price_action": {
@@ -23346,10 +23346,10 @@
       "minGM": 60.080999999999996,
       "sharesFlat": true,
       "maxSBC": 2.2911126173294143,
-      "minInstOwn": 58.452000000000005,
+      "minInstOwn": 58.355999999999995,
       "maxShort": 2.1999999999999997,
       "analystBuy": false,
-      "minMSPR": -36.28152513333333,
+      "minMSPR": -35.545812133333335,
       "excludeChina": true
     },
     "price_action": {
@@ -23404,7 +23404,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 58.45,
+        "institutional": 58.36,
         "insider": 14.69,
         "promoter": null,
         "fii": null,
@@ -24197,7 +24197,7 @@
       "minInstOwn": 96.527,
       "maxShort": 0.01,
       "analystBuy": true,
-      "minMSPR": -60.87796266666667,
+      "minMSPR": -82.43431333333334,
       "excludeChina": true
     },
     "price_action": {
@@ -24300,7 +24300,7 @@
       "minGM": 12.4,
       "sharesFlat": true,
       "maxSBC": 0.43255366869593076,
-      "minInstOwn": 91.31300399999999,
+      "minInstOwn": 92.311996,
       "maxShort": 3.32,
       "analystBuy": true,
       "minMSPR": 33.333333333333336,
@@ -24358,7 +24358,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 91.31,
+        "institutional": 92.31,
         "insider": 0.48,
         "promoter": null,
         "fii": null,
@@ -24830,10 +24830,10 @@
       "minGM": 20.315,
       "sharesFlat": true,
       "maxSBC": 0.9440274889230491,
-      "minInstOwn": 93.94,
+      "minInstOwn": 94.126,
       "maxShort": 9.94,
       "analystBuy": false,
-      "minMSPR": -75.38560233333334,
+      "minMSPR": -50.39150433333333,
       "excludeChina": true
     },
     "price_action": {
@@ -24888,7 +24888,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.94,
+        "institutional": 94.13,
         "insider": 0.3,
         "promoter": null,
         "fii": null,
@@ -25257,7 +25257,7 @@
       "minInstOwn": 91.89399499999999,
       "maxShort": 6.6599995,
       "analystBuy": true,
-      "minMSPR": -97.47397333333333,
+      "minMSPR": -89.08657999999998,
       "excludeChina": true
     },
     "price_action": {
@@ -25360,10 +25360,10 @@
       "minGM": 35.338002,
       "sharesFlat": true,
       "maxSBC": 0.5646237552612668,
-      "minInstOwn": 100.88600000000001,
+      "minInstOwn": 99.04899999999999,
       "maxShort": 5.9299998,
       "analystBuy": true,
-      "minMSPR": -19.023115333333333,
+      "minMSPR": -49.340854666666665,
       "excludeChina": true
     },
     "price_action": {
@@ -25418,7 +25418,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 100.89,
+        "institutional": 99.05,
         "insider": 0.34,
         "promoter": null,
         "fii": null,
@@ -25890,10 +25890,10 @@
       "minGM": 100.0,
       "sharesFlat": true,
       "maxSBC": 1.8829113924050633,
-      "minInstOwn": 95.157,
+      "minInstOwn": 96.664,
       "maxShort": 1.59,
       "analystBuy": true,
-      "minMSPR": -41.397452333333334,
+      "minMSPR": -59.18325733333333,
       "excludeChina": true
     },
     "price_action": {
@@ -25948,7 +25948,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 95.16,
+        "institutional": 96.66,
         "insider": 0.81,
         "promoter": null,
         "fii": null,
@@ -26105,7 +26105,7 @@
       "minInstOwn": 105.709,
       "maxShort": 2.94,
       "analystBuy": true,
-      "minMSPR": 60.284769000000004,
+      "minMSPR": 15.840325000000002,
       "excludeChina": true
     },
     "price_action": {
@@ -26211,7 +26211,7 @@
       "minInstOwn": 109.77699999999999,
       "maxShort": 8.83,
       "analystBuy": true,
-      "minMSPR": 47.58461333333333,
+      "minMSPR": -4.4206199999999995,
       "excludeChina": true
     },
     "price_action": {
@@ -26317,7 +26317,7 @@
       "minInstOwn": 103.87200000000001,
       "maxShort": 8.62,
       "analystBuy": true,
-      "minMSPR": 25.661123999999997,
+      "minMSPR": 15.353501333333327,
       "excludeChina": true
     },
     "price_action": {
@@ -26423,7 +26423,7 @@
       "minInstOwn": 104.904,
       "maxShort": 5.86,
       "analystBuy": true,
-      "minMSPR": -34.409081,
+      "minMSPR": -30.831389666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -26635,7 +26635,7 @@
       "minInstOwn": 94.49,
       "maxShort": 5.09,
       "analystBuy": true,
-      "minMSPR": -5.277617666666667,
+      "minMSPR": -34.96307633333333,
       "excludeChina": true
     },
     "price_action": {
@@ -26847,7 +26847,7 @@
       "minInstOwn": 102.65200000000002,
       "maxShort": 16.510001,
       "analystBuy": true,
-      "minMSPR": -35.020998666666664,
+      "minMSPR": -4.051998333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -27056,10 +27056,10 @@
       "minGM": 42.821,
       "sharesFlat": true,
       "maxSBC": 0.692728959991635,
-      "minInstOwn": 102.93900000000001,
+      "minInstOwn": 105.79799999999999,
       "maxShort": 4.33,
       "analystBuy": true,
-      "minMSPR": 22.222222666666667,
+      "minMSPR": 12.652622666666668,
       "excludeChina": true
     },
     "price_action": {
@@ -27114,7 +27114,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 102.94,
+        "institutional": 105.8,
         "insider": 0.21,
         "promoter": null,
         "fii": null,
@@ -27374,10 +27374,10 @@
       "minGM": 69.629997,
       "sharesFlat": true,
       "maxSBC": 2.399131567841414,
-      "minInstOwn": 115.499,
+      "minInstOwn": 120.172,
       "maxShort": 21.64,
       "analystBuy": false,
-      "minMSPR": 25.149201333333334,
+      "minMSPR": -16.029776666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -27432,7 +27432,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 115.5,
+        "institutional": 120.17,
         "insider": 3.76,
         "promoter": null,
         "fii": null,
@@ -27480,10 +27480,10 @@
       "minGM": 44.162,
       "sharesFlat": true,
       "maxSBC": 0.4300673148840688,
-      "minInstOwn": 86.976,
+      "minInstOwn": 86.884004,
       "maxShort": 3.1400003,
       "analystBuy": false,
-      "minMSPR": 61.327753066666666,
+      "minMSPR": 95.18822466666666,
       "excludeChina": true
     },
     "price_action": {
@@ -27538,7 +27538,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 86.98,
+        "institutional": 86.88,
         "insider": 0.37,
         "promoter": null,
         "fii": null,
@@ -27586,7 +27586,7 @@
       "minGM": 29.520000000000003,
       "sharesFlat": true,
       "maxSBC": 1.2544887174420976,
-      "minInstOwn": 96.987,
+      "minInstOwn": 98.175,
       "maxShort": 5.3400002,
       "analystBuy": true,
       "minMSPR": 10.577051666666668,
@@ -27644,7 +27644,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 96.99,
+        "institutional": 98.17,
         "insider": 0.61,
         "promoter": null,
         "fii": null,
@@ -27695,7 +27695,7 @@
       "minInstOwn": 95.967,
       "maxShort": 5.1499999999999995,
       "analystBuy": true,
-      "minMSPR": 21.479290000000002,
+      "minMSPR": -45.187376666666665,
       "excludeChina": true
     },
     "price_action": {
@@ -27904,7 +27904,7 @@
       "minGM": 9.2259996,
       "sharesFlat": true,
       "maxSBC": 0.35903630628816857,
-      "minInstOwn": 100.60500000000002,
+      "minInstOwn": 99.272,
       "maxShort": 3.92,
       "analystBuy": false,
       "minMSPR": -80.6057,
@@ -27962,7 +27962,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 100.61,
+        "institutional": 99.27,
         "insider": 1.19,
         "promoter": null,
         "fii": null,
@@ -28225,7 +28225,7 @@
       "minInstOwn": 77.237,
       "maxShort": 1.17,
       "analystBuy": true,
-      "minMSPR": -27.441275666666666,
+      "minMSPR": -35.29136233333333,
       "excludeChina": true
     },
     "price_action": {
@@ -28328,10 +28328,10 @@
       "minGM": 0,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 75.705004,
+      "minInstOwn": 75.932,
       "maxShort": 1.0699999999999998,
       "analystBuy": true,
-      "minMSPR": -5.428805999999999,
+      "minMSPR": -34.52017333333333,
       "excludeChina": true
     },
     "price_action": {
@@ -28386,7 +28386,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 75.71,
+        "institutional": 75.93,
         "insider": 0.39,
         "promoter": null,
         "fii": null,
@@ -28540,7 +28540,7 @@
       "minGM": 0,
       "sharesFlat": true,
       "maxSBC": 1.8119423472889498,
-      "minInstOwn": 91.397005,
+      "minInstOwn": 90.253997,
       "maxShort": 0.01,
       "analystBuy": true,
       "minMSPR": -74.45579933333333,
@@ -28598,7 +28598,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 91.4,
+        "institutional": 90.25,
         "insider": 0.3,
         "promoter": null,
         "fii": null,
@@ -28858,7 +28858,7 @@
       "minGM": 68.93299999999999,
       "sharesFlat": true,
       "maxSBC": 1.5524859400144666,
-      "minInstOwn": 104.40898999999999,
+      "minInstOwn": 104.22800000000001,
       "maxShort": 5.75,
       "analystBuy": true,
       "minMSPR": -18.6247175,
@@ -28916,7 +28916,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 104.41,
+        "institutional": 104.23,
         "insider": 2.21,
         "promoter": null,
         "fii": null,
@@ -29073,7 +29073,7 @@
       "minInstOwn": 93.948996,
       "maxShort": 2.31,
       "analystBuy": true,
-      "minMSPR": -100.0,
+      "minMSPR": -63.94323166666666,
       "excludeChina": true
     },
     "price_action": {
@@ -29282,7 +29282,7 @@
       "minGM": 49.407002,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 70.651,
+      "minInstOwn": 70.857,
       "maxShort": 2.34,
       "analystBuy": true,
       "minMSPR": -62.764434,
@@ -29340,7 +29340,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 70.65,
+        "institutional": 70.86,
         "insider": 12.7,
         "promoter": null,
         "fii": null,
@@ -29391,7 +29391,7 @@
       "minInstOwn": 68.586,
       "maxShort": 1.05,
       "analystBuy": true,
-      "minMSPR": -42.820411666666665,
+      "minMSPR": -37.72574133333333,
       "excludeChina": true
     },
     "price_action": {
@@ -29600,7 +29600,7 @@
       "minGM": 58.437,
       "sharesFlat": true,
       "maxSBC": 0.899233007140968,
-      "minInstOwn": 97.443,
+      "minInstOwn": 95.89800000000001,
       "maxShort": 3.82,
       "analystBuy": false,
       "minMSPR": 7.023514333333334,
@@ -29658,7 +29658,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 97.44,
+        "institutional": 95.9,
         "insider": 0.07,
         "promoter": null,
         "fii": null,
@@ -29706,7 +29706,7 @@
       "minGM": 36.290002,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 62.041999999999994,
+      "minInstOwn": 62.165000000000006,
       "maxShort": 2.6300002,
       "analystBuy": false,
       "minMSPR": 4.302170666666669,
@@ -29735,7 +29735,7 @@
     "earnings_surprises": null,
     "ownership": {
       "current": {
-        "institutional": 62.04,
+        "institutional": 62.17,
         "insider": 20.07,
         "promoter": null,
         "fii": null,
@@ -29998,7 +29998,7 @@
       "minInstOwn": 102.416,
       "maxShort": 2.5999999,
       "analystBuy": true,
-      "minMSPR": -58.78917766666667,
+      "minMSPR": -67.35178566666667,
       "excludeChina": true
     },
     "price_action": {
@@ -30210,7 +30210,7 @@
       "minInstOwn": 79.365,
       "maxShort": 7.01,
       "analystBuy": true,
-      "minMSPR": 51.65339766666667,
+      "minMSPR": 2.905441000000001,
       "excludeChina": true
     },
     "price_action": {
@@ -30525,10 +30525,10 @@
       "minGM": 83.399004,
       "sharesFlat": true,
       "maxSBC": 0.960432040994799,
-      "minInstOwn": 85.55199999999999,
+      "minInstOwn": 85.572,
       "maxShort": 1.0199999,
       "analystBuy": true,
-      "minMSPR": -5.096521333333333,
+      "minMSPR": -25.378465333333335,
       "excludeChina": true
     },
     "price_action": {
@@ -30546,9 +30546,9 @@
       "pe_current": 39.68,
       "pe_5y_avg": 38.5,
       "pe_vs_avg_pct": 3.07,
-      "pb_current": 33.8,
+      "pb_current": 31.06,
       "pb_5y_avg": 34.68,
-      "pb_vs_avg_pct": -2.54,
+      "pb_vs_avg_pct": -10.45,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -30583,7 +30583,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 85.55,
+        "institutional": 85.57,
         "insider": 0.16,
         "promoter": null,
         "fii": null,
@@ -30631,10 +30631,10 @@
       "minGM": 11.798,
       "sharesFlat": true,
       "maxSBC": 0.4050740859183456,
-      "minInstOwn": 79.629,
+      "minInstOwn": 79.219,
       "maxShort": 1.4099999,
       "analystBuy": false,
-      "minMSPR": -44.768856666666665,
+      "minMSPR": -78.10219,
       "excludeChina": true
     },
     "price_action": {
@@ -30689,8 +30689,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 79.63,
-        "insider": 0.1,
+        "institutional": 79.22,
+        "insider": 0.11,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -30952,7 +30952,7 @@
       "minInstOwn": 89.074,
       "maxShort": 2.41,
       "analystBuy": true,
-      "minMSPR": -81.529709,
+      "minMSPR": -60.65070233333333,
       "excludeChina": true
     },
     "price_action": {
@@ -30970,9 +30970,9 @@
       "pe_current": 57.8,
       "pe_5y_avg": 59.53,
       "pe_vs_avg_pct": -2.9,
-      "pb_current": 39.27,
+      "pb_current": 33.35,
       "pb_5y_avg": 26.29,
-      "pb_vs_avg_pct": 49.36,
+      "pb_vs_avg_pct": 26.84,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -31055,7 +31055,7 @@
       "minGM": 55.69499999999999,
       "sharesFlat": true,
       "maxSBC": 0.5602561562156612,
-      "minInstOwn": 78.769,
+      "minInstOwn": 78.635,
       "maxShort": 9.1000006,
       "analystBuy": false,
       "minMSPR": 78.42091533333333,
@@ -31113,7 +31113,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 78.77,
+        "institutional": 78.64,
         "insider": 4.42,
         "promoter": null,
         "fii": null,
@@ -31164,7 +31164,7 @@
       "minInstOwn": 93.72799400000001,
       "maxShort": 8.8999994,
       "analystBuy": false,
-      "minMSPR": 29.578821666666666,
+      "minMSPR": 33.333333333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -31479,10 +31479,10 @@
       "minGM": 25.777,
       "sharesFlat": true,
       "maxSBC": 0.6159140486050659,
-      "minInstOwn": 86.947,
+      "minInstOwn": 86.207,
       "maxShort": 15.619999000000002,
       "analystBuy": true,
-      "minMSPR": -22.418381,
+      "minMSPR": -41.89019666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -31537,7 +31537,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 86.95,
+        "institutional": 86.21,
         "insider": 32.41,
         "promoter": null,
         "fii": null,
@@ -31772,7 +31772,7 @@
   },
   {
     "ticker": "MAR",
-    "name": "Marriott International, Inc.",
+    "name": "Marriot International Class A Common Stock",
     "livePrice": 356.72,
     "prevClose": 352.5299987792969,
     "metrics": {
@@ -32009,10 +32009,10 @@
       "minGM": 57.382,
       "sharesFlat": true,
       "maxSBC": 0.6137251255346847,
-      "minInstOwn": 77.472,
+      "minInstOwn": 77.00099999999999,
       "maxShort": 1.9299999,
       "analystBuy": true,
-      "minMSPR": -55.47477,
+      "minMSPR": -47.720133000000004,
       "excludeChina": true
     },
     "price_action": {
@@ -32067,7 +32067,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 77.47,
+        "institutional": 77.0,
         "insider": 0.25,
         "promoter": null,
         "fii": null,
@@ -32224,7 +32224,7 @@
       "minInstOwn": 94.391,
       "maxShort": 3.1,
       "analystBuy": true,
-      "minMSPR": -40.40839666666667,
+      "minMSPR": -46.888693999999994,
       "excludeChina": true
     },
     "price_action": {
@@ -32963,7 +32963,7 @@
       "minGM": 44.157000000000004,
       "sharesFlat": true,
       "maxSBC": 0.515866320539606,
-      "minInstOwn": 69.958997,
+      "minInstOwn": 67.97899600000001,
       "maxShort": 16.690001,
       "analystBuy": true,
       "minMSPR": 34.44332933333333,
@@ -33021,8 +33021,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 69.96,
-        "insider": 27.87,
+        "institutional": 67.98,
+        "insider": 27.88,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -33072,7 +33072,7 @@
       "minInstOwn": 97.024,
       "maxShort": 0,
       "analystBuy": true,
-      "minMSPR": 100.0,
+      "minMSPR": 55.562402,
       "excludeChina": true
     },
     "price_action": {
@@ -33080,7 +33080,7 @@
       "ret_1m": 3.35,
       "ret_3m": 18.61,
       "ret_6m": -22.32,
-      "ret_1y": -20.09,
+      "ret_1y": -20.08,
       "pct_from_52w_high": -32.6,
       "pct_from_52w_low": 20.98,
       "fifty_two_week_high": 81.11,
@@ -33281,7 +33281,7 @@
       "minGM": 39.408,
       "sharesFlat": true,
       "maxSBC": 0.9018759018759018,
-      "minInstOwn": 76.585996,
+      "minInstOwn": 76.967,
       "maxShort": 1.9299999,
       "analystBuy": true,
       "minMSPR": -10.167729,
@@ -33339,7 +33339,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 76.59,
+        "institutional": 76.97,
         "insider": 0.1,
         "promoter": null,
         "fii": null,
@@ -33814,7 +33814,7 @@
       "minInstOwn": 100.07600000000001,
       "maxShort": 5.81,
       "analystBuy": false,
-      "minMSPR": -61.228324316666665,
+      "minMSPR": -61.261445346666676,
       "excludeChina": true
     },
     "price_action": {
@@ -33920,7 +33920,7 @@
       "minInstOwn": 82.779,
       "maxShort": 1.15,
       "analystBuy": true,
-      "minMSPR": 60.202738000000004,
+      "minMSPR": 50.735582666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -33938,9 +33938,9 @@
       "pe_current": 108.67,
       "pe_5y_avg": 61.89,
       "pe_vs_avg_pct": 75.59,
-      "pb_current": 7.31,
+      "pb_current": 8.0,
       "pb_5y_avg": 5.81,
-      "pb_vs_avg_pct": 25.86,
+      "pb_vs_avg_pct": 37.64,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -34026,7 +34026,7 @@
       "minInstOwn": 80.406,
       "maxShort": 15.229999999999999,
       "analystBuy": false,
-      "minMSPR": -4.215785666666666,
+      "minMSPR": -12.750963666666665,
       "excludeChina": true
     },
     "price_action": {
@@ -34132,7 +34132,7 @@
       "minInstOwn": 96.918,
       "maxShort": 1.5800001000000001,
       "analystBuy": false,
-      "minMSPR": -0.28319777999999945,
+      "minMSPR": -66.94986444666667,
       "excludeChina": true
     },
     "price_action": {
@@ -34662,7 +34662,7 @@
       "minInstOwn": 91.718,
       "maxShort": 2.7199999999999998,
       "analystBuy": true,
-      "minMSPR": 100.0,
+      "minMSPR": 48.84944166666667,
       "excludeChina": true
     },
     "price_action": {
@@ -34765,7 +34765,7 @@
       "minGM": 67.600995,
       "sharesFlat": false,
       "maxSBC": 11.183007042681457,
-      "minInstOwn": 59.241,
+      "minInstOwn": 59.94800300000001,
       "maxShort": 8.92,
       "analystBuy": true,
       "minMSPR": -23.785483666666664,
@@ -34823,7 +34823,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 59.24,
+        "institutional": 59.95,
         "insider": 0.22,
         "promoter": null,
         "fii": null,
@@ -35401,7 +35401,7 @@
       "minGM": 55.218,
       "sharesFlat": true,
       "maxSBC": 0.6785861022385389,
-      "minInstOwn": 77.669,
+      "minInstOwn": 78.09700000000001,
       "maxShort": 3.39,
       "analystBuy": false,
       "minMSPR": -12.333333333333334,
@@ -35459,7 +35459,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 77.67,
+        "institutional": 78.1,
         "insider": 5.59,
         "promoter": null,
         "fii": null,
@@ -35719,10 +35719,10 @@
       "minGM": 49.118,
       "sharesFlat": false,
       "maxSBC": 0.8154587044571331,
-      "minInstOwn": 84.556997,
+      "minInstOwn": 84.099,
       "maxShort": 2.23,
       "analystBuy": true,
-      "minMSPR": 8.302552666666669,
+      "minMSPR": 7.9825326666666685,
       "excludeChina": true
     },
     "price_action": {
@@ -35777,7 +35777,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 84.56,
+        "institutional": 84.1,
         "insider": 0.57,
         "promoter": null,
         "fii": null,
@@ -36146,7 +36146,7 @@
       "minInstOwn": 85.233,
       "maxShort": 3.56,
       "analystBuy": true,
-      "minMSPR": 59.863279999999996,
+      "minMSPR": 21.199951,
       "excludeChina": true
     },
     "price_action": {
@@ -36358,7 +36358,7 @@
       "minInstOwn": 77.858,
       "maxShort": 3.4000000000000004,
       "analystBuy": false,
-      "minMSPR": 61.22370266666667,
+      "minMSPR": 100.0,
       "excludeChina": true
     },
     "price_action": {
@@ -36461,7 +36461,7 @@
       "minGM": 70.744,
       "sharesFlat": true,
       "maxSBC": 5.516245487364621,
-      "minInstOwn": 101.758,
+      "minInstOwn": 101.803,
       "maxShort": 7.7700000000000005,
       "analystBuy": true,
       "minMSPR": 6.672310666666665,
@@ -36519,7 +36519,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 101.76,
+        "institutional": 101.8,
         "insider": 0.39,
         "promoter": null,
         "fii": null,
@@ -36779,7 +36779,7 @@
       "minGM": 74.14499500000001,
       "sharesFlat": true,
       "maxSBC": 2.9573303448211985,
-      "minInstOwn": 66.16199999999999,
+      "minInstOwn": 66.175,
       "maxShort": 1.26,
       "analystBuy": true,
       "minMSPR": -98.61364666666667,
@@ -36837,7 +36837,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 66.16,
+        "institutional": 66.17,
         "insider": 3.99,
         "promoter": null,
         "fii": null,
@@ -36885,10 +36885,10 @@
       "minGM": 21.84,
       "sharesFlat": true,
       "maxSBC": 0.6692519564932563,
-      "minInstOwn": 90.389,
+      "minInstOwn": 91.40599999999999,
       "maxShort": 6.54,
       "analystBuy": false,
-      "minMSPR": 31.570566666666668,
+      "minMSPR": 31.570566666666664,
       "excludeChina": true
     },
     "price_action": {
@@ -36943,7 +36943,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 90.39,
+        "institutional": 91.41,
         "insider": 5.55,
         "promoter": null,
         "fii": null,
@@ -37839,7 +37839,7 @@
       "minGM": 65.822,
       "sharesFlat": true,
       "maxSBC": 7.142539008566295,
-      "minInstOwn": 44.696000000000005,
+      "minInstOwn": 45.943,
       "maxShort": 2.92,
       "analystBuy": true,
       "minMSPR": 52.87137266666667,
@@ -37897,7 +37897,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 44.7,
+        "institutional": 45.94,
         "insider": 40.5,
         "promoter": null,
         "fii": null,
@@ -37945,10 +37945,10 @@
       "minGM": 51.636004,
       "sharesFlat": false,
       "maxSBC": 0.19747506353618877,
-      "minInstOwn": 89.642,
+      "minInstOwn": 90.245,
       "maxShort": 3.09,
       "analystBuy": true,
-      "minMSPR": 14.778546666666665,
+      "minMSPR": 32.960365333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -38003,7 +38003,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 89.64,
+        "institutional": 90.25,
         "insider": 0.5,
         "promoter": null,
         "fii": null,
@@ -38263,7 +38263,7 @@
       "minGM": 71.963996,
       "sharesFlat": false,
       "maxSBC": 14.04435287100797,
-      "minInstOwn": 84.769994,
+      "minInstOwn": 85.210997,
       "maxShort": 2.5899999,
       "analystBuy": true,
       "minMSPR": -100.0,
@@ -38321,7 +38321,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 84.77,
+        "institutional": 85.21,
         "insider": 0.76,
         "promoter": null,
         "fii": null,
@@ -38475,7 +38475,7 @@
       "minGM": 13.715,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 76.502997,
+      "minInstOwn": 76.43900500000001,
       "maxShort": 2.69,
       "analystBuy": true,
       "minMSPR": 24.037100389999996,
@@ -38533,7 +38533,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 76.5,
+        "institutional": 76.44,
         "insider": 1.86,
         "promoter": null,
         "fii": null,
@@ -38710,7 +38710,7 @@
       "pe_vs_avg_pct": 571.91,
       "pb_current": 1.9,
       "pb_5y_avg": 0.39,
-      "pb_vs_avg_pct": 388.28,
+      "pb_vs_avg_pct": 386.14,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -38899,7 +38899,7 @@
       "minGM": 54.171,
       "sharesFlat": true,
       "maxSBC": 0.30662762842693636,
-      "minInstOwn": 81.057,
+      "minInstOwn": 81.789,
       "maxShort": 2.4,
       "analystBuy": false,
       "minMSPR": 66.84879019,
@@ -38957,7 +38957,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 81.06,
+        "institutional": 81.79,
         "insider": 0.18,
         "promoter": null,
         "fii": null,
@@ -39008,7 +39008,7 @@
       "minInstOwn": 69.124,
       "maxShort": 2.8299998,
       "analystBuy": true,
-      "minMSPR": 32.168973333333334,
+      "minMSPR": 33.04606666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -39114,7 +39114,7 @@
       "minInstOwn": 81.38,
       "maxShort": 4.52,
       "analystBuy": false,
-      "minMSPR": -27.922467866666665,
+      "minMSPR": -5.7002452,
       "excludeChina": true
     },
     "price_action": {
@@ -39220,7 +39220,7 @@
       "minInstOwn": 71.988,
       "maxShort": 1.17,
       "analystBuy": true,
-      "minMSPR": 55.09058266666667,
+      "minMSPR": 100.0,
       "excludeChina": true
     },
     "price_action": {
@@ -39323,10 +39323,10 @@
       "minGM": 18.521,
       "sharesFlat": true,
       "maxSBC": 0.15062131291577757,
-      "minInstOwn": 90.494,
+      "minInstOwn": 89.606005,
       "maxShort": 1.39,
       "analystBuy": false,
-      "minMSPR": 6.2845026666666675,
+      "minMSPR": 5.854032,
       "excludeChina": true
     },
     "price_action": {
@@ -39381,7 +39381,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 90.49,
+        "institutional": 89.61,
         "insider": 0.25,
         "promoter": null,
         "fii": null,
@@ -39429,7 +39429,7 @@
       "minGM": 37.685,
       "sharesFlat": true,
       "maxSBC": 0.801007556675063,
-      "minInstOwn": 91.444,
+      "minInstOwn": 91.419,
       "maxShort": 1.23000005,
       "analystBuy": true,
       "minMSPR": -8.996394666666665,
@@ -39450,9 +39450,9 @@
       "pe_current": 37.03,
       "pe_5y_avg": 33.93,
       "pe_vs_avg_pct": 9.15,
-      "pb_current": 9.11,
+      "pb_current": 8.64,
       "pb_5y_avg": 7.43,
-      "pb_vs_avg_pct": 22.65,
+      "pb_vs_avg_pct": 16.33,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -39487,7 +39487,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 91.44,
+        "institutional": 91.42,
         "insider": 0.19,
         "promoter": null,
         "fii": null,
@@ -39747,7 +39747,7 @@
       "minGM": 75.54900599999999,
       "sharesFlat": true,
       "maxSBC": 2.109935385461439,
-      "minInstOwn": 96.097,
+      "minInstOwn": 96.606004,
       "maxShort": 2.23,
       "analystBuy": true,
       "minMSPR": -39.885381,
@@ -39805,7 +39805,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 96.1,
+        "institutional": 96.61,
         "insider": 0.26,
         "promoter": null,
         "fii": null,
@@ -39851,12 +39851,12 @@
       "maxPEGUS": 2.34,
       "maxBetaUS": 1.563,
       "minGM": 84.796,
-      "sharesFlat": false,
+      "sharesFlat": true,
       "maxSBC": 15.284130341422955,
       "minInstOwn": 64.807,
       "maxShort": 3.17,
       "analystBuy": true,
-      "minMSPR": -38.74435566666667,
+      "minMSPR": -62.34503000000001,
       "excludeChina": true
     },
     "price_action": {
@@ -39959,7 +39959,7 @@
       "minGM": 67.48100500000001,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 84.678,
+      "minInstOwn": 84.529996,
       "maxShort": 1.04,
       "analystBuy": false,
       "minMSPR": 9.52398233333333,
@@ -40017,7 +40017,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 84.68,
+        "institutional": 84.53,
         "insider": 0.16,
         "promoter": null,
         "fii": null,
@@ -40068,7 +40068,7 @@
       "minInstOwn": 85.726,
       "maxShort": 1.8099998999999998,
       "analystBuy": true,
-      "minMSPR": -64.11373266666666,
+      "minMSPR": -64.11373266666668,
       "excludeChina": true
     },
     "price_action": {
@@ -40171,7 +40171,7 @@
       "minGM": 41.388000000000005,
       "sharesFlat": true,
       "maxSBC": 0.8860153256704981,
-      "minInstOwn": 101.26299999999999,
+      "minInstOwn": 100.67600000000002,
       "maxShort": 4.81,
       "analystBuy": false,
       "minMSPR": -33.333333333333336,
@@ -40229,7 +40229,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 101.26,
+        "institutional": 100.68,
         "insider": 1.01,
         "promoter": null,
         "fii": null,
@@ -40280,7 +40280,7 @@
       "minInstOwn": 110.531,
       "maxShort": 11.05,
       "analystBuy": false,
-      "minMSPR": 35.215887333333335,
+      "minMSPR": -10.563123333333332,
       "excludeChina": true
     },
     "price_action": {
@@ -40492,7 +40492,7 @@
       "minInstOwn": 112.09400000000001,
       "maxShort": 11.62,
       "analystBuy": false,
-      "minMSPR": 64.70647073333333,
+      "minMSPR": 34.579904066666664,
       "excludeChina": true
     },
     "price_action": {
@@ -40913,10 +40913,10 @@
       "minGM": 74.42,
       "sharesFlat": false,
       "maxSBC": 0.8271365119349401,
-      "minInstOwn": 83.491,
+      "minInstOwn": 84.057,
       "maxShort": 3.8699999999999997,
       "analystBuy": false,
-      "minMSPR": 12.239649,
+      "minMSPR": -54.427017666666664,
       "excludeChina": true
     },
     "price_action": {
@@ -40971,7 +40971,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 83.49,
+        "institutional": 84.06,
         "insider": 9.56,
         "promoter": null,
         "fii": null,
@@ -41022,7 +41022,7 @@
       "minInstOwn": 31.755,
       "maxShort": 16.08,
       "analystBuy": false,
-      "minMSPR": -6.952146666666668,
+      "minMSPR": -6.9582896666666665,
       "excludeChina": true
     },
     "price_action": {
@@ -41128,7 +41128,7 @@
       "minInstOwn": 80.537003,
       "maxShort": 2.1300000999999997,
       "analystBuy": true,
-      "minMSPR": -59.62668233333333,
+      "minMSPR": -37.52417766666667,
       "excludeChina": true
     },
     "price_action": {
@@ -41146,9 +41146,9 @@
       "pe_current": 13.33,
       "pe_5y_avg": 15.33,
       "pe_vs_avg_pct": -13.02,
-      "pb_current": 3.28,
+      "pb_current": 2.96,
       "pb_5y_avg": 2.28,
-      "pb_vs_avg_pct": 44.0,
+      "pb_vs_avg_pct": 29.77,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -41231,7 +41231,7 @@
       "minGM": 84.501,
       "sharesFlat": true,
       "maxSBC": 7.892923037383554,
-      "minInstOwn": 113.23700000000001,
+      "minInstOwn": 108.138,
       "maxShort": 10.13,
       "analystBuy": true,
       "minMSPR": -6.220876666666666,
@@ -41289,8 +41289,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 113.24,
-        "insider": 0.34,
+        "institutional": 108.14,
+        "insider": 0.35,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -41870,7 +41870,7 @@
       "minInstOwn": 103.579,
       "maxShort": 3.95,
       "analystBuy": true,
-      "minMSPR": -86.47772966666666,
+      "minMSPR": -25.904217999999997,
       "excludeChina": true
     },
     "price_action": {
@@ -41976,7 +41976,7 @@
       "minInstOwn": 93.41199999999999,
       "maxShort": 3.4799999999999995,
       "analystBuy": true,
-      "minMSPR": -100.0,
+      "minMSPR": -77.77777733333333,
       "excludeChina": true
     },
     "price_action": {
@@ -42079,7 +42079,7 @@
       "minGM": 0,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 89.582,
+      "minInstOwn": 87.527,
       "maxShort": 8.08,
       "analystBuy": false,
       "minMSPR": 11.653790999999998,
@@ -42137,7 +42137,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 89.58,
+        "institutional": 87.53,
         "insider": 0.26,
         "promoter": null,
         "fii": null,
@@ -42185,7 +42185,7 @@
       "minGM": 93.156,
       "sharesFlat": true,
       "maxSBC": 1.8349949429273225,
-      "minInstOwn": 80.903,
+      "minInstOwn": 81.257004,
       "maxShort": 5.3100000000000005,
       "analystBuy": false,
       "minMSPR": -57.067306,
@@ -42243,8 +42243,8 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 80.9,
-        "insider": 10.55,
+        "institutional": 81.26,
+        "insider": 10.56,
         "promoter": null,
         "fii": null,
         "dii": null,
@@ -42400,7 +42400,7 @@
       "minInstOwn": 71.482,
       "maxShort": 12.45,
       "analystBuy": true,
-      "minMSPR": -55.94774633333333,
+      "minMSPR": -41.464076999999996,
       "excludeChina": true
     },
     "price_action": {
@@ -42503,7 +42503,7 @@
       "minGM": 49.091998,
       "sharesFlat": true,
       "maxSBC": 1.0189403020858308,
-      "minInstOwn": 93.994004,
+      "minInstOwn": 93.245006,
       "maxShort": 3.95,
       "analystBuy": true,
       "minMSPR": -26.6911455,
@@ -42561,7 +42561,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 93.99,
+        "institutional": 93.25,
         "insider": 0.17,
         "promoter": null,
         "fii": null,
@@ -42609,7 +42609,7 @@
       "minGM": 52.366,
       "sharesFlat": true,
       "maxSBC": 1.055742412358251,
-      "minInstOwn": 59.056,
+      "minInstOwn": 61.373999999999995,
       "maxShort": 6.52,
       "analystBuy": false,
       "minMSPR": 60.66851866666667,
@@ -42630,9 +42630,9 @@
       "pe_current": 32.91,
       "pe_5y_avg": 39.91,
       "pe_vs_avg_pct": -17.54,
-      "pb_current": 12.61,
+      "pb_current": 12.18,
       "pb_5y_avg": 17.5,
-      "pb_vs_avg_pct": -27.92,
+      "pb_vs_avg_pct": -30.37,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -42667,7 +42667,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 59.06,
+        "institutional": 61.37,
         "insider": 38.44,
         "promoter": null,
         "fii": null,
@@ -42715,10 +42715,10 @@
       "minGM": 69.525003,
       "sharesFlat": true,
       "maxSBC": 2.104397342613097,
-      "minInstOwn": 109.377,
+      "minInstOwn": 108.127,
       "maxShort": 6.25,
       "analystBuy": true,
-      "minMSPR": 91.03216333333334,
+      "minMSPR": 35.08878000000001,
       "excludeChina": true
     },
     "price_action": {
@@ -42773,7 +42773,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 109.38,
+        "institutional": 108.13,
         "insider": 0.39,
         "promoter": null,
         "fii": null,
@@ -43556,7 +43556,7 @@
       "minInstOwn": 85.407996,
       "maxShort": 0,
       "analystBuy": true,
-      "minMSPR": -77.91571,
+      "minMSPR": -70.98774666666667,
       "excludeChina": true
     },
     "price_action": {
@@ -43768,7 +43768,7 @@
       "minInstOwn": 85.879,
       "maxShort": 2.5999999,
       "analystBuy": true,
-      "minMSPR": 75.46021466666667,
+      "minMSPR": 34.077196666666666,
       "excludeChina": true
     },
     "price_action": {
@@ -44086,7 +44086,7 @@
       "minInstOwn": 70.475996,
       "maxShort": 18.450001,
       "analystBuy": false,
-      "minMSPR": -20.362284666666667,
+      "minMSPR": -0.6007833333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -44104,9 +44104,9 @@
       "pe_current": 20.97,
       "pe_5y_avg": 17.33,
       "pe_vs_avg_pct": 20.99,
-      "pb_current": 3.16,
+      "pb_current": 2.38,
       "pb_5y_avg": 3.72,
-      "pb_vs_avg_pct": -14.98,
+      "pb_vs_avg_pct": -35.92,
       "period_years": 0.7
     },
     "earnings_surprises": [
@@ -44185,7 +44185,7 @@
       "minInstOwn": 99.919,
       "maxShort": 6.890000000000001,
       "analystBuy": false,
-      "minMSPR": -32.40590566666666,
+      "minMSPR": -34.584125666666665,
       "excludeChina": true
     },
     "price_action": {
@@ -44195,7 +44195,7 @@
       "ret_6m": 8.02,
       "ret_1y": 24.23,
       "pct_from_52w_high": -3.76,
-      "pct_from_52w_low": 56.03,
+      "pct_from_52w_low": 56.02,
       "fifty_two_week_high": 419.31,
       "fifty_two_week_low": 258.65
     },
@@ -45033,7 +45033,7 @@
       "minInstOwn": 100.505,
       "maxShort": 3.25,
       "analystBuy": true,
-      "minMSPR": 8.907245333333334,
+      "minMSPR": 32.256649333333336,
       "excludeChina": true
     },
     "price_action": {
@@ -45351,7 +45351,7 @@
       "minInstOwn": 86.94899699999999,
       "maxShort": 4.0599998,
       "analystBuy": true,
-      "minMSPR": -47.521544000000006,
+      "minMSPR": -50.19813033333333,
       "excludeChina": true
     },
     "price_action": {
@@ -45666,10 +45666,10 @@
       "minGM": 32.213002,
       "sharesFlat": true,
       "maxSBC": 0.6219267170729128,
-      "minInstOwn": 101.929,
+      "minInstOwn": 101.738,
       "maxShort": 6.22,
       "analystBuy": true,
-      "minMSPR": 60.68621433333333,
+      "minMSPR": -5.980452333333332,
       "excludeChina": true
     },
     "price_action": {
@@ -45724,7 +45724,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 101.93,
+        "institutional": 101.74,
         "insider": 0.31,
         "promoter": null,
         "fii": null,
@@ -46093,7 +46093,7 @@
       "minInstOwn": 91.166,
       "maxShort": 3.63,
       "analystBuy": true,
-      "minMSPR": 81.059038,
+      "minMSPR": 30.07983466666666,
       "excludeChina": true
     },
     "price_action": {
@@ -46517,7 +46517,7 @@
       "minInstOwn": 100.679,
       "maxShort": 3.15,
       "analystBuy": true,
-      "minMSPR": 30.916169,
+      "minMSPR": -11.675353999999999,
       "excludeChina": true
     },
     "price_action": {
@@ -46623,7 +46623,7 @@
       "minInstOwn": 115.60299,
       "maxShort": 6.800000000000001,
       "analystBuy": false,
-      "minMSPR": -25.19550166666667,
+      "minMSPR": -25.193449333333334,
       "excludeChina": true
     },
     "price_action": {
@@ -46941,7 +46941,7 @@
       "minInstOwn": 78.37999500000001,
       "maxShort": 2.27,
       "analystBuy": false,
-      "minMSPR": -61.197732,
+      "minMSPR": -61.8528,
       "excludeChina": true
     },
     "price_action": {
@@ -47259,7 +47259,7 @@
       "minInstOwn": 103.779,
       "maxShort": 12.109999,
       "analystBuy": true,
-      "minMSPR": -7.630853999999999,
+      "minMSPR": -67.77912400000001,
       "excludeChina": true
     },
     "price_action": {
@@ -47365,7 +47365,7 @@
       "minInstOwn": 98.777,
       "maxShort": 1.35,
       "analystBuy": true,
-      "minMSPR": -34.38527166666667,
+      "minMSPR": -14.064282666666669,
       "excludeChina": true
     },
     "price_action": {
@@ -47892,7 +47892,7 @@
       "minGM": 39.658,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 29.702,
+      "minInstOwn": 28.745001999999996,
       "maxShort": 0,
       "analystBuy": true,
       "minMSPR": 0.0,
@@ -47950,7 +47950,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 29.7,
+        "institutional": 28.75,
         "insider": 68.43,
         "promoter": null,
         "fii": null,
@@ -48213,7 +48213,7 @@
       "minInstOwn": 91.530997,
       "maxShort": 4.01,
       "analystBuy": false,
-      "minMSPR": 10.604622,
+      "minMSPR": 10.708477,
       "excludeChina": true
     },
     "price_action": {
@@ -48316,10 +48316,10 @@
       "minGM": 36.498999999999995,
       "sharesFlat": true,
       "maxSBC": 0.3675781429660799,
-      "minInstOwn": 95.044,
+      "minInstOwn": 96.554,
       "maxShort": 6.36,
       "analystBuy": true,
-      "minMSPR": 100.0,
+      "minMSPR": 99.96733866666666,
       "excludeChina": true
     },
     "price_action": {
@@ -48374,7 +48374,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 95.04,
+        "institutional": 96.55,
         "insider": 0.35,
         "promoter": null,
         "fii": null,
@@ -48634,7 +48634,7 @@
       "minGM": 35.388999999999996,
       "sharesFlat": true,
       "maxSBC": 0.4061551737884523,
-      "minInstOwn": 89.053,
+      "minInstOwn": 91.191,
       "maxShort": 1.4199998999999999,
       "analystBuy": true,
       "minMSPR": 38.898651,
@@ -48692,7 +48692,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 89.05,
+        "institutional": 91.19,
         "insider": 0.27,
         "promoter": null,
         "fii": null,
@@ -48740,7 +48740,7 @@
       "minGM": 76.872003,
       "sharesFlat": true,
       "maxSBC": 16.939878824037972,
-      "minInstOwn": 83.70300499999999,
+      "minInstOwn": 89.58500000000001,
       "maxShort": 20.74,
       "analystBuy": false,
       "minMSPR": 47.92074066666667,
@@ -48798,7 +48798,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 83.7,
+        "institutional": 89.59,
         "insider": 2.31,
         "promoter": null,
         "fii": null,
@@ -48849,7 +48849,7 @@
       "minInstOwn": 98.680997,
       "maxShort": 3.83,
       "analystBuy": true,
-      "minMSPR": -29.175794999999997,
+      "minMSPR": -30.171476333333334,
       "excludeChina": true
     },
     "price_action": {
@@ -49482,7 +49482,7 @@
       "minGM": 66.581,
       "sharesFlat": true,
       "maxSBC": 1.5466762287590439,
-      "minInstOwn": 106.50500000000001,
+      "minInstOwn": 108.37001,
       "maxShort": 3.4799999999999995,
       "analystBuy": true,
       "minMSPR": -94.34117666666667,
@@ -49540,7 +49540,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 106.51,
+        "institutional": 108.37,
         "insider": 0.44,
         "promoter": null,
         "fii": null,
@@ -49803,7 +49803,7 @@
       "minInstOwn": 90.52799999999999,
       "maxShort": 1.8800000000000001,
       "analystBuy": true,
-      "minMSPR": 46.236792,
+      "minMSPR": -6.1428846666666646,
       "excludeChina": true
     },
     "price_action": {
@@ -49906,7 +49906,7 @@
       "minGM": 56.285,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 91.403997,
+      "minInstOwn": 91.827005,
       "maxShort": 4.9200002,
       "analystBuy": true,
       "minMSPR": 34.64437866666667,
@@ -49964,7 +49964,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 91.4,
+        "institutional": 91.83,
         "insider": 0.07,
         "promoter": null,
         "fii": null,
@@ -50224,7 +50224,7 @@
       "minGM": 0,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 84.014,
+      "minInstOwn": 84.49099700000001,
       "maxShort": 0.01,
       "analystBuy": true,
       "minMSPR": -50.782282333333335,
@@ -50282,7 +50282,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 84.01,
+        "institutional": 84.49,
         "insider": 0.12,
         "promoter": null,
         "fii": null,
@@ -50863,7 +50863,7 @@
       "minInstOwn": 100.79399,
       "maxShort": 5.46,
       "analystBuy": true,
-      "minMSPR": 62.19001599999999,
+      "minMSPR": 19.708198666666664,
       "excludeChina": true
     },
     "price_action": {
@@ -51390,7 +51390,7 @@
       "minGM": 38.309,
       "sharesFlat": true,
       "maxSBC": 0.6370504002706054,
-      "minInstOwn": 92.69,
+      "minInstOwn": 92.13,
       "maxShort": 2.9899999999999998,
       "analystBuy": true,
       "minMSPR": -7.212907666666666,
@@ -51411,9 +51411,9 @@
       "pe_current": 24.98,
       "pe_5y_avg": 30.29,
       "pe_vs_avg_pct": -17.53,
-      "pb_current": 16.05,
+      "pb_current": 16.56,
       "pb_5y_avg": 10.93,
-      "pb_vs_avg_pct": 46.8,
+      "pb_vs_avg_pct": 51.48,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -51448,7 +51448,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 92.69,
+        "institutional": 92.13,
         "insider": 0.79,
         "promoter": null,
         "fii": null,
@@ -51602,7 +51602,7 @@
       "minGM": 40.306999999999995,
       "sharesFlat": true,
       "maxSBC": 1.2426660326295988,
-      "minInstOwn": 94.271004,
+      "minInstOwn": 93.291,
       "maxShort": 3.9699999999999998,
       "analystBuy": true,
       "minMSPR": -27.504349333333334,
@@ -51660,7 +51660,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 94.27,
+        "institutional": 93.29,
         "insider": 0.32,
         "promoter": null,
         "fii": null,
@@ -51711,7 +51711,7 @@
       "minInstOwn": 71.366,
       "maxShort": 2.01,
       "analystBuy": true,
-      "minMSPR": 35.133673333333334,
+      "minMSPR": 100.0,
       "excludeChina": true
     },
     "price_action": {
@@ -52029,7 +52029,7 @@
       "minInstOwn": 79.345,
       "maxShort": 2.8800000999999997,
       "analystBuy": false,
-      "minMSPR": -55.486211000000004,
+      "minMSPR": -35.635025999999996,
       "excludeChina": true
     },
     "price_action": {
@@ -52047,9 +52047,9 @@
       "pe_current": null,
       "pe_5y_avg": null,
       "pe_vs_avg_pct": null,
-      "pb_current": 2.15,
+      "pb_current": 2.14,
       "pb_5y_avg": 1.73,
-      "pb_vs_avg_pct": 24.5,
+      "pb_vs_avg_pct": 23.57,
       "period_years": 0
     },
     "earnings_surprises": [
@@ -52221,13 +52221,13 @@
       "maxMcapUS": 175.374270464,
       "positiveEPS": true,
       "minROEUS": 130.853,
-      "minROIC": 20.632,
-      "minOpMargin": 42.861,
-      "maxDEUS": 0.11868000000000001,
+      "minROIC": 20.758,
+      "minOpMargin": 43.608000000000004,
+      "maxDEUS": 0.13436,
       "minCRUS": 1.329,
       "minICRUS": 4.165266106442577,
       "minRevGUS": 43.8,
-      "minEPSGUS": 984.6999999999999,
+      "minEPSGUS": 984.0999999999999,
       "min5YSalesUS": -12.717301067866904,
       "min5YProfitUS": 3.7784970219603364,
       "minFCFY": 0.7292974029862306,
@@ -52344,10 +52344,10 @@
       "minGM": 41.909,
       "sharesFlat": true,
       "maxSBC": null,
-      "minInstOwn": 87.848,
+      "minInstOwn": 87.724996,
       "maxShort": 4.9799999999999995,
       "analystBuy": true,
-      "minMSPR": 51.190977,
+      "minMSPR": -8.283152999999999,
       "excludeChina": true
     },
     "price_action": {
@@ -52402,7 +52402,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 87.85,
+        "institutional": 87.72,
         "insider": 0.15,
         "promoter": null,
         "fii": null,
@@ -52665,7 +52665,7 @@
       "minInstOwn": 88.295996,
       "maxShort": 1.55,
       "analystBuy": true,
-      "minMSPR": -14.080369333333332,
+      "minMSPR": 19.252964000000002,
       "excludeChina": true
     },
     "price_action": {
@@ -52771,7 +52771,7 @@
       "minInstOwn": 91.436994,
       "maxShort": 2.4400001000000002,
       "analystBuy": true,
-      "minMSPR": -81.84686,
+      "minMSPR": -58.338799,
       "excludeChina": true
     },
     "price_action": {
@@ -53086,10 +53086,10 @@
       "minGM": 46.062002,
       "sharesFlat": true,
       "maxSBC": 1.364474326024848,
-      "minInstOwn": 98.032,
+      "minInstOwn": 98.735,
       "maxShort": 4.82,
       "analystBuy": true,
-      "minMSPR": -40.94143233333333,
+      "minMSPR": -46.56360733333333,
       "excludeChina": true
     },
     "price_action": {
@@ -53144,7 +53144,7 @@
     ],
     "ownership": {
       "current": {
-        "institutional": 98.03,
+        "institutional": 98.73,
         "insider": 1.12,
         "promoter": null,
         "fii": null,
@@ -53301,7 +53301,7 @@
       "minInstOwn": 102.468,
       "maxShort": 4.35,
       "analystBuy": true,
-      "minMSPR": 38.331670333333335,
+      "minMSPR": 19.896878666666662,
       "excludeChina": true
     },
     "price_action": {
@@ -53425,9 +53425,9 @@
       "pe_current": 37.21,
       "pe_5y_avg": 41.41,
       "pe_vs_avg_pct": -10.14,
-      "pb_current": 1.88,
+      "pb_current": 1.87,
       "pb_5y_avg": 1.83,
-      "pb_vs_avg_pct": 2.52,
+      "pb_vs_avg_pct": 2.28,
       "period_years": 0.4
     },
     "earnings_surprises": [
@@ -53513,7 +53513,7 @@
       "minInstOwn": 76.0,
       "maxShort": 9.4799995,
       "analystBuy": true,
-      "minMSPR": -97.79029333333334,
+      "minMSPR": -100.0,
       "excludeChina": true
     },
     "price_action": {
@@ -53831,7 +53831,7 @@
       "minInstOwn": 98.199,
       "maxShort": 4.279999999999999,
       "analystBuy": true,
-      "minMSPR": -1.6340980000000016,
+      "minMSPR": 65.03256866666666,
       "excludeChina": true
     },
     "price_action": {
@@ -54467,7 +54467,7 @@
       "minInstOwn": 100.16499999999999,
       "maxShort": 5.8500000000000005,
       "analystBuy": true,
-      "minMSPR": 23.825821,
+      "minMSPR": -19.449901666666666,
       "excludeChina": true
     },
     "price_action": {
