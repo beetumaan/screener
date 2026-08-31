@@ -1,9 +1,9 @@
 {
-  "lastSync": "2026-08-30T15:59:58.323515Z",
+  "lastSync": "2026-08-31T18:44:06.579540Z",
   "counts": {
     "india": 504,
     "us": 516,
-    "mf": 183
+    "mf": 165
   },
   "coverage_v2": {
     "ownership_current": {
@@ -37,135 +37,79 @@
     "us": [],
     "mf": [
       {
-        "ticker": "122639",
-        "error": "timed out"
-      },
-      {
         "ticker": "118955",
-        "error": "timed out"
-      },
-      {
-        "ticker": "120166",
-        "error": "timed out"
-      },
-      {
-        "ticker": "148990",
-        "error": "timed out"
-      },
-      {
-        "ticker": "119718",
-        "error": "timed out"
-      },
-      {
-        "ticker": "120564",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "120662",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "119076",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "151412",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "149094",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "120586",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "120465",
-        "error": "_ssl.c:999: The handshake operation timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "119598",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "119018",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "118632",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "118825",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "118269",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "120152",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "118989",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "127042",
-        "error": "timed out"
-      },
-      {
-        "ticker": "119775",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "118668",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "120505",
-        "error": "timed out"
-      },
-      {
-        "ticker": "119071",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "119716",
-        "error": "timed out"
+        "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
         "ticker": "140228",
-        "error": "timed out"
-      },
-      {
-        "ticker": "118834",
-        "error": "timed out"
-      },
-      {
-        "ticker": "118777",
-        "error": "timed out"
-      },
-      {
-        "ticker": "130503",
-        "error": "timed out"
-      },
-      {
-        "ticker": "125497",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "125354",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "120828",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119212",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -173,15 +117,7 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120591",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
         "ticker": "118278",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "120596",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -193,39 +129,11 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "147481",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "120847",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119242",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "118285",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
         "ticker": "120722",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120468",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
         "ticker": "119727",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "133529",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "120834",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -239,18 +147,6 @@
       {
         "ticker": "119231",
         "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "118784",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "120716",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119063",
-        "error": "The read operation timed out"
       },
       {
         "ticker": "120620",
@@ -301,10 +197,6 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118758",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
         "ticker": "120594",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
@@ -313,111 +205,147 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120621",
+        "ticker": "118348",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "135800",
+        "ticker": "118479",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120692",
+        "ticker": "118485",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118987",
+        "ticker": "118491",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119533",
+        "ticker": "118531",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119816",
+        "ticker": "118533",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "103490",
+        "ticker": "118537",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "111549",
+        "ticker": "118551",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "112039",
+        "ticker": "118692",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118267",
+        "ticker": "118736",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118272",
+        "ticker": "118778",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118510",
+        "ticker": "118794",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118872",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118879",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118881",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118883",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118927",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118935",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118936",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118950",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "118979",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119019",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119053",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119060",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119062",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119096",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119133",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119148",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119156",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "118589",
+        "ticker": "119160",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119178",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119189",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119331",
         "error": "The read operation timed out"
       },
       {
-        "ticker": "118601",
-        "error": "The read operation timed out"
-      },
-      {
-        "ticker": "118759",
+        "ticker": "119333",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118773",
+        "ticker": "119343",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "118791",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "118866",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "118870",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119269",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119275",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119277",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119279",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119292",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119298",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119307",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119323",
+        "ticker": "119347",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -425,7 +353,27 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
+        "ticker": "119351",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119354",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119364",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119393",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
         "ticker": "119397",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119404",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -433,31 +381,31 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119556",
+        "ticker": "119428",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119559",
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "ticker": "119517",
+        "error": "The read operation timed out"
       },
       {
-        "ticker": "119564",
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "ticker": "119566",
+        "error": "The read operation timed out"
       },
       {
-        "ticker": "119581",
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "ticker": "119591",
+        "error": "The read operation timed out"
       },
       {
-        "ticker": "119589",
-        "error": "Expecting value: line 1 column 1 (char 0)"
-      },
-      {
-        "ticker": "119595",
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "ticker": "119635",
+        "error": "The read operation timed out"
       },
       {
         "ticker": "119648",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119659",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -465,27 +413,143 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119783",
+        "ticker": "119721",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "119827",
+        "ticker": "119723",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120267",
+        "ticker": "119769",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120276",
+        "ticker": "119773",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120307",
+        "ticker": "119852",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "119874",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120333",
+        "ticker": "119886",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119893",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "119914",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120002",
+        "error": "The read operation timed out"
+      },
+      {
+        "ticker": "120003",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120016",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120019",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120030",
+        "error": "_ssl.c:999: The handshake operation timed out"
+      },
+      {
+        "ticker": "120032",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120034",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120046",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120048",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120069",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120073",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120077",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120079",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120082",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120100",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120147",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120492",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120494",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120517",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120539",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120575",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120578",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120592",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120599",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120656",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120665",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
@@ -493,15 +557,23 @@
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
+        "ticker": "120684",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
         "ticker": "120699",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120724",
+        "ticker": "120700",
         "error": "Expecting value: line 1 column 1 (char 0)"
       },
       {
-        "ticker": "120726",
+        "ticker": "120715",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "ticker": "120724",
         "error": "Expecting value: line 1 column 1 (char 0)"
       }
     ]
