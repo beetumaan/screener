@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-09-12T14:29:27.187184Z",
+  "lastSync": "2026-09-13T15:34:39.818196Z",
   "counts": {
     "india": 504,
     "us": 516,
@@ -8,7 +8,7 @@
   "coverage_v2": {
     "ownership_current": {
       "india": 500,
-      "us": 514
+      "us": 513
     },
     "ownership_trend": {
       "india": 477,
