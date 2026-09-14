@@ -1,40 +1,62 @@
 {
-  "lastSync": "2026-09-13T15:34:39.818196Z",
+  "lastSync": "2026-09-14T17:25:11.300107Z",
   "counts": {
-    "india": 504,
-    "us": 516,
+    "india": 502,
+    "us": 513,
     "mf": 300
   },
   "coverage_v2": {
     "ownership_current": {
-      "india": 500,
-      "us": 513
+      "india": 498,
+      "us": 510
     },
     "ownership_trend": {
-      "india": 477,
+      "india": 475,
       "us": 0
     },
     "valuation_context": {
-      "india": 504,
-      "us": 516
+      "india": 502,
+      "us": 513
     },
     "price_action": {
-      "india": 500,
-      "us": 515
+      "india": 498,
+      "us": 512
     },
     "earnings_surprises": {
-      "us": 511
+      "us": 508
     },
     "retail_signal": {
-      "india": 500
+      "india": 498
     },
     "promoter_activity": {
-      "india": 477
+      "india": 475
     }
   },
   "errors": {
-    "india": [],
-    "us": [],
+    "india": [
+      {
+        "ticker": "SCI.NS",
+        "error": "Failed to perform, curl: (28) Connection timed out after 30001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      },
+      {
+        "ticker": "ZEEL.NS",
+        "error": "Failed to perform, curl: (28) Connection timed out after 30002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      }
+    ],
+    "us": [
+      {
+        "ticker": "CMCSA",
+        "error": "Failed to perform, curl: (28) Connection timed out after 30001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      },
+      {
+        "ticker": "KHC",
+        "error": "Failed to perform, curl: (28) Connection timed out after 30000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      },
+      {
+        "ticker": "PPL",
+        "error": "Failed to perform, curl: (28) Connection timed out after 30002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      }
+    ],
     "mf": []
   }
 }
